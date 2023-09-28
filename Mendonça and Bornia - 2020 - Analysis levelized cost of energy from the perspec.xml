@@ -1,0 +1,1223 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Created from PDF via Acrobat SaveAsXML -->
+<!-- Mapping Table version: 28-February-2003 -->
+<TaggedPDF-doc>
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.1-c001 79.2a0d8d9, 2023/03/14-11:19:46        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <dc:format>xml</dc:format>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Weslen</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Microsoft Word - e53_PDF</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <xmp:CreateDate>2021-01-12T14:26:08-03:00</xmp:CreateDate>
+         <xmp:ModifyDate>2021-01-12T14:26:08-03:00</xmp:ModifyDate>
+         <pdf:Producer>Microsoft: Print To PDF</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+<?xpacket end='r'?>
+<Figure>
+
+<ImageData src="images/Mendonça and Bornia - 2020 - Analysis levelized cost of energy from the perspec_img_0.jpg"/>
+</Figure>
+<Figure>
+
+<ImageData src="images/Mendonça and Bornia - 2020 - Analysis levelized cost of energy from the perspec_img_1.jpg"/>
+</Figure>
+
+<P>REGET, Santa Maria v.24, e53, 2020 DOI: https://doi.org/10.5902/2236117043709 ISSN 2236-1170 </P>
+<Figure>
+
+<ImageData src="images/Mendonça and Bornia - 2020 - Analysis levelized cost of energy from the perspec_img_2.jpg"/>
+EnvironmentalTechnologySubmissão:22/04/20Aprovação:07/07/20Publicação:04/09/20</Figure>
+
+<Part>
+<H3>Analysis levelized cost of energy from the perspective of an power purchase agreements for airborne wind power technology </H3>
+
+<Sect>
+<H3>Análise de custo nivelado da energia da perspectiva de um contrato de compra de energia para a tecnologia de energia eólica aerotransportada </H3>
+
+<P>Anny Key de Souza MendonçaI Antonio Cezar BorniaII </P>
+
+<P>Abstract </P>
+
+<P>With the need to diversify the national electric matrix to expand the generation capacity, the searches for new technologies capable of contributing to supply the national demand are fundamental. In this sense, the development of wind energy technology, but specifically high-altitude wind energy using wired airfoils, is an attractive possibility, given the high national wind potential. This research aimed to analyze the cost models used in the literature to assess the leveled cost of energy (LCOE) from the perspective of an power purchase agreements (PPAs) and to simulate the leveled cost of energy for a wind farm with the innovative technology of wired airfoils. For this, we chose two cities Fortaleza (CE) and Florianópolis (SC) to carry out the simulations. The wind farms are identical, with the same number of wind turbines, the parameters that have been modified are, the amount of energy supplied by each of the scenarios, to visualize the influence of the capacity factor of each scenario within the real and nominal LCOE and the PPA real and nominal after 20 years of analysis. As wind energy is not a constant source of supply, the simulation considered the limits of energy delivery that are above or below the minimum limit of energy delivery. The results demonstrated economic viability in almost all scenarios, with greater attractiveness for scenarios with an increase in the capacity factor. When financial parameters such as federal and state charges are varied downwards, all scenarios investigated are attractive to development with an IRR greater than the reference value. </P>
+
+<P>Keywords: Levelized cost of energy. Power purchase agreements </P>
+
+<P>I Dra, Department of Production and Systems Engineering, Federal University of Santa Catarina, SC, Brazil – anny.mendonca@posgrad.ufsc.br II Full Professor, Department of Production and Systems Engineering, Federal University of Santa Catarina, SC, Brazil -cezar.bornia@ufsc.br </P>
+
+<P>Resumo </P>
+
+<P>Com a necessidade de diversificar a matriz elétrica nacional para expandir a capacidade de geração, são fundamentais as buscas por novas tecnologias capazes de contribuir para suprir a demanda nacional. Nesse sentido, o desenvolvimento da tecnologia de energia eólica, mas especificamente a energia eólica de alta altitude, utilizando perfis aerodinâmicos com fio, é uma possibilidade atraente, dado o alto potencial eólico nacional. Esta pesquisa teve como objetivo analisar os modelos de custo utilizados na literatura para avaliar o custo nivelado de energia (LCOE) da perspectiva de um contrato de compra de energia (PPAs) e simular o custo nivelado de energia de um parque eólico com a inovadora tecnologia de aerofólios cabeados. Para isso, escolhemos duas cidades Fortaleza (CE) e Florianópolis (SC) para realizar as simulações. Os parques eólicos são idênticos, com o mesmo número de turbinas eólicas, os parâmetros que foram modificados são a quantidade de energia fornecida por cada um dos cenários, para visualizar a influência do fator de capacidade de cada cenário no LCOE real e nominal e o PPA real e nominal após 20 anos de análise. Como a energia eólica não é uma fonte constante de suprimento, a simulação considerou os limites de fornecimento de energia que estão acima ou abaixo do limite mínimo de fornecimento. Os resultados demonstraram viabilidade econômica em quase todos os cenários, com maior atratividade para cenários com aumento no fator de capacidade. Quando os parâmetros financeiros, como os encargos federais e estaduais, são variados para baixo, todos os cenários investigados são atraentes para o desenvolvimento com uma TIR maior que o valor de referência. </P>
+
+<P>Palavras-chave: Custo nivelado de energia. Contratos de compra de energia. </P>
+
+<Sect>
+<H3>1 Introduction </H3>
+
+<P>Brazil, as a developing country, has been modifying and encouraging the development of its electrical system, with the unbundling of energy generation, distribution, transmission and commercialization activities and the implementation of regulatory efficiency mechanisms, promoting competition (Tolmasquim, 2011). These changes were indispensable to enable the expansion of the electric power generation capacity due to the increased demand resulting from the country's economic growth. </P>
+
+<P>With the enactment of Law No. 8,987 / 95, which provides for the regime for the concession and permission of public services (BRASIL, 1995a), and Law No. 9,074 / 95, which shows which services are the object of concession (BRASIL, 1995b), regulated by Decrees No. 1,717 / 95 and No. 2,003 / 96, marked the beginning of the restructuring of the institutional model of the Brazilian Electric System. </P>
+
+<P>With the creation of the energy commercialization segment, the insertion of the Independent Energy Producer (PIE) and the free consumer, the electric energy services that were provided by the public sector started to be also provided by the private sector, through contracts for purchase and sale of electricity traded in the Free Contracting Environment (ACL) and or Regulated Contracting Environment (ACR) (BRASIL, 2004). The independent energy producer and the free consumer ensured the opening of public electricity services to private agents, guaranteeing free access to transmission and distribution systems for independent producers and independence for medium and large consumers to choose their suppliers. power. </P>
+
+<P>Energy commercialization is an increasingly important issue in the world, and in general, they vary from one source to another. In order to keep the price of energy as low as possible, and to control the risks associated with the generation and transmission of energy, energy purchase and sale contracts are generally used. </P>
+
+<P>An Power Purchase Agreements (PPA) is a contract between two parties, one that generates electricity (the seller) and one that buys electricity (the buyer). The PPA defines all commercial terms for the purchase and sale of electricity between the two parties, including when the project will start commercial operations, schedules for electricity delivery, fines for insufficient delivery, payment terms and termination. </P>
+
+<P>Since wind power is not a constant source of supply, to keep risk low, energy purchase and sale contracts contain clauses that require that the purchase and sale of energy be made within acceptable delivery limits. However, the energy delivery limits imposed by the energy purchase contracts impact the leveled cost of energy and the existing cost models do not take into account purchase limitations and or, variations in energy in their production when being calculated. Based on the variation of parameters, such as capacity factor and economic parameters, such as the inflation rate, the energy generator (seller) can understand that the limitations of energy purchase given by the concessionaire (buyer) are not favorable, and may result in higher energy costs than expected. In this research, we analyze the cost models used in the literature to assess the level cost of energy from the perspective of an energy purchase contract. </P>
+</Sect>
+
+<Sect>
+<H3>2 Innovative Airborne wind energy technology </H3>
+
+<P>Airborne Wind Energy (AWE), is a renewable energy technology that uses aerial devices to harness wind energy and are able to stay in the air through aerodynamic forces or aerostatic forces (Archer & Caldeira, 2009). The research field with airborne wind energy technology has attracted a lot of interest in recent years (Cherubini, Papini, Vertechy, & Fontana, 2015; Mendonça, Vaz, Lezana, Anacleto, & Paladini, 2017), mainly due to the drastic reduction of materials and for extracting energy from high altitude winds where conventional tower-based wind turbines cannot reach (Ahrens, Diehl, & Schmehl, 2014). The main advantages of this technology are the replacement of the wind turbine towers with cables, and the rotor blades with wired airfoils. There are several possible configurations for exploring energy at high altitude, such as a system with generation on the ground and in flight, using airfoils that can be both a balloon and a device similar to a paraglider, kitesurf or airplane wing (Diehl, 2014). Other advantages of this new technology are the reduction in transport and installation costs, providing a reduction in the cost of the energy produced (De Lellis, Mendonça, Saraiva, Trofino, & Lezana, 2016). The basic concept of AWE technology is shown in Figure 1. </P>
+
+<P>Figure 1 -Comparison between the operating principles of conventional wind energy technology and AWE technology with wired airfoils. </P>
+<Figure>
+
+<ImageData src="images/Mendonça and Bornia - 2020 - Analysis levelized cost of energy from the perspec_img_3.jpg"/>
+</Figure>
+
+<P>Source: Adapted from (Fagiano, Milanese, & Piga, 2010). </P>
+
+<P>Several structures with wired airfoils have already been proposed in the literature, among which Pumping Kite stands out. In this configuration, the airfoil is connected to the ground through a cable of variable length, wrapped in a drum, whose axis is connected to the generator. As the airfoil moves away from the wind, the cable is unwound, causing the drum and generator to rotate, thus generating energy. When the maximum cable length is reached, power generation is interrupted, the airfoil is reconfigured to reduce cable traction as much as possible and the airfoil is collected using a small part of the generated energy. As soon as the airfoil is brought to the starting point (initial cable length), the airfoil is reconfigured again to increase the traction on the cable and the generation phase is restarted. The energy produced in the generation phase minus the energy spent in the recovery phase is the energy that the Pumping Kite system can effectively supply. </P>
+
+<P>According to (Diehl, 2018), the technological development of wind energy with wired airfoils is well advanced and progressing towards the introduction of the technology in the market. Although the theoretical and technical foundations of the various concepts of wind </P>
+
+<P>Analysis levelized cost of energy from the perspective of an power purchase agreements for airborne wind power technology </P>
+
+<P>6 </P>
+
+<P>energy conversion are well understood, the economic potential of distributed energy generation, both on a small scale and on a large scale under real-world conditions, is still under investigation. </P>
+</Sect>
+
+<Sect>
+<H3>3 Literature Review on Levelized Cost of Energy (LCOE) and Power Purchase Agreements (PPAs) </H3>
+
+<P>The literature review was conducted based on the Capes journal portal, the Web of Science (WoS) because it is widely used for scientific literature research (Aghaei Chadegani et al., 2013). The research strategy was conducted by combining the keywords TS = (&quot;Levelized cost of energy" OR &quot;Power Purchase Agreements&quot;) for a period of 5 years. This search presented a total of 367 documents, of which only 14 documents were selected. Table 1 presents the selected articles, including the title, authors' names, year of publication and the Journal. </P>
+
+<P>Table 1 -Articles from the bibliographic portfolio </P>
+
+<Table>
+<TR>
+<TH>Title </TH>
+
+<TH>Author </TH>
+
+<TH>Year </TH>
+
+<TH>Journal </TH>
+</TR>
+
+<TR>
+<TD>Maintenance scheduling based on remaining useful life predictions for wind farms managed using power purchase agreements </TD>
+
+<TD>Lei, Xin and Sandborn, Peter </TD>
+
+<TD>2018 </TD>
+
+<TD>Renewable Energy </TD>
+</TR>
+
+<TR>
+<TD>A Levelized Cost of Energy (LCOE) model for wind farms that include Power Purchase Agreements (PPAs) </TD>
+
+<TD>Bruck, M.; Sandborn, P.; Goudarzi, N. </TD>
+
+<TD>2018 </TD>
+
+<TD>Renewable Energy </TD>
+</TR>
+
+<TR>
+<TD>Evaluating the link between LCOE and PPA elements and structure for wind energy </TD>
+
+<TD>Lindsay Miller; Rupp Carriveau; Scott Harper; Someshwar Singh </TD>
+
+<TD>2017 </TD>
+
+<TD>Energy Strategy Reviews </TD>
+</TR>
+
+<TR>
+<TD>Tall towers, long blades and manifest destiny: The migration of land-based wind from the Great Plains to the thirteen colonies </TD>
+
+<TD>Burt, M.; Firestone, J.; Madsen, J. A.; Veron, D. E.; Bowers, R. </TD>
+
+<TD>2017 </TD>
+
+<TD>Applied Energy </TD>
+</TR>
+
+<TR>
+<TD>Sizing and economic analysis of stand alone photovoltaic system with hydrogen storage </TD>
+
+<TD>Nordin, N. D.; Rahman, H. A. </TD>
+
+<TD>2017 </TD>
+
+<TD>2017 International Conference on New Energy and Future Energy System </TD>
+</TR>
+
+<TR>
+<TD>Tall towers, long blades and manifest destiny: The mi-gration of land-based wind from the Great Plains to the thirteen colonies </TD>
+
+<TD>Burt, M.; Firestone, J.; Madsen, J. A.; Veron, D. E.; Bowers, R. </TD>
+
+<TD>2017 </TD>
+
+<TD>Applied Energy </TD>
+</TR>
+
+<TR>
+<TD>A Levelized Cost of Energy (LCOE) Model for Wind Farms that Includes Power Purchase Agreement (PPA) Energy Delivery Limits </TD>
+
+<TD>Bruck, M.; Goudarzi, N.; Sandborn, P. </TD>
+
+<TD>2016 </TD>
+
+<TD>Proceedings of the Asme Power Conference, 2016 </TD>
+</TR>
+
+<TR>
+<TD>2050 LCOE (Levelized Cost of Energy) projection for a hybrid PV (photovoltaic)-CSP (concentrated solar power) plant in the Atacama Desert, Chile </TD>
+
+<TD>Parrado, C.; Girard, A.; Simon, F.; Fuentealba, E. </TD>
+
+<TD>2016 </TD>
+
+<TD>Energy </TD>
+</TR>
+</Table>
+
+<Table>
+<Caption>
+<P>Mendonça, A. K S., Bornia, A. C </P>
+</Caption>
+
+<TR>
+<TD>2050 LCOE improvement using new molten salts for thermal energy storage in CSP plants </TD>
+
+<TD>Parrado, C.; Marzo, A.; Fuentealba, E.; Fernandez, A. G. </TD>
+
+<TD>2016 </TD>
+
+<TD>Renewable & Sustainable Energy Reviews </TD>
+</TR>
+
+<TR>
+<TD>Estimating Project LCOE -an Analysis of Geothermal PPA Data </TD>
+
+<TD>Hernandez, K.; Richard, C.; Nathwani, J. </TD>
+
+<TD>2016 </TD>
+
+<TD>Proceedings 41st Workshop on Geothermal Reservoir Engineering, Stanford University </TD>
+</TR>
+
+<TR>
+<TD>A novel optimization method for designing stand alone photovoltaic system </TD>
+
+<TD>Nordin, N. D.; Rahman, H.A. </TD>
+
+<TD>2016 </TD>
+
+<TD>Renewable Energy </TD>
+</TR>
+
+<TR>
+<TD>Exploring the market for third-party-owned residential photovoltaic systems: insights from lease and power purchase agreement contract structures and costs in California </TD>
+
+<TD>Davidson, C.; Steinberg, D.; Margolis, R. </TD>
+
+<TD>2015 </TD>
+
+<TD>Environmental Research Letters </TD>
+</TR>
+
+<TR>
+<TD>An Optimization Method for Designing Stand Alone Photovoltaic System Using Iterative Method </TD>
+
+<TD>Nordin, N. D.; Rahman, H. A. </TD>
+
+<TD>2015 </TD>
+
+<TD>2015 IEEE International Conference on Smart Energy Grid Engineering </TD>
+</TR>
+
+<TR>
+<TD>Photovoltaic performance and LCoE comparison at the coastal zone of the Atacama Desert, Chile </TD>
+
+<TD>Fuentealba, E.; Ferrada, P.; Araya, F.; Marzo, A.; Parrado, C.; Portillo, C. </TD>
+
+<TD>2015 </TD>
+
+<TD>Energy Conversion and Management </TD>
+</TR>
+</Table>
+
+<P>According to the literature, an energy purchase and sale contract is based on performance, also known as a result-based contract, for the purchase and sale of energy between a (buyer) who wants to buy energy (for example, a concessionary) and one (seller) that generates energy (for example, wind farm operator) (Lei & Sandborn, 2018). The use of energy purchase contracts is increasing for wind power technology (Wiser & Bolinger, 2015). According to (Mendicino, Menniti, Pinnarelli, & Sorrentino, 2019) projects with global power purchase agreeents (PPAs) reached 35 GW of installed energy in 2018, and that the first companies that started to acquire energy through PPAs were by example “Amazon, Google, Microsoft, Walmart”. The term of the contract and the price list are generally defined in the contract, the term being typically 20 years (Hernandez, Richard, & Nathwani, 2016; Lei & Sandborn, 2018). </P>
+
+<P>The research developed by (Lei & Sandborn, 2018), presents a model for maintaining wind farms that includes an energy purchase contract. The authors presented a case study in which the optimal opportunity for predictive maintenance of a wind farm is determined using an energy purchase contract. </P>
+
+<P>(Bruck, Goudarzi, & Sandborn, 2016; Bruck, Sandborn, & Goudarzi, 2018) developed an LCOE model that includes energy delivery limits in an energy purchase agreement. The authors tested the model with real data from a wind farm to assess the price of electricity. </P>
+
+<P>(Miller, Carriveau, Harper, & Singh, 2017) analyzed the level-cost components of wind energy to find out how the inclusion or exclusion of different components can lead to a significant disparity in values. The authors pointed out the cost components that homeowners should consider, but can neglect, based on current calculation methods to help ensure that homeowners have as complete information as possible about their project life cycle costs when negotiating. a long-term power purchase agreement. </P>
+
+<P>(Burt, Firestone, Madsen, Veron, & Bowers, 2017) developed a case study where they used rural data from Sussex County, Delaware, US, to study the economic viability of wind farms. They used a multidisciplinary approach and defined the leveled cost of energy to be US $ 70 / MWh. </P>
+
+<P>The research developed by (Hernandez et al., 2016), presents a levelized cost of energy analysis for geothermal power plants. The analysis estimates a range of energy cost values based on publicly available information and direct energy sector data for individual energy purchase contracts. </P>
+
+<P>(Davidson, Steinberg, & Margolis, 2015) analyzed the residential market owned by third parties, using contract data from the California Solar Initiative, during the period 20102012. For analysis, they used a sample of 1,113 contracts to assess how third party ownership contract structures vary and how this translates into a final contract price. </P>
+
+<P>(Fuentealba et al., 2015) developed an economic analysis to quantify the relationship between the accumulation of dust in photovoltaic solar modules and the cost of these effects on the project's viability. They used the levelized cost of energy as an analysis metric. </P>
+
+<P>(Parrado, Girard, Simon, & Fuentealba, 2016; Parrado, Marzo, Fuentealba, & Fernández, 2016) conducted a study to calculate the levelized cost of energy for a solar energy mix in Chile. For that, they used as a first approach the levelized cost of energy for the current technologies of PV (photovoltaic) and CSP (concentrated solar power). The second approach used, economically evaluates the level energy cost for a hybrid Solar, PV and CSP plant. They also projected a current and future levelized cost scenario for solar energy in northern Chile. </P>
+
+<P>The authors, (N. Nordin & Rahman, 2017; N. D. Nordin & Rahman, 2015, 2016) developed an optimization method for dimensioning and designing autonomous photovoltaic systems. They developed a case study, with reference to meteorological data and load profile typical of rural Malaysia, simulated and compared the results to three selected literature searches. The ideal project chosen was carried out based on the lowest levelized cost of energy. </P>
+
+<P>An power purchase agreements is a results-based contract for both the purchase and sale of energy (Bruck et al., 2016; Bruck et al., 2018; Lei & Sandborn, 2018). According to (Bruck et al., 2016; Bruck et al., 2018; Lei & Sandborn, 2018) wind farms are managed by an power purchase agreements for several reasons: </P>
+
+<P>Although wind energy can be sold on the local energy market, revenue is uncertain due to the intermittency of wind resources, and average prices in the local market tend to be lower than power purchase agreements prices; </P>
+
+<P>The power purchase agreements guarantee a revenue stream in which, the energy generated and delivered, will be paid through an agreed price list. </P>
+
+<P>The levelized cost of energy for the wind energy project represents the estimated cost to generate electricity, and is forecasted for the entire term of the contract (Vazquez & Iglesias, 2016). The price of energy in a purchase contract is negotiated based on the capped cost of energy by accounting for possible risks that could increase the levelized cost of energy real (Bruck et al., 2016). In a contract, the buyer can agree to pay for each unit of energy generated and delivered at an established price, in addition, the contract can also establish a minimum energy delivery limit, a maximum energy delivery limit or both for one year. </P>
+
+<P>Although the contract covers, in general, all costs involved, the standard energy levelized cost models do not consider as cost the penalties for non-compliance with annual energy delivery limits. Table 2 shows the LCOE methods found in the literature. </P>
+
+<P>Table 2 -Level energy cost models found in the literature. </P>
+
+<Table>
+<TR>
+<TD>Author (Short, Packey, & Holt, 1995) </TD>
+
+<TD>LCOE 𝑇𝐿𝐶𝐶 𝐿𝐶𝑂𝐸 = = Ç 𝑄∑5 (1 + 𝑑)á </TD>
+
+<TD>Ç 𝐶∑4 (1 + 𝑑)á Ç 𝑄∑5 (1 + 𝑑)á </TD>
+
+<TD>PPA The power purchase agreements for this method is developed based on the calculation of the cash flow of the project's useful life. </TD>
+</TR>
+
+<TR>
+<TD>(Blair et al., 2014) </TD>
+
+<TD>á 𝐼Ü + 𝑀ç + 𝐹∑5 (1 + 𝑟)ç 𝐿𝐶𝑂𝐸 = á 𝐸∑5 (1 + 𝑟)ç </TD>
+
+<TD/>
+
+<TD>The method developed by the National Renewable Energy Laboratory (NREL) -System Advisor Model (SAM) does not include tax credits. The discounted LCOE is used to calculate the PPA price. </TD>
+</TR>
+</Table>
+
+<Table>
+<TR>
+<TD>(Ragheb, 2015) (Aldersey-Williams & Rubert, 2019) </TD>
+
+<TD>á (𝐼ç + 𝑂&amp;𝑀ç + 𝐹Ü − 𝑃𝑇𝐶? 𝐷ç + 𝑇ç + 𝑅)∑5 (1 + 𝑖)ç LCOE = á 𝐼𝐹 ∑ 𝑃5 𝑁𝑃𝑉æ á 𝐶ç + 𝑂ç + 𝑉= ∑𝑁𝑃𝐸 (1 + 𝑑)ç 𝐿𝐶𝑂𝐸 = á 𝐸∑ 5 (1 + 𝑑)ç </TD>
+
+<TD>This method recognizes that tax credits (PTC) reduce the total cost of energy. The method incorporates fuel costs (F) and royalties (R) that are not important for wind sources. This method takes into account costs over the life of a project. </TD>
+</TR>
+
+<TR>
+<TD>(Bruck et al., 2018) </TD>
+
+<TD>á 𝐼Ü + 𝑜𝑀Ü + 𝐹Ü − 𝑇𝐶Ü + 𝑃𝑒𝑛∑4 (1 + 𝑟)Ü 𝐿𝐶𝑂𝐸 = á 𝐸∑4 (1 + 𝑟)Ü </TD>
+
+<TD>This method uses the method developed by NREL and has focused on the effect of the penalties for the cost of energy. </TD>
+</TR>
+</Table>
+</Sect>
+
+<Sect>
+<H3>4 Method </H3>
+
+<P>This research makes use of the standard methodology for calculating LCOE provided by (Short et al., 1995) and presented in Equation (1): </P>
+
+<P>R Cl </P>
+
+<P>4 </P>
+
+<P>TLCC ∑ (1+d)l LCOE = = , (1) </P>
+
+<P>Ql Ql </P>
+
+<P>5 5 </P>
+
+<P>∑ (1+d)l ∑ (1+d)l </P>
+
+<P>where Cn is the total cost of the life cycle, Qn is the amount of energy generated in year n, d is the discount rate and appears in equation (1) to offset the value of money over time, N is the analysis period and n is the product of the nominal power and the capacity factor for the year. To calculate the LCOE, you must first calculate the total life cycle cost (TLCC), which is the present value of the project's costs over its lifetime. </P>
+
+<P>According to (Short et al., 1995), the calculation of the TLCC is a key point of the LCOE estimates, being used to evaluate the differences in costs between alternative projects. The formula for calculating the total life cycle cost (TLCC) is presented in Equation (2). </P>
+
+<P>I4 −(T∗ PVDEP)+PVOM(1− T) </P>
+
+<P>TLCC = , (2) </P>
+
+<P>(1− T) </P>
+
+<P>the total life cycle cost (TLCC) is referenced to the initial time (zero), the present values of depreciation expenses (PVDEP) and operating and maintenance expenses (PVOM), are subtracted annually from the initial investment costs (I0), T represents the income tax rate and (1-T) is used to reflect the after-tax amount of O&amp;M expenses annually. </P>
+
+<P>The LCOE calculation is derived from the total life cycle cost (TLCC) formula. As the LCOE is, by definition, constant, once calculated, it can be factored from the sum in Equation (1). The remaining task is to calculate the discounted value of the annual energy production, the sum of these values is divided by the cost of the total life cycle. </P>
+
+<P>However, LCOE methods do not consider all the cost parameters that a wind farm managed through an power purchase agreement considers. Power purchase agreements may define an annual maximum energy delivery limit, an annual minimum energy delivery limit, or none of them. Energy delivery limits are cost parameters that are not normally taken into account in a standard capped energy cost model (Bruck et al., 2016; Bruck et al., 2018; Lei & Sandborn, 2018). </P>
+
+<P>For this reason, we have included in the LCOE method developed by Short (Short et al., 1995) the method developed by (Bruck et al., 2018) which considers a penalty cost for the delivery of energy different from that defined in the purchase contract for energy. This method reflects energy production costs that are above or below the minimum limit for energy delivery. The analyzes are initiated with the level cost method presented in equation (1), and changed to include the penalties for energy delivery. The cost of insufficient energy delivery is defined as the difference between the energy that was generated and delivered and the limit for the minimum penalty based on the expected energy production. This cost can be calculated using equation (3) developed by (Bruck et al., 2018). </P>
+
+<P>l I+oM+F− TC+Pen∑</P>
+
+<P>4 </P>
+
+<P>(1+ r)g </P>
+
+<P>LCOE = , (3) </P>
+
+<P></P>
+
+<P>∑ Eg </P>
+
+<P>4 </P>
+
+<P>(1+ r)g </P>
+
+<P>where the sums in the numerator and denominator start at i=0, , assuming that the investment cost (I) comes from the depreciation of the Modified Accelerated Cost Recovery System -MACRS. The asset must depreciate its capital costs with the following annual schedule, 33.33%, 44.45%, 14.81%, 7.41%, 11.52% and 5.76% over 6 years. </P>
+
+<P>The Peng in year i is the sum of the production loss and the penalty cost and the tax credit in year i (TC) assumes all types of tax credits that can be applied to a wind farm. The TC is assumed to be equal to $ 0.05 converted to R $ 0.21 per KWh sold (Bruck et al., 2018). </P>
+
+<P>The Investment of wind farm scenarios using wired airfoils, was adapted from (De Lellis et al., 2016) and shown in Table 3. </P>
+
+<P>Table 3 -Total investment for the considered scenario. </P>
+
+<Table>
+<TR>
+<TD>Category </TD>
+
+<TD>Scenario PK </TD>
+</TR>
+
+<TR>
+<TD>Transmission Line 69 kV </TD>
+
+<TD>138.000,00 </TD>
+</TR>
+
+<TR>
+<TD>Execution Civil Work of the wind farm </TD>
+
+<TD>21.696.405,82 </TD>
+</TR>
+
+<TR>
+<TD>Road access </TD>
+
+<TD>228.302,48 </TD>
+</TR>
+
+<TR>
+<TD>Construction, civil work of the substation </TD>
+
+<TD>5.600.000,00 </TD>
+</TR>
+
+<TR>
+<TD>Engineering and consulting </TD>
+
+<TD>1.600.000,00 </TD>
+</TR>
+
+<TR>
+<TD>Implementation of the Wind Farm </TD>
+
+<TD>3.388.554,00 </TD>
+</TR>
+
+<TR>
+<TD>Topography Study </TD>
+
+<TD>7.940,00 </TD>
+</TR>
+
+<TR>
+<TD>Generation units </TD>
+
+<TD>62.825.186,21 </TD>
+</TR>
+
+<TR>
+<TD>Archaeologycal Services </TD>
+
+<TD>82.000,00 </TD>
+</TR>
+
+<TR>
+<TD>Legal Services </TD>
+
+<TD>88.852,10 </TD>
+</TR>
+
+<TR>
+<TD>Transport and assembling </TD>
+
+<TD>2.370.837,00 </TD>
+</TR>
+
+<TR>
+<TD>Intermediate voltage transmission line (EPC) </TD>
+
+<TD>3.349.800,00 </TD>
+</TR>
+
+<TR>
+<TD>Transmission Line (EPC) for 69 kV </TD>
+
+<TD>3.998.700,00 </TD>
+</TR>
+
+<TR>
+<TD>Total Investment R$ </TD>
+
+<TD>105.374.577,61 </TD>
+</TR>
+</Table>
+
+<P>Source: Adapted from (De Lellis et al., 2016). </P>
+
+<P>Considering the existing public policies for wind energy technology, equal financial parameters were created for the scenarios investigated, as shown in Table 4. </P>
+
+<P>Table 4 -Common input data for scenarios </P>
+
+<Table>
+<TR>
+<TD>PIS / PASEP, COFINS (percentage of income) </TD>
+
+<TD>9.25% </TD>
+</TR>
+
+<TR>
+<TD>CSLL (social contribution on net income) </TD>
+
+<TD>9% </TD>
+</TR>
+
+<TR>
+<TD>ICMS (for some states) </TD>
+
+<TD>0% </TD>
+</TR>
+
+<TR>
+<TD>Financing in years </TD>
+
+<TD>14 </TD>
+</TR>
+
+<TR>
+<TD>Cost of land rent (percentage of income) </TD>
+
+<TD>1.5 % </TD>
+</TR>
+
+<TR>
+<TD>Interest rate (% p.a.) </TD>
+
+<TD>7.36 </TD>
+</TR>
+
+<TR>
+<TD>Transmission cost (TUST) (1st year) R $ / kW </TD>
+
+<TD>5.913 </TD>
+</TR>
+
+<TR>
+<TD>Transmission cost (TUST) (2nd year) R $ / kW </TD>
+
+<TD>5.677 </TD>
+</TR>
+
+<TR>
+<TD>Transmission cost (TUST) (3rd year) R $ / kW </TD>
+
+<TD>5.441 </TD>
+</TR>
+
+<TR>
+<TD>Transmission cost (TUST) (4th year) R $ / kW </TD>
+
+<TD>5.205 </TD>
+</TR>
+
+<TR>
+<TD>Transmission cost (TUST) (5th year) R $ / kW </TD>
+
+<TD>4.969 </TD>
+</TR>
+</Table>
+
+<Table>
+<Caption>
+<P>Mendonça, A. K S., Bornia, A. C </P>
+</Caption>
+
+<TR>
+<TD>Transmission cost (TUST) (6th year) R $ / kW </TD>
+
+<TD>4.732 </TD>
+</TR>
+
+<TR>
+<TD>O&amp;M cost (years 1–5) (percentage of investment) </TD>
+
+<TD>2.0 </TD>
+</TR>
+
+<TR>
+<TD>O&amp;M cost (years 6–10) (percentage of investment) </TD>
+
+<TD>4.0 </TD>
+</TR>
+
+<TR>
+<TD>O&amp;M cost (11–20 years) (percentage of investment) </TD>
+
+<TD>5.0 </TD>
+</TR>
+
+<TR>
+<TD>Distribution Cost (TUSD) (R $ / kW) </TD>
+
+<TD>6.22 </TD>
+</TR>
+
+<TR>
+<TD>Inflation </TD>
+
+<TD>4.31% </TD>
+</TR>
+
+<TR>
+<TD>Credit or debt </TD>
+
+<TD>63.5 % </TD>
+</TR>
+
+<TR>
+<TD>Equity </TD>
+
+<TD>36.5 % </TD>
+</TR>
+
+<TR>
+<TD>IRR target (Internal retort rate reference) </TD>
+
+<TD>10,0% </TD>
+</TR>
+
+<TR>
+<TD>Real discount rate </TD>
+
+<TD>14.97% </TD>
+</TR>
+
+<TR>
+<TD>Amortization period (year) </TD>
+
+<TD>14 </TD>
+</TR>
+</Table>
+
+<P>The acronym TUST and TUSD represent the fees for the use of the electricity transmission and distribution system, while PIS / PASEP and COFINS are other national taxes. The total interest rate of 7.36% a.a is composed of approximately 6% of the long-term interest rate, 0.9% of the basic spread and 0.4% of the risk spread and corresponds to that used by the National Economic Development Bank (BNDES), which is the financing institution. </P>
+
+<P>Table 5 presents the parameters that have been modified, in this case, the amount of energy supplied by each scenario, to visualize the influence of the capacity factor of each scenario within the real and nominal LCOE and the real and nominal PPA of the investigated scenarios. at the end of 20 years of analysis. </P>
+
+<P>Table 5 -Variation in energy production </P>
+<Figure>
+
+<ImageData src="images/Mendonça and Bornia - 2020 - Analysis levelized cost of energy from the perspec_img_4.jpg"/>
+Fortaleza(CE)Fortaleza(CE)Floriaópolis(SC)WiredAirfoilsWindTurbineWiredAirfoilsScenarioAScenarioBScenarioC126159,8126159,8126159,8126159,8125655,1126664,4126159,8125152,5127171,1126159,8124651,9127679,7126159,8124153,3128190,5126159,8123656,7128703,2126159,8123162,1129218,0126159,8122669,4129734,9126159,8122178,7130253,9126159,8121690,0130774,9126159,8121203,3131298,0126159,8120718,4131823,2</Figure>
+
+<P>Scenario Scenario Scenario Scenario Scenario Scenario ABC ABC </P>
+
+<P>167734,7 167734,7 167734,7 115379,7 115379,7 115379,7 167734,7 167063,8 168405,7 115379,7 114918,2 115841,2 167734,7 166395,5 169079,3 115379,7 114458,5 116304,6 167734,7 165730,0 169755,6 115379,7 114000,7 116769,8 167734,7 165067,0 170434,6 115379,7 113544,7 117236,9 167734,7 164406,8 171116,4 115379,7 113090,5 117705,8 167734,7 163749,1 171800,8 115379,7 112638,1 118176,7 167734,7 163094,1 172488,0 115379,7 112187,6 118649,4 167734,7 162441,8 173178,0 115379,7 111738,8 119124,0 167734,7 161792,0 173870,7 115379,7 111291,9 119600,5 167734,7 161144,8 174566,2 115379,7 110846,7 120078,9 126159,8 </P>
+
+<Table>
+<TR>
+<TD>167734,7 </TD>
+
+<TD>160500,2 </TD>
+
+<TD>175264,4 </TD>
+</TR>
+</Table>
+
+<Table>
+<TR>
+<TD>115379,7 </TD>
+
+<TD>110403,3 </TD>
+
+<TD>120559,2 </TD>
+</TR>
+</Table>
+<Figure>
+
+<ImageData src="images/Mendonça and Bornia - 2020 - Analysis levelized cost of energy from the perspec_img_5.jpg"/>
+167734,7159858,2175965,5115379,7109961,7121041,4</Figure>
+
+<P>120235,6 </P>
+
+<P>132350,5 132879,9 133411,4 133945,0 134480,8 135018,7 135558,8 </P>
+<Figure>
+
+<ImageData src="images/Mendonça and Bornia - 2020 - Analysis levelized cost of energy from the perspec_img_6.jpg"/>
+167734,7156059,8180231,1115379,7107348,9123975,6126159,8117378,6</Figure>
+<Figure>
+
+<ImageData src="images/Mendonça and Bornia - 2020 - Analysis levelized cost of energy from the perspec_img_7.jpg"/>
+167734,7156686,6179513,1115379,7107780,0123481,7126159,8117850,0</Figure>
+<Figure>
+
+<ImageData src="images/Mendonça and Bornia - 2020 - Analysis levelized cost of energy from the perspec_img_8.jpg"/>
+167734,7157315,8178797,9115379,7108212,9122989,7126159,8118323,3</Figure>
+<Figure>
+
+<ImageData src="images/Mendonça and Bornia - 2020 - Analysis levelized cost of energy from the perspec_img_9.jpg"/>
+167734,7157947,6178085,5115379,7108647,4122499,7126159,8118798,5</Figure>
+<Figure>
+
+<ImageData src="images/Mendonça and Bornia - 2020 - Analysis levelized cost of energy from the perspec_img_10.jpg"/>
+167734,7158581,9177376,0115379,7109083,8122011,7126159,8119275,6</Figure>
+<Figure>
+
+<ImageData src="images/Mendonça and Bornia - 2020 - Analysis levelized cost of energy from the perspec_img_11.jpg"/>
+167734,7159218,8176669,4115379,7109521,9121525,6126159,8119754,6</Figure>
+<Figure>
+
+<ImageData src="images/Mendonça and Bornia - 2020 - Analysis levelized cost of energy from the perspec_img_12.jpg"/>
+167734,7155435,6180952,1</Figure>
+<Figure>
+
+<ImageData src="images/Mendonça and Bornia - 2020 - Analysis levelized cost of energy from the perspec_img_13.jpg"/>
+115379,7106919,5124471,5</Figure>
+
+<P>126159,8 </P>
+
+<P>116909,1 </P>
+
+<P>136101,0 </P>
+</Sect>
+
+<Sect>
+<H3>5 Results and Discussion </H3>
+
+<P>The analyzes in this study were separated into three scenarios for two different locations, Fortaleza (CE) and Florianópolis (SC). Each scenario explored the actual and nominal LCOEs produced by a real wind farm and two hypothetical wind farms (with simulated Capacity Factor). Wind farms have identical configurations, as shown in Table 6, the same amount of generation unit and installed capacity, changing only the capacity factor. </P>
+
+<P>Table 6 -Characteristics of the investigated wind farm scenarios </P>
+
+<Table>
+<TR>
+<TH>Characteristic </TH>
+
+<TH>Fortaleza (CE) </TH>
+
+<TH>Florianópolis (SC) </TH>
+
+<TH>Fortaleza (CE) </TH>
+</TR>
+
+<TR>
+<TD>Generation units -2 MW </TD>
+
+<TD>21 Wired airfoils </TD>
+
+<TD>21 Wired airfoils </TD>
+
+<TD>21 Wind turbunes </TD>
+</TR>
+
+<TR>
+<TD>Capacity factor % </TD>
+
+<TD>42 </TD>
+
+<TD>42 </TD>
+
+<TD>42 </TD>
+</TR>
+
+<TR>
+<TD>Annual energy generation -MWh </TD>
+
+<TD>45.52 </TD>
+
+<TD>34.29 </TD>
+
+<TD>31.36 </TD>
+</TR>
+
+<TR>
+<TD>Annual equivalent time -hours </TD>
+
+<TD>167,463.6 </TD>
+
+<TD>126,159.8 </TD>
+
+<TD>115,379.7 </TD>
+</TR>
+
+<TR>
+<TD>Capacity factor % </TD>
+
+<TD>3,987 </TD>
+
+<TD>3,004 </TD>
+
+<TD>2,747 </TD>
+</TR>
+</Table>
+
+<P>The capacity factor can be determined by the Powerc /Power, that is, the average power generated in a given period of time is obtained by multiplying, for each wind speed value, the power by its frequency of corresponding observations in the wind histogram. As the wind turbines using wired airfoils operate at high altitude where the wind speed is higher and more frequent, the wired airfoil has a higher energy production and a capacity factor corresponding to 34% and 45%, greater than that of the turbine wind power that is 31%. </P>
+
+<P>The parameters presented in Table 7 show the interpolated parameters of the wind shear model for Fortaleza (CE) and Florianópolis (SC) for a period between January 2010 and January 2018. These parameters provided the wind model for the two cities studied as shown in Figure 2. </P>
+
+<P>Table 7. Geographic location of cities and the interpolation of wind model parameters for the two cities investigated in the period from 2010 to 2018. </P>
+
+<Table>
+<TR>
+<TD>Location Fortaleza (CE) </TD>
+
+<TD>Latitude 3.73°S </TD>
+
+<TD>Longitude 38.55°W </TD>
+
+<TD>Zref (m) 30 </TD>
+
+<TD>Wr (m/s) 6.34 </TD>
+
+<TD>z0 (m) 0.0223 </TD>
+</TR>
+
+<TR>
+<TD>Florianópolis (SC) </TD>
+
+<TD>27.67°S </TD>
+
+<TD>48.55°W </TD>
+
+<TD>30 </TD>
+
+<TD>4.19 </TD>
+
+<TD>1.3777 </TD>
+</TR>
+</Table>
+
+<P>Figure 2 -Wind model for the cities of Fortaleza (CE) and Florianópolis (SC) over an eight-year period, 2010 to 2018. </P>
+<Figure>
+
+<ImageData src="images/Mendonça and Bornia - 2020 - Analysis levelized cost of energy from the perspec_img_14.jpg"/>
+</Figure>
+
+<P>Note that Fortaleza (CE) is a city with high average wind speed at all reference heights. At 78 meters high, for example, it has an average wind speed of approximately 7.2m/s, and at 100 meters high, it has an average wind speed of approximately 7.5m/s and at 400 meters high the average wind speed reaches approximately 8.7m/s. The city of Florianópolis (SC), on the other hand, has a low average speed, approximately 5.7m/s at 100 meters high, and at 400 meters high, the average wind speed reaches approximately 7.8m/s. These values interfere with energy production, the higher and more frequent the wind, the better. </P>
+
+<P>Figure 3 shows the wind histograms for the two cities at z = 78m (height of the wind turbine) and z = 255m (reference height of the wired airfoil). It can be observed that, as the altitude increases, stronger winds occur at higher observation frequencies, which corroborates the motivation for the production of energy at higher altitudes. </P>
+
+<P>Figure 3 -Wind histograms for the cities of Fortaleza (CE) and Florianópolis (SC), from 2010 to 2018 </P>
+<Figure>
+
+<ImageData src="images/Mendonça and Bornia - 2020 - Analysis levelized cost of energy from the perspec_img_15.jpg"/>
+</Figure>
+
+<P>The results of the variability of the capacity factor were shown in Table 8. Performing a quick feasibility analysis of the projects, it can be noted that almost all scenarios were attractive to the development of the project, since the values negotiated in the power purchase agreement (PPA) were higher than the capped cost of energy (LCOE). However, for the wind farm in Fortaleza with the use of wind turbines with wind turbines “scenario B, a reduction in the capacity factor was not attractive to the development of the project, since the level energy cost is higher than that of the power purchase agreements (Levelized PPA price nominal). </P>
+
+<P>(Continue…) </P>
+
+<P>Table 8. Result of the variability of the capacity factor of the different scenarios </P>
+
+<Table>
+<TR>
+<TH>Location Type of equipment Production of energy (MW/ano) Levelized PPA price (nominal) (R$/MW/h) Levelized PPA price (real) (R$/MW/h) LCOE (nominal) (R$/MW/h) LCOE (real) (R$/MW/h) </TH>
+
+<TH>FORTALEZA (CE) Generator using wired airfoils scenario A B C 106,0 107,7 87,97 83,2 84,1 82,9 85,8 107,0 63,4 66,9 83,0 49,6 </TH>
+
+<TH>FLORIANÓPOLIS (SC) Generator using wired airfoils scenario A B C 114,3 116,9 110,8 83,9 89,9 83,2 114,1 115,3 84,3 78,9 85,1 65,9 </TH>
+
+<TH>FORTALEZA (CE) Generator using Wind Turbines scenario A B C 125,1 127,8 122,2 83,1 83,3 82,9 124,8 156,6 92,2 77,2 121,4 72,1 </TH>
+</TR>
+
+<TR>
+<TD>IRR % </TD>
+
+<TD>10,22 </TD>
+
+<TD>10,33 </TD>
+
+<TD>12,46 </TD>
+
+<TD>10,96 </TD>
+
+<TD>10,86 </TD>
+
+<TD>10,07 </TD>
+
+<TD>10,13 </TD>
+
+<TD>9,95 </TD>
+
+<TD>10.31 </TD>
+</TR>
+</Table>
+
+<P>Another important metric in the analysis is the calculation of the Internal Rate of Return (IRR), when executing the economic simulation with an annual resolution, we find in almost all investigated scenarios an IRR ≥ to the reference value. Observe in Table 8 that the best return is found in scenario “C” for the city of Fortaleza (CE) that makes use of wind turbines using wired airfoils. Note that in this scenario, the capacity factor was simulated with an increase of 0.4% per year, so the energy delivery was higher than the negotiated maximum energy delivery limit. This scenario proved to be attractive to the development of the project, presenting a loss of attractiveness only with a 5% reduction in the price of energy (Levelized PPA price nominal -R$/MW/hh) and an increase in the investment of the project around 7.5% (Figure 4). </P>
+
+<P>Figure 4 -Sensitivity analysis for scenario C Fortaleza (CE) using wired airfoils. </P>
+<Figure>
+
+<ImageData src="images/Mendonça and Bornia - 2020 - Analysis levelized cost of energy from the perspec_img_16.jpg"/>
+</Figure>
+
+<P>Figure 5 -Sensitivity analysis for the Florianópolis (SC) scenario using wired airfoils </P>
+<Figure>
+
+<ImageData src="images/Mendonça and Bornia - 2020 - Analysis levelized cost of energy from the perspec_img_17.jpg"/>
+</Figure>
+
+<P>Figure 6 -Sensitivity analysis for scenario B Fortaleza (CE) using wind turbines. </P>
+<Figure>
+
+<ImageData src="images/Mendonça and Bornia - 2020 - Analysis levelized cost of energy from the perspec_img_18.jpg"/>
+</Figure>
+
+<P>Note also that in the Florianópolis wind farm (SC) with the use of wired airfoils, the delivery of the minimum energy limit proved to be feasible (Figure 5), however the price of the energy purchase contract (nominal level PPA) in the amount 114.3 R $ / MW / h is high, but within the standards negotiated in Brazil. The wind farm in Fortaleza (CE), with the use of wind turbines, and with energy delivery below the minimum limit negotiated in the PPA, presented an IRR &lt;that the reference value (Figure 6), as well as the level energy cost was higher than that negotiated in the PPA. The LCOE corresponds to the average price of energy that end users (consumers) of electricity will have to pay to the project investor (wind farm operator), so the lower the value, the better. </P>
+
+<P>It is interesting to note that a wind farm with the installation of 21 wind turbine units using 2MW wired airfoils would produce more energy annually, with a higher IRR, in Florianópolis than with the installation of 21 units of 2MW wind turbines in Fortaleza, where the wind behavior is more favorable. </P>
+
+<P>This information suggests that wired airfoil technology may be economically viable in locations where conventional technology based on wind turbines is not, due to low wind speed. This is a very interesting fact, as it would make it possible to install wind farms with wired airfoils close to large consumption centers, thus reducing the high costs of transmission lines and the significant losses in transmission. </P>
+
+<P>Realize that the viability of the project by increasing the IRR is very important for all parties involved: the government can reduce subsidies in the form of credit (loans), directing it to other areas, while the private investor is left with a more profitable investment. When financial parameters are also varied, such as state charges from 9.25% to 3% and federal charges from 7.36% to 4.36%, the results show that all projects are attractive to development with a higher IRR reference value, as shown in Table 9. </P>
+
+<P>Table 9. Variations in financial parameters </P>
+
+<Table>
+<TR>
+<TH>Location Type of equipment Production of energy (MW/ano) </TH>
+
+<TH>FORTALEZA (CE) Generator using wired airfoils scenario A B C </TH>
+
+<TH>FLORIANÓPOLIS (SC) Generator using wired airfoils scenario A B C </TH>
+
+<TH>FORTALEZA (CE) Generator using Wind Turbines scenario A B C </TH>
+</TR>
+
+<TR>
+<TD>IRR % </TD>
+
+<TD>14,16 </TD>
+
+<TD>14,27 </TD>
+
+<TD>18,55 </TD>
+
+<TD>14,96 </TD>
+
+<TD>13,99 </TD>
+
+<TD>14,85 </TD>
+
+<TD>14,05 </TD>
+
+<TD>14,26 </TD>
+
+<TD>15,57 </TD>
+</TR>
+</Table>
+
+<P>Finally, Figure 7 shows the variation of cash flow of the analyzed scenarios, it is possible to note that the variations of cash flow of the different scenarios during the years of analysis of the project had a similar behavior, and that until the year 14, coincided with the debt amortization period. </P>
+
+<P>(Continue…) </P>
+
+<P>Figure 7. Variation of cash flow of the three scenarios analyzed. </P>
+
+<P>200000000 100000000 0 -1E+08 -2E+08 -3E+08 -4E+08 </P>
+
+<Table>
+<TR>
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+</TR>
+
+<TR>
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+</TR>
+
+<TR>
+<TD>0 </TD>
+
+<TD>1 </TD>
+
+<TD>2 </TD>
+
+<TD>3 </TD>
+
+<TD>4 </TD>
+
+<TD>5 </TD>
+
+<TD>6 </TD>
+
+<TD>7 </TD>
+
+<TD>8 </TD>
+
+<TD>9 </TD>
+
+<TD>10 11 12 13 14 15 16 17 18 19 20 </TD>
+</TR>
+
+<TR>
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+</TR>
+
+<TR>
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+</TR>
+
+<TR>
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+
+<TD/>
+</TR>
+</Table>
+
+<P>Cenário C (CE) PK Cenário B (CE) PK Cenário A (CE) PK Cenário C (SC) PK Cenário B (SC) PK Cenário A (SC) PK Cenário C (CE) WT Cenário B (CE) WT Cenário A (CE) WT </P>
+</Sect>
+
+<Sect>
+<H3>6 Conclusion </H3>
+
+<P>The liberalization of the electricity market to private agents has brought about significant changes for the sector, mainly due to the introduction of competition in the electricity sector, resulting in economic benefits for all. </P>
+
+<P>Through free competition in the electricity market, public and private agents seek lower prices through power purchase agreements (PPAs), reducing the cost of purchasing electricity, enabling generation agents to capitalize long-term contracts to pay for their investments and to finance other generation projects with new and cheap technologies. </P>
+
+<P>The leveled energy cost model from the perspective of an power purchase agreements helps the energy generating agent (seller) to determine the best options for energy delivery limits by avoiding fines for not delivering enough energy or for deliver surplus energy without having sold. With the possibility of adjusting the system inputs, the generating agent (seller) can change the data to obtain values close to the real to negotiate energy purchase contracts, with a delivery and price schedule, following the performance measurement of the technology used. </P>
+
+<P>To reduce the cost risk of power purchase and sale contracts, agents can simulate different energy delivery alternatives, defining minimum and maximum energy purchase limitations within a PPA contract. </P>
+</Sect>
+
+<Sect>
+<H3>Acknowledgments: </H3>
+
+<P>The authors would like to thank the Coordination for the Improvement of Higher </P>
+
+<P>Education Personnel (CAPES) and the National Council for Scientific and Technological </P>
+
+<P>Development (CNPq) for funding this research project. </P>
+</Sect>
+
+<Sect>
+<H3>References </H3>
+
+<P>Aghaei Chadegani, A., Salehi, H., Yunus, M., Farhadi, H., Fooladi, M., Farhadi, M., & Ale Ebrahim, N. (2013). A comparison between two main academic literature collections: Web of Science and Scopus databases. Asian Social Science, 9(5), 18-26. </P>
+
+<P>Ahrens, U., Diehl, M., & Schmehl, R. (2014). Airborne wind energy: Springer Science & Business Media. </P>
+
+<P>Aldersey-Williams, J., & Rubert, T. (2019). Levelised cost of energy–A theoretical justification and critical assessment. Energy Policy, 124, 169-179. </P>
+
+<P>Archer, C. L., & Caldeira, K. (2009). Global Assessment of High-Altitude Wind Power. Energies, 2(2), 307-319. </P>
+
+<P>Blair, N., Dobos, A. P., Freeman, J., Neises, T., Wagner, M., Ferguson, T., . . . Janzou, S. (2014). System advisor model, sam 2014.1. 14: General description. Retrieved from </P>
+
+<P>BRASIL. (1995a). 8.987, de 13 de fevereiro de 1995. Constituição da República Federativa do Brasil. Brasília. </P>
+
+<P>BRASIL. (1995b). Lei nº 9.074, de 7 de julho de 1995. Constituição da República Federativa do Brasil. Brasília. </P>
+
+<P>BRASIL. (2004). Lei n 10.848 de 2004. Março 15. </P>
+
+<P>Bruck, M., Goudarzi, N., & Sandborn, P. (2016). A levelized cost of energy (LCOE) model for wind farms that includes power purchase agreement (PPA) energy delivery limits. Paper presented at the ASME 2016 Power Conference collocated with the ASME 2016 10th International Conference on Energy Sustainability and the ASME 2016 14th International Conference on Fuel Cell Science, Engineering and Technology. </P>
+
+<P>Bruck, M., Sandborn, P., & Goudarzi, N. (2018). A Levelized Cost of Energy (LCOE) model for wind farms that include Power Purchase Agreements (PPAs). Renewable Energy, 122, 131139. doi:https://doi.org/10.1016/j.renene.2017.12.100 </P>
+
+<P>Burt, M., Firestone, J., Madsen, J. A., Veron, D. E., & Bowers, R. (2017). Tall towers, long blades and manifest destiny: The migration of land-based wind from the Great Plains to the thirteen colonies. Applied Energy, 206, 487-497. </P>
+
+<P>Cherubini, A., Papini, A., Vertechy, R., & Fontana, M. (2015). Airborne Wind Energy Systems: A review of the technologies. Renewable & Sustainable Energy Reviews, 51, 1461-1476. doi:10.1016/j.rser.2015.07.053 </P>
+
+<P>Davidson, C., Steinberg, D., & Margolis, R. (2015). Exploring the market for third-party-owned residential photovoltaic systems: Insights from lease and power-purchase agreement contract structures and costs in California. Environmental Research Letters, 10(2). doi:10.1088/1748-9326/10/2/024006 </P>
+
+<P>De Lellis, M., Mendonça, A., Saraiva, R., Trofino, A., & Lezana, Á. (2016). Electric power generation in wind farms with pumping kites: An economical analysis. Renewable Energy, 86, 163-172. </P>
+
+<P>Diehl, M. (2014) Airborne Wind Energy: Basic Concepts and Physical Foundations. AIRBORNE WIND ENERGY (pp. 3-22). </P>
+
+<P>Diehl, M. (2018). Foreword Airborne Wind Energy: Advances in Technology Development and Research. (pp. cap. Foreword, p. vii–x): London: Springer-Verlag Berlin Heidelberg. </P>
+
+<P>Fagiano, L., Milanese, M., & Piga, D. (2010). High-Altitude Wind Power Generation. Ieee Transactions on Energy Conversion, 25(1), 168-180. doi:10.1109/tec.2009.2032582 </P>
+
+<P>Fuentealba, E., Ferrada, P., Araya, F., Marzo, A., Parrado, C., & Portillo, C. (2015). Photovoltaic performance and LCoE comparison at the coastal zone of the Atacama Desert, Chile. Energy Conversion and Management, 95, 181-186. </P>
+
+<P>Hernandez, K., Richard, C., & Nathwani, J. (2016). Estimating project LCOE–an analysis of geothermal PPA data. Paper presented at the Proceedings of 41st Workshop on Geothermal Reservoir Engineering. </P>
+
+<P>Lei, X., & Sandborn, P. A. (2018). Maintenance scheduling based on remaining useful life predictions for wind farms managed using power purchase agreements. Renewable Energy, 116, 188-198. doi:10.1016/j.renene.2017.03.053 </P>
+
+<P>Mendicino, L., Menniti, D., Pinnarelli, A., & Sorrentino, N. (2019). Corporate power purchase agreement: Formulation of the related levelized cost of energy and its application to a real life case study. Applied Energy, 253. doi:10.1016/j.apenergy.2019.113577 </P>
+
+<P>Mendonça, A. K. d. S., Vaz, C. R., Lezana, Á. G. R., Anacleto, C. A., & Paladini, E. P. (2017). Comparing patent and scientific literature in airborne wind energy. Sustainability (Switzerland), 9(6), 915. </P>
+
+<P>Miller, L., Carriveau, R., Harper, S., & Singh, S. (2017). Evaluating the link between LCOE and </P>
+
+<P>PPA elements and structure for wind energy. Energy Strategy Reviews, 16, 33-42. doi:10.1016/j.esr.2017.02.006 </P>
+
+<P>Nordin, N., & Rahman, H. (2017). Sizing and economic analysis of stand alone photovoltaic system with hydrogen storage. Paper presented at the IOP Conference Series: Earth and Environmental Science. </P>
+
+<P>Nordin, N. D., & Rahman, H. A. (2015). An optimization method for designing stand alone photovoltaic system using iterative method. Paper presented at the 2015 IEEE International Conference on Smart Energy Grid Engineering (SEGE). </P>
+
+<P>Nordin, N. D., & Rahman, H. A. (2016). A novel optimization method for designing stand alone photovoltaic system. Renewable Energy, 89, 706-715. </P>
+
+<P>Parrado, C., Girard, A., Simon, F., & Fuentealba, E. (2016). 2050 LCOE (Levelized Cost of Energy) projection for a hybrid PV (photovoltaic)-CSP (concentrated solar power) plant in the Atacama Desert, Chile. Energy, 94, 422-430. </P>
+
+<P>Parrado, C., Marzo, A., Fuentealba, E., & Fernández, A. (2016). 2050 LCOE improvement using new molten salts for thermal energy storage in CSP plants. Renewable and Sustainable Energy Reviews, 57, 505-514. </P>
+
+<P>Ragheb, M. (2015). Economics of wind energy. Wind Power Systems, Course NPRE, 475. </P>
+
+<P>Short, W., Packey, D. J., & Holt, T. (1995). A manual for the economic evaluation of energy efficiency and renewable energy technologies. Retrieved from </P>
+
+<P>Tolmasquim, M. T. (2011). Novo modelo do setor elétrico brasileiro: Synergia. </P>
+
+<P>Vazquez, A., & Iglesias, G. (2016). Grid parity in tidal stream energy projects: An assessment of financial, technological and economic LCOE input parameters. Technological Forecasting and Social Change, 104, 89-101. </P>
+
+<P>Wiser, R. H., & Bolinger, M. (2015). 2014 Wind technologies market report: Golden, Virgínia: US. Available in: &lt;http://www.energy.gov/sites/prod/ les/2015/08/f25/ 2014-WindTechnologies-Market-Report-8.7.pdf&gt;. </P>
+</Sect>
+</Sect>
+</Part>
+</TaggedPDF-doc>

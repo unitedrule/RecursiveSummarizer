@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Created from PDF via Acrobat SaveAsXML -->
+<!-- Mapping Table version: 28-February-2003 -->
+<TaggedPDF-doc>
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.1-c001 79.2a0d8d9, 2023/03/14-11:19:46        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:ExtensisFontSense="http://www.extensis.com/meta/FontSense/">
+         <xmp:CreateDate>2019-02-21T16:41:03Z</xmp:CreateDate>
+         <xmp:MetadataDate>2019-02-21T16:59:28Z</xmp:MetadataDate>
+         <xmp:ModifyDate>2019-02-21T16:59:28Z</xmp:ModifyDate>
+         <xmp:CreatorTool>Adobe InDesign CC 14.0 (Macintosh)</xmp:CreatorTool>
+         <xmpMM:InstanceID>uuid:122215b7-8635-437f-a4eb-e6533d6fcb8b</xmpMM:InstanceID>
+         <xmpMM:OriginalDocumentID>xmp.did:93E3C36C3BDDE4119444C603D98C02A7</xmpMM:OriginalDocumentID>
+         <xmpMM:DocumentID>xmp.id:98f914a1-4cfb-4318-8f99-235663b490b8</xmpMM:DocumentID>
+         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:6e49ec58-ef15-4613-9f30-6418468027e9</stRef:instanceID>
+            <stRef:documentID>xmp.did:6e49ec58-ef15-4613-9f30-6418468027e9</stRef:documentID>
+            <stRef:originalDocumentID>xmp.did:93E3C36C3BDDE4119444C603D98C02A7</stRef:originalDocumentID>
+            <stRef:renditionClass>default</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-indesign to application/pdf</stEvt:parameters>
+                  <stEvt:softwareAgent>Adobe InDesign CC 14.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+                  <stEvt:when>2019-02-21T16:41:03Z</stEvt:when>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <dc:format>xml</dc:format>
+         <pdf:Producer>Adobe PDF Library 15.0</pdf:Producer>
+         <pdf:Trapped>False</pdf:Trapped>
+         <ExtensisFontSense:slug>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <ExtensisFontSense:Family>Georgia</ExtensisFontSense:Family>
+                  <ExtensisFontSense:Version>5.00</ExtensisFontSense:Version>
+                  <ExtensisFontSense:OutlineFileSize>0</ExtensisFontSense:OutlineFileSize>
+                  <ExtensisFontSense:KerningChecksum>0</ExtensisFontSense:KerningChecksum>
+                  <ExtensisFontSense:Foundry>--</ExtensisFontSense:Foundry>
+                  <ExtensisFontSense:FontKind>OpenType - TT</ExtensisFontSense:FontKind>
+                  <ExtensisFontSense:Checksum>3711465631</ExtensisFontSense:Checksum>
+                  <ExtensisFontSense:PostScriptName>Georgia</ExtensisFontSense:PostScriptName>
+                  <ExtensisFontSense:FontSense_1.2_Checksum>3711465631</ExtensisFontSense:FontSense_1.2_Checksum>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ExtensisFontSense:Family>Georgia</ExtensisFontSense:Family>
+                  <ExtensisFontSense:Version>5.00</ExtensisFontSense:Version>
+                  <ExtensisFontSense:OutlineFileSize>0</ExtensisFontSense:OutlineFileSize>
+                  <ExtensisFontSense:KerningChecksum>0</ExtensisFontSense:KerningChecksum>
+                  <ExtensisFontSense:Foundry>--</ExtensisFontSense:Foundry>
+                  <ExtensisFontSense:FontKind>OpenType - TT</ExtensisFontSense:FontKind>
+                  <ExtensisFontSense:Checksum>918851682</ExtensisFontSense:Checksum>
+                  <ExtensisFontSense:PostScriptName>Georgia-Italic</ExtensisFontSense:PostScriptName>
+                  <ExtensisFontSense:FontSense_1.2_Checksum>918851682</ExtensisFontSense:FontSense_1.2_Checksum>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ExtensisFontSense:Family>Georgia</ExtensisFontSense:Family>
+                  <ExtensisFontSense:Version>5.00</ExtensisFontSense:Version>
+                  <ExtensisFontSense:OutlineFileSize>0</ExtensisFontSense:OutlineFileSize>
+                  <ExtensisFontSense:KerningChecksum>0</ExtensisFontSense:KerningChecksum>
+                  <ExtensisFontSense:Foundry>--</ExtensisFontSense:Foundry>
+                  <ExtensisFontSense:FontKind>OpenType - TT</ExtensisFontSense:FontKind>
+                  <ExtensisFontSense:Checksum>355671462</ExtensisFontSense:Checksum>
+                  <ExtensisFontSense:PostScriptName>Georgia-Bold</ExtensisFontSense:PostScriptName>
+                  <ExtensisFontSense:FontSense_1.2_Checksum>355671462</ExtensisFontSense:FontSense_1.2_Checksum>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ExtensisFontSense:Family>Minion Pro</ExtensisFontSense:Family>
+                  <ExtensisFontSense:Version>2.068</ExtensisFontSense:Version>
+                  <ExtensisFontSense:OutlineFileSize>0</ExtensisFontSense:OutlineFileSize>
+                  <ExtensisFontSense:KerningChecksum>0</ExtensisFontSense:KerningChecksum>
+                  <ExtensisFontSense:Foundry>Adobe Systems</ExtensisFontSense:Foundry>
+                  <ExtensisFontSense:FontKind>OpenType - PS</ExtensisFontSense:FontKind>
+                  <ExtensisFontSense:Checksum>2026130604</ExtensisFontSense:Checksum>
+                  <ExtensisFontSense:PostScriptName>MinionPro-Bold</ExtensisFontSense:PostScriptName>
+                  <ExtensisFontSense:FontSense_1.2_Checksum>2026130604</ExtensisFontSense:FontSense_1.2_Checksum>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ExtensisFontSense:Family>Arial</ExtensisFontSense:Family>
+                  <ExtensisFontSense:Version>5.06</ExtensisFontSense:Version>
+                  <ExtensisFontSense:OutlineFileSize>0</ExtensisFontSense:OutlineFileSize>
+                  <ExtensisFontSense:KerningChecksum>0</ExtensisFontSense:KerningChecksum>
+                  <ExtensisFontSense:Foundry>Monotype Typography</ExtensisFontSense:Foundry>
+                  <ExtensisFontSense:FontKind>OpenType - TT</ExtensisFontSense:FontKind>
+                  <ExtensisFontSense:Checksum>3472736439</ExtensisFontSense:Checksum>
+                  <ExtensisFontSense:PostScriptName>Arial-ItalicMT</ExtensisFontSense:PostScriptName>
+                  <ExtensisFontSense:FontSense_1.2_Checksum>3472736439</ExtensisFontSense:FontSense_1.2_Checksum>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ExtensisFontSense:Family>Arial</ExtensisFontSense:Family>
+                  <ExtensisFontSense:Version>5.06</ExtensisFontSense:Version>
+                  <ExtensisFontSense:OutlineFileSize>0</ExtensisFontSense:OutlineFileSize>
+                  <ExtensisFontSense:KerningChecksum>0</ExtensisFontSense:KerningChecksum>
+                  <ExtensisFontSense:Foundry>Monotype Typography</ExtensisFontSense:Foundry>
+                  <ExtensisFontSense:FontKind>OpenType - TT</ExtensisFontSense:FontKind>
+                  <ExtensisFontSense:Checksum>1252007918</ExtensisFontSense:Checksum>
+                  <ExtensisFontSense:PostScriptName>ArialMT</ExtensisFontSense:PostScriptName>
+                  <ExtensisFontSense:FontSense_1.2_Checksum>1252007918</ExtensisFontSense:FontSense_1.2_Checksum>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ExtensisFontSense:Family>Arial</ExtensisFontSense:Family>
+                  <ExtensisFontSense:Version>5.06</ExtensisFontSense:Version>
+                  <ExtensisFontSense:OutlineFileSize>0</ExtensisFontSense:OutlineFileSize>
+                  <ExtensisFontSense:KerningChecksum>0</ExtensisFontSense:KerningChecksum>
+                  <ExtensisFontSense:Foundry>Monotype Typography</ExtensisFontSense:Foundry>
+                  <ExtensisFontSense:FontKind>OpenType - TT</ExtensisFontSense:FontKind>
+                  <ExtensisFontSense:Checksum>3939600684</ExtensisFontSense:Checksum>
+                  <ExtensisFontSense:PostScriptName>Arial-BoldMT</ExtensisFontSense:PostScriptName>
+                  <ExtensisFontSense:FontSense_1.2_Checksum>3939600684</ExtensisFontSense:FontSense_1.2_Checksum>
+               </rdf:li>
+            </rdf:Bag>
+         </ExtensisFontSense:slug>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+<?xpacket end='r'?>
+<Figure>
+
+<ImageData src="images/Mann - An Introduction to Airborne Wind_img_0.jpg"/>
+</Figure>
+
+<Link><Figure>
+
+<ImageData src="images/Mann - An Introduction to Airborne Wind_img_1.jpg"/>
+An Introduction to Airborne Wind Technology and Cost Reduction Trends Stephanie Mann | February 2019 | AP-0020 </Figure>
+</Link>
+
+<Part>
+<H3>Summary </H3>
+
+<P>Ask someone to picture a wind turbine, and most will describe the type with a tall tower and three blades spinning on a horizontal axis. This is the image that comes to mind for most when we think about </P>
+
+<P>wind power – but it is also possible to capture wind energy by flying a tethered device across the wind to produce lift and drag. These devices are referred to as airborne wind energy generators. </P>
+
+<P>Here, electricity is generated by adding lift or drag to the device and passing energy down the tether </P>
+
+<P>electrically or mechanically. The lightweight nature of airborne wind allows for a step change in the </P>
+
+<P>levelised cost of energy (LCoE), especially when looking offshore. These reductions have been quantified, and the data shows that airborne wind has a potential LCoE of £30/MWh by 2030. </P>
+
+<P>This paper provides a high-level introduction to how airborne wind works, the two main technology types, trends in the industry, and explores how airborne wind offers cost advantages when compared to traditional bottom-fixed offshore wind farms. </P>
+</Part>
+
+<Part>
+<H3>Headlines </H3>
+
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>The higher operating altitude of airborne wind devices allows them to exploit the faster, more constant, and less turbulent wind speeds found above normal turbine operating heights. </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Airborne wind also harnesses energy without the cost of large, material-heavy towers and foundations, reducing its financial and environmental impacts. </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>It is currently an emerging technology with multiple design types: as of yet, there has been no convergence of technology. </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Airborne wind has a high potential to drastically lower the LCoE of offshore wind to £30/MWh before 2030. </LBody>
+</LI>
+</L>
+<Figure>
+
+<ImageData src="images/Mann - An Introduction to Airborne Wind_img_2.jpg"/>
+</Figure>
+
+<Sect>
+<H3>Introduction </H3>
+
+<Link><Figure>
+
+<ImageData src="images/Mann - An Introduction to Airborne Wind_img_3.jpg"/>
+</Figure>
+</Link>
+
+<P>Figure 1: </P>
+
+<P>Figure 1: Energy kite developer Makani’s prototype rests on its perch at a test site in Parker Ranch, Hawai’i. Image: Makani. </P>
+
+<P>Airborne wind energy (AWE) uses lightweight, tethered devices to harness the currently-untapped wind resource that exists 300-500 metres above sea level – much higher than conventional wind turbines.
+<Link>A pioneering paper written in 1980</Link>
+[1] demonstrated mathematically that flying a tethered device across the wind could produce power outputs up to three times the power of comparably-sized wind turbines in similar wind conditions. </P>
+
+<P>The higher operating altitude of airborne devices allows them to exploit the faster, more constant, and less turbulent wind speeds found above normal turbine operating heights. Airborne wind also harnesses energy without the cost of large, material-heavy towers and foundations, reducing its financial and environmental impacts. It also brings increased benefits when deployed on floating platforms in deeper waters offshore, as they operate in tension rather than in bending, allowing the platforms to require much less ballasting to restrict movement. The massive reduction in weight significantly reduces capital expenditure (capex) on platforms and subsea structures; and the reduced size of the devices allows for rapid installation at a lower cost. All these factors combined could result in a step change reduction in the levelised cost of energy (LCoE) of offshore wind. </P>
+
+<P>The need for autonomous operation, including take-off and landing, has so far been a barrier to development. But recent technological advancements such as drones, advanced aerodynamic modelling, and lightweight electronics have allowed modern tethered devices to be flown and </P>
+
+<P>controlled autonomously. Thus, there is renewed interest and research being carried out to test the </P>
+
+<P>feasibility of airborne devices for energy production. </P>
+<Figure>
+
+<ImageData src="images/Mann - An Introduction to Airborne Wind_img_4.jpg"/>
+</Figure>
+
+<P>With enough commercial advancement, airborne wind has the potential to become a game-changing technology, especially in the offshore sector. However, there are a number of technological, regulatory and commercial challenges facing the sector. This technology review outlines the key </P>
+
+<P>players in the sector, the technology’s progression to date, and explores the key industry needs on </P>
+
+<P>the path to commercialisation. </P>
+</Sect>
+</Part>
+
+<Part>
+<H3>How Airborne Wind Works </H3>
+
+<P>Airborne wind devices broadly fall into two categories: static and crosswind. </P>
+<Figure>
+
+<ImageData src="images/Mann - An Introduction to Airborne Wind_img_5.jpg"/>
+</Figure>
+
+<P>The static device’s primary benefit over conventional wind turbines is that they can access the higher, more persistent wind resource that exists high above even the largest, most modern conventional wind turbines. Using lighter-than-air balloons to stay aloft, these lift their turbines high above the ground and are linked to the ground electrically and mechanically using one or more </P>
+
+<P>cables. </P>
+
+<P>Crosswind devices stay in the air by flying across the wind, producing enough lift to stay aloft and produce electricity. The crosswind motion allows higher relative wind speed, thereby allowing crosswind devices to generate between three and five times more power than static devices at the same height. They also increase the effective swept area of the device, increasing the capture area and potential power output. </P>
+
+<P>Crosswind devices can be constructed from either soft material like kites, or hard composites like </P>
+
+<P>wings. </P>
+<Figure>
+
+<ImageData src="images/Mann - An Introduction to Airborne Wind_img_6.jpg"/>
+</Figure>
+
+<P>To generate electricity using crosswind motion, the wings or kites have a high lift-to-drag ratio. Electricity production for crosswind devices can happen either via on-board generation (OBG) or ground-based generation (GBG). </P>
+
+<Sect>
+<H3>On-Board Generation </H3>
+
+<P>On-board generation devices produce electricity by having added drag on the wing via rotor blades that generate continuously while flying in a crosswind motion (see Figure 3). In this case, the lift coefficient is enough to compensate for the device plus the added drag. The high lift-to-drag ratio requires a hard wing </P>
+
+<P>that results in increased performance when </P>
+
+<P>travelling across the wind. The power produced on-board is then transmitted down a cable </P>
+
+<P>connected to the ground. </P>
+
+<Sect><Figure>
+
+<ImageData src="images/Mann - An Introduction to Airborne Wind_img_7.jpg"/>
+
+<Caption>
+<P>Figure 3: Crosswind device with on-board generation. </P>
+
+<P>Image: Makani </P>
+</Caption>
+</Figure>
+</Sect>
+</Sect>
+
+<Sect>
+<H3>Ground-Based Generation </H3>
+
+<P>Ground-based generation devices use the lift of </P>
+
+<P>the device to pass mechanical power through </P>
+
+<P>the tether, winding and unwinding a ground-</P>
+
+<P>based winch (see Figure 4). Power is produced </P>
+
+<P>when the device flies in a high-power, crosswind </P>
+
+<P>motion; the kite is then flown to a low-resis</P>
+
+<P>tance position to be reeled back in at a lower </P>
+
+<P>power. This “production then consumption” </P>
+
+<P>cycle is repeated autonomously and produces a </P>
+
+<P>net positive power. The lack of on-board power </P>
+
+<P>allows the devices to be constructed from either </P>
+
+<P>hard or soft materials, and the ground-based </P>
+
+<P>generator allows a heavier and more bespoke </P>
+
+<P>design than on-board generation. Thus, there is </P>
+
+<P>greater diversity within, and more research into, </P>
+
+<P>ground-based generation devices than on-board. </P>
+
+<Sect>
+<H3>Winging it: go hard or go soft? </H3>
+
+<P>They each come with benefits and compromises: hard wings are more expensive, heavier, and can require  sophisticated launching and landing mechanisms. However they are durable, have higher performance, and are much easier to model and control. Soft wings, on the other hand, are very cheap and easy to repair and replace – but they have the drawback of being harder to fly autonomously. </P>
+
+<P>Most early-stage airborne wind developers have tested generation using soft kites, but there is a growing trend towards hard kite devices throughout the industry. </P>
+
+<Sect><Figure>
+
+<ImageData src="images/Mann - An Introduction to Airborne Wind_img_8.jpg"/>
+
+<Caption>
+<P>Figure 4: Crosswind device with ground-based </P>
+
+<P>generation. Image: KPS</P>
+</Caption>
+</Figure>
+</Sect>
+<Figure>
+
+<ImageData src="images/Mann - An Introduction to Airborne Wind_img_9.jpg"/>
+</Figure>
+
+<P>Technology Progression </P>
+
+<Sect>
+<H3>Key Players </H3>
+
+<P>The airborne wind industry is gradually moving from proof of concept stage to technology 
+<Link>demonstration. The largest-scale devices currently undergoing testing are Makani’s 600kW device, </Link>
+based in California, and 
+<Link>Kite Power Systems’</Link>
+ 250kW prototype, based in the UK. Other companies are testing devices at around 100kW, and many more are testing small-scale devices in the range of 50-100kW. The main technical challenges facing developers are fully-automated launching and landing, and control for flight optimisation. There are also regulatory challenges, especially when upscaling to large-scale testing in field conditions. A more in-depth discussion of the challenges for </P>
+
+<P>the airborne wind industry, and how to tackle them, will be explored in the second paper in this  series. </P>
+</Sect>
+
+<Sect>
+<H3>Industry Scale and Trends </H3>
+
+<P>Table 1 shows the leading companies developing airborne wind systems. Most systems involve dynamic flight, in order to gain the crosswind motion that greatly increases yield per square metre. There is a trend toward ground-based generation, and though most prototype devices use soft kites, many of the larger-scale devices are moving towards hard or partially-sparred kites or wings (for example, Kite Power Systems and 
+<Link>Enerkite). This is primarily to give better flight control and to </Link>
+improve efficiency and autonomy while generating. Small, test-scale devices tend to have soft wings </P>
+
+<P>due to the lower manufacturing costs and ease of launching and landing. </P>
+
+<Table>
+<TR>
+<TD>Company </TD>
+
+<TD>Location </TD>
+
+<TD>Wing Type </TD>
+
+<TD>Generation </TD>
+
+<TD>TRL </TD>
+
+<TD>Device Scale </TD>
+</TR>
+
+<TR>
+<TD>Makani </TD>
+
+<TD>USA </TD>
+
+<TD>Hard </TD>
+
+<TD>On-board </TD>
+
+<TD>7 </TD>
+
+<TD>600kW </TD>
+</TR>
+
+<TR>
+<TD>Ampyx </TD>
+
+<TD>Netherlands </TD>
+
+<TD>Hard </TD>
+
+<TD>Ground </TD>
+
+<TD>5-6 </TD>
+
+<TD>250kW* </TD>
+</TR>
+
+<TR>
+<TD>KPS </TD>
+
+<TD>UK </TD>
+
+<TD>Soft Rib </TD>
+
+<TD>Ground </TD>
+
+<TD>5-6 </TD>
+
+<TD>250KW* </TD>
+</TR>
+
+<TR>
+<TD>Kitepower </TD>
+
+<TD>Netherlands </TD>
+
+<TD>Soft </TD>
+
+<TD>Ground </TD>
+
+<TD>5 </TD>
+
+<TD>100kW </TD>
+</TR>
+
+<TR>
+<TD>Enerkite </TD>
+
+<TD>Germany </TD>
+
+<TD>Hybrid </TD>
+
+<TD>Ground </TD>
+
+<TD>4 </TD>
+
+<TD>100kW* </TD>
+</TR>
+
+<TR>
+<TD>TwingTec </TD>
+
+<TD>Dubendorf </TD>
+
+<TD>Hybrid </TD>
+
+<TD>Ground </TD>
+
+<TD>4 </TD>
+
+<TD>100KW* </TD>
+</TR>
+
+<TR>
+<TD>E-Kite </TD>
+
+<TD>Netherlands </TD>
+
+<TD>Hard </TD>
+
+<TD>Ground </TD>
+
+<TD>4 </TD>
+
+<TD>100kW* </TD>
+</TR>
+
+<TR>
+<TD>Skysails </TD>
+
+<TD>Germany </TD>
+
+<TD>Soft </TD>
+
+<TD>Ground </TD>
+
+<TD>4** </TD>
+
+<TD>1.5MW </TD>
+</TR>
+
+<TR>
+<TD>Kitegen </TD>
+
+<TD>Italy </TD>
+
+<TD>Soft </TD>
+
+<TD>Ground </TD>
+
+<TD>4 </TD>
+
+<TD>40kW </TD>
+</TR>
+</Table>
+
+<P>Table 1: Airborne wind developers and TRLs </P>
+
+<P>* In production ** Generator at TRL 4, kites currently used in shipping propulsion at 1.5MW, and not for electricity generation, </P>
+<Figure>
+
+<ImageData src="images/Mann - An Introduction to Airborne Wind_img_10.jpg"/>
+</Figure>
+</Sect>
+</Sect>
+</Sect>
+
+<Sect>
+<H3>Potential for LCoE Reduction </H3>
+
+<P>The levelised cost of wind energy is calculated by adding all the costs of a project in net present value (capex and operational costs (opex)) in Pounds (£), and dividing by net production costs, in megawatts (MW). This gives a total value of £/MW. Thus, lowering a project’s costs, or increasing its production, reduces the LCoE. The LCoE of conventional offshore wind, for example, has significantly reduced: from £142/MWh in 2010/11 to nearly £50/MWh. This is largely due to contributing factors such as larger turbines reducing the cost per megawatt installed, and more efficient operating costs, which have slashed operating costs. </P>
+
+<P>Airborne wind is currently an emerging technology, and at smaller scales costs are higher than  </P>
+
+<P>market value at over £100/MWh. However, airborne wind has the potential to both reduce costs and increase production, resulting in a step change in the LCoE of offshore wind. Figure 5a shows this potential cost reduction, with big gains through deployment in markets where the cost of energy is high. The reduction potential will then be commercially competitive before the year 2040, by the Catapult’s estimations. </P>
+<Figure>
+
+<ImageData src="images/Mann - An Introduction to Airborne Wind_img_11.jpg"/>
+</Figure>
+
+<P>Figure 5a: Airborne wind’s potential for cost reduction </P>
+<Figure>
+
+<ImageData src="images/Mann - An Introduction to Airborne Wind_img_12.jpg"/>
+</Figure>
+
+<Sect>
+<H3>Increased Power Production </H3>
+<Figure>
+
+<ImageData src="images/Mann - An Introduction to Airborne Wind_img_13.jpg"/>
+</Figure>
+
+<P>Figure 5b: Airborne and conventional wind power curves </P>
+
+<P>The power output of a conventional wind turbine varies with the swept area of the blades and the cube of the air velocity. Thus, doubling the blade length would quadruple the power output, and doubling the wind speed increases power by a factor of eight. Airborne wind provides the potential to vastly increase the swept area covered by flying in larger trajectories. The device would replace the outer 1/3 of a wind turbine blade, where the majority of the lift and power is imparted to the generator. The effective wind speeds experienced by devices at higher altitudes and over these large swept areas also increases, increasing power output significantly. The wind speeds are also expected to be steadier at operating levels, which increases the capacity factor of airborne wind turbines. </P>
+
+<P>Therefore, the power curve of a conventional turbine, compared to a similarly-rated airborne turbine would look like the graph in Figure 5b. Here, the optimum increase in power comes below 10.5m/s, where airborne wind outperforms conventional wind turbines. Below 2m/s, airborne wind consumes </P>
+
+<P>power to remain in the air. </P>
+</Sect>
+
+<Sect>
+<H3>Resource Analysis </H3>
+
+<P>Offshore, wind speeds have been shown to increase steadily with height up to the upper surface layer (around 100m above sea level). In the transition layer (between 100 and 150m above sea level), there are known cases of extreme loadings on turbine rotors due to low-level jetting and boundary separation. Above this layer, wind speeds are steadier: they do not increase following frictional laws, but increase following a mixture of friction and forcing from the upper boundary layer. For this reason, there are significant benefits to operating well above the surface transition layer offshore. </P>
+<Figure>
+
+<ImageData src="images/Mann - An Introduction to Airborne Wind_img_14.jpg"/>
+</Figure>
+</Sect>
+
+<Sect>
+<H3>Lower Costs </H3>
+
+<P>Not only does airborne wind have the potential to increase power output, but it can also cut expenditure on materials, and during the installation and maintenance phases of the offshore wind project lifecycle. This benefit increases as turbines move to deeper waters or floating structures. </P>
+</Sect>
+
+<Sect>
+<H3>Reduction in Materials </H3>
+
+<P>Given the increase in the price of steel in recent years[2], generating electricity without a large dependence on steel can bring significant cost benefits. Typical offshore wind turbines have a tower head mass of about 60,000kg/MW (from Siemens’ 6MW turbine brochure[3]). </P>
+
+<P>Airborne wind, on the other hand, uses less mass and is inherently lightweight. An equivalent ground-based generator would have an airborne weight of 100kg/MW[4]. This represents a 60x mass reduction, with added benefit of not needing a tower and blades made of steel. Also, the heavy generator is on the platform, reducing loads on the tower and overall system, and lowering the costs of foundations and subsea structures. </P>
+</Sect>
+
+<Sect>
+<H3>Installation and Maintenance Cost Reductions </H3>
+
+<P>The installation phase of an offshore wind farm can represent around 15-20% of the project’s total capital costs. This is largely due to the specialist nature of the vessels required for installation, and the restricted weather windows these vessels are able to operate in. Airborne wind, on the other hand, can be installed using much smaller vessels that are more readily available at a lower cost. Installation can be managed from the nearest port in most cases, rather than relying on large ports that may be further away – as is the case in offshore wind installations. Finally, much of the construction work can be carried out onshore, allowing the installation to happen quickly and at a fraction of the cost. Airborne wind therefore benefits from installation costs that are 30% lower than existing offshore wind (assuming equivalent wind farm sizes). </P>
+
+<P>Maintenance of a future offshore airborne wind farm can be difficult to quantify, as reliability and failure mode and effects analysis (FMEA) values are currently unknown. Current models assume that for a 20-year lifetime, the airborne wing and tether would need to be replaced completely two or three times in that period. This is possible because of the lightweight and cheap nature of the devices. Allowing three replacements in a lifetime (at five, 10 and 15 years), still keeps the LCoE to below £30/MWh: considerably lower than even the most optimistic targets for offshore wind by 2030. </P>
+<Figure>
+
+<ImageData src="images/Mann - An Introduction to Airborne Wind_img_15.jpg"/>
+</Figure>
+</Sect>
+
+<Sect>
+<H3>Benefits for Floating or Deep Water </H3>
+
+<P>The benefits of using airborne wind are further increased when deployed on a floating platform. The devices work in tension rather than in bending, allowing the platforms to require much less ballasting to restrict movement. In addition, for on-board generation devices, any movement of the platform relative to the generator doesn’t inhibit generation, as all production happens in the air. Changes in tension can be controlled by the device in real time and can compensate for movements of the platform. This could allow more freedom of movement, and thus lighter platforms. Ground-based generators may need a slightly more stable platform, as all the generation happens on the ground and can be affected by the change in tension of the device. However there can still be much greater freedom of movement than in current floating wind designs. </P>
+</Sect>
+</Sect>
+
+<Sect>
+<H3>Conclusions and Next Steps </H3>
+
+<P>A conservative calculation of a hypothetical 6MW offshore airborne wind turbine could achieve a levelised cost of energy of £30/MWh. This is largely due to the decreased weight and lower </P>
+
+<P>materials cost of the generator, and an increased capacity factor from steadier, higher wind speeds. </P>
+
+<P>Airborne wind still faces many challenges, with the earliest estimates of market entry by 2030.  However, the potential reduction in costs represents an important incentive to continue to pursue the development of the technology in the short- to medium-term. </P>
+
+<P>The Catapult is currently engaged in designing test strategies for UK-based airborne wind developers and continuing to work alongside AWEurope, the association of the European airborne wind energy industry, to lend an industry voice to the sector’s continuing dialogue. </P>
+
+<P>The second paper in this series will explore the key technical challenges facing airborne wind  </P>
+
+<P>developers, and how these barriers can be overcome. </P>
+<Figure>
+
+<ImageData src="images/Mann - An Introduction to Airborne Wind_img_16.jpg"/>
+</Figure>
+</Sect>
+
+<Sect>
+<H3>Appendices </H3>
+
+<Sect>
+<H4>References </H4>
+
+<L>
+<LI>
+<Lbl>1. </Lbl>
+
+<LBody>M. Loyd, “
+<Link>Crosswind Kite Power</Link>
+,” Journal of Energy, vol. 4, no. 3, 1980. </LBody>
+</LI>
+
+<LI>
+<Lbl>2. </Lbl>
+
+<LBody>General Steel, “
+<Link>2018 Steel Price Forecast</Link>
+.” </LBody>
+</LI>
+
+<LI>
+<Lbl>3. </Lbl>
+
+<LBody>Siemens AG, “
+<Link>6MW brochure</Link>
+.” </LBody>
+</LI>
+
+<LI>
+<Lbl>4. </Lbl>
+
+<LBody>E. Lunney, M. Ban, N. Duic and a. F. A, “
+<Link>A state-of-the-art review and feasibility analysis of high altitude wind power in </Link>
+
+<Link>Northern Ireland</Link>
+,” Renewable and Sustainable Energy Reviews, vol. 68, pp. 899-911, 2017. </LBody>
+</LI>
+</L>
+
+<Sect>
+<H4>Author Profile </H4>
+
+<P>
+<Link>Stephanie Mann</Link>
+ is an Innovation Manager in the Catapult’s Research and Disruptive Innovation department. She has a particular interest in novel technologies that could potentially disrupt the renewable energy sector. Prior to joining the Catapult, Stephanie came to the end of a four-year EngD with the Industrial Doctoral Centre for Offshore Renewable Energy (Idcore), working especially with novel wind in the data science team at E.ON. She is completing her thesis on yield methodologies and resource assessment for airborne wind. Through her time at the Catapult, she has used her technical skills and industry contacts to scope possible future collaborations between SMEs, industry and academia. Currently, she is working on the SME high growth platform which is producing a methodology for identifying and supporting SMEs on the path to commercialisation. </P>
+</Sect>
+
+<Sect>
+<H4>Disclaimer </H4>
+
+<P>While the information contained in this report has been prepared and collated in good faith, ORE Catapult makes no representation or warranty(express or implied) as to the accuracy or completeness of the information contained herein nor shall be liable for any loss or damage resultant from </P>
+
+<P>reliance on same. </P>
+</Sect>
+</Sect>
+</Sect>
+</Part>
+
+<Part>
+<H2>Offshore Renewable Energy Catapult </H2>
+
+<Sect><Figure>
+
+<ImageData src="images/Mann - An Introduction to Airborne Wind_img_17.jpg"/>
+</Figure>
+</Sect>
+<Figure>
+
+<ImageData src="images/Mann - An Introduction to Airborne Wind_img_18.jpg"/>
+
+<Caption>
+<P>Inovo </P>
+
+<P>121 George Street Glasgow G1 1RD, UK T: +44 (0)333 004 1400 </P>
+</Caption>
+</Figure>
+
+<Sect><Figure>
+
+<ImageData src="images/Mann - An Introduction to Airborne Wind_img_19.jpg"/>
+
+<Caption>
+<P>National Renewable Energy Centre </P>
+
+<P>Albert Street, Blyth Northumberland NE24 1LZ, UK T: +44 (0)1670 359 555 </P>
+</Caption>
+</Figure>
+</Sect>
+<Figure>
+
+<ImageData src="images/Mann - An Introduction to Airborne Wind_img_20.jpg"/>
+
+<Caption>
+<P>Fife Renewables Innovation Centre </P>
+
+<P>Ajax Way Leven KY8 3RS T: +44 (0)1670 357 649 </P>
+</Caption>
+</Figure>
+
+<Sect><Figure>
+
+<ImageData src="images/Mann - An Introduction to Airborne Wind_img_21.jpg"/>
+</Figure>
+
+<P>O&amp;M Centre of Excellence </P>
+
+<P>Ergo Centre Bridgehead Business Park Meadow Road, Hessle HU13 0GD </P>
+</Sect>
+
+<P>
+<Link>ore.catapult.org.uk</Link>
+
+<Link> // Tweet us: @ORECatapult</Link>
+
+<Link> // @CatapultBlyth // e: info@ore.catapult.org.uk </Link>
+</P>
+</Part>
+</TaggedPDF-doc>

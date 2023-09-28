@@ -1,0 +1,1975 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Created from PDF via Acrobat SaveAsXML -->
+<!-- Mapping Table version: 28-February-2003 -->
+<TaggedPDF-doc>
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.1-c001 79.2a0d8d9, 2023/03/14-11:19:46        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:pdfx="http://ns.adobe.com/pdfx/1.3/">
+         <xmp:ModifyDate>2021-12-08T14:16:11-07:00</xmp:ModifyDate>
+         <xmp:CreateDate>2021-11-09T14:13-05:00</xmp:CreateDate>
+         <xmp:MetadataDate>2021-12-08T14:16:11-07:00</xmp:MetadataDate>
+         <xmp:CreatorTool>Acrobat PDFMaker 21 for Word</xmp:CreatorTool>
+         <xmpMM:DocumentID>uuid:c2b48c1c-decf-46ce-aaaa-d5bec08b9a4e</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:2790ad82-d9a4-4977-a78c-a7160e73bf9b</xmpMM:InstanceID>
+         <xmpMM:subject>
+            <rdf:Seq>
+               <rdf:li>3</rdf:li>
+            </rdf:Seq>
+         </xmpMM:subject>
+         <dc:format>xml</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Report to Congress: Challenges and Opportunities for Airborne Wind Energy in the United States</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>U.S. Department of Energy, Wind Energy Technologies Office</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:description>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Fully answering the question posed by Congress regarding the viability of airborne wind to provide a significant source of energy in the United States requires some consideration of how quickly AWE might contribute as a source of energy. For airborne wind, a nascent, unproven technology, to achieve significant commercial success by 2035 would require a rapid expansion of R&amp;D activities and an acceleration of commercialization that is unprecedented in energy production technology. For a sense of scale, Federal support of wind energy research dates back over four decades, the wind production tax credit almost three decades, and it has taken nearly that long for wind to become commercially competitive across much of the country. AWE becoming a significant source of energy by 2050 is possible, but the uncertainty in estimating technology cost declines (for AWE and other clean technologies) and the evolution of the U.S. power sector size and requirements means that projection is much more difficult to make with confidence.</rdf:li>
+            </rdf:Alt>
+         </dc:description>
+         <pdf:Producer>Adobe PDF Library 21.7.131</pdf:Producer>
+         <pdfx:SourceModified>D:20211109191149</pdfx:SourceModified>
+         <pdfx:Company>U.S. Department of Energy</pdfx:Company>
+         <pdfx:ContentTypeId>0x010100055405B08DD34D4DB118DDB88C246E4B</pdfx:ContentTypeId>
+         <pdfx:_dlc_DocIdItemGuid>46b98e98-c3e6-4322-8bfa-12cf298a26a4</pdfx:_dlc_DocIdItemGuid>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+<?xpacket end='r'?>
+<bookmark-tree>
+<bookmark title="I. Legislative Language">
+<destination structID="LinkTarget_1059"/>
+</bookmark>
+<bookmark title="II. Purpose and Method">
+<destination structID="LinkTarget_1065"/>
+</bookmark>
+<bookmark title="III. Airborne Wind Energy Technology">
+<destination structID="LinkTarget_1057"/>
+</bookmark>
+<bookmark title="IV. Review of State of the Art">
+<destination structID="LinkTarget_948"/>
+<bookmark title="2018 European Union-Commissioned Report">
+<destination structID="LinkTarget_950"/>
+</bookmark>
+<bookmark title="2020 Airborne Wind Energy Topical Expert Meeting">
+<destination structID="LinkTarget_919"/>
+</bookmark>
+<bookmark title="2021 U.S. Airborne Wind Energy Workshop">
+<destination structID="LinkTarget_886"/>
+</bookmark>
+</bookmark>
+<bookmark title="V. U.S. Challenges and Opportunities">
+<destination structID="LinkTarget_826"/>
+<bookmark title="Potential and Viability">
+<destination structID="LinkTarget_828"/>
+</bookmark>
+<bookmark title="Research, Development, &amp; Demonstration">
+<destination structID="LinkTarget_785"/>
+</bookmark>
+<bookmark title="Commercialization">
+<destination structID="LinkTarget_731"/>
+</bookmark>
+</bookmark>
+<bookmark title="VI. Conclusion">
+<destination structID="LinkTarget_697"/>
+</bookmark>
+<bookmark title="VII. References">
+<destination structID="LinkTarget_661"/>
+</bookmark>
+<bookmark title="Appendix – Makani Closure">
+<destination structID="LinkTarget_278"/>
+</bookmark>
+</bookmark-tree>
+
+<Sect>
+<P xml:lang="EN-US"><Figure Alt="400px-DOE_Logo_Color">
+
+<ImageData src="images/2021 - Challenges and Opportunities for Airborne Wind Ene_img_0.jpg"/>
+
+<Link Alt="P1#yIS1"></Link>
+</Figure>
+<Figure>
+
+<ImageData src="images/2021 - Challenges and Opportunities for Airborne Wind Ene_img_1.jpg"/>
+</Figure>
+</P>
+
+<TextBox>
+<P xml:lang="EN-US">United States Department of Energy </P>
+<Figure Alt="P1TB3#y1">
+
+<ImageData src="images/2021 - Challenges and Opportunities for Airborne Wind Ene_img_2.jpg"/>
+</Figure>
+
+<P xml:lang="EN-US">Washington, DC 20585 </P>
+</TextBox>
+
+<TextBox><Figure Alt="P1TB2bA#y1">
+
+<ImageData src="images/2021 - Challenges and Opportunities for Airborne Wind Ene_img_3.jpg"/>
+</Figure>
+
+<P xml:lang="EN-US">Challenges and Opportunities for Airborne Wind Energy in the United States </P>
+
+<P xml:lang="EN-US"></P>
+
+<P xml:lang="EN-US"></P>
+
+<P xml:lang="EN-US"></P>
+
+<P xml:lang="EN-US"></P>
+
+<P xml:lang="EN-US"></P>
+
+<P xml:lang="EN-US">Report to Congress </P>
+
+<P xml:lang="EN-US">November 2021 </P>
+</TextBox>
+
+<P xml:lang="EN-US">Message from the Secretary </P>
+
+<P xml:lang="EN-US"></P>
+
+<P xml:lang="EN-US">I am pleased to provide you with the report Challenges and Opportunities for Airborne Wind Energy in the United States. This report describes the potential for, and technical viability of, airborne wind energy to provide a significant source of energy in the United States. Also, in response to language set forth in the Energy Act of 2020, this report outlines a series of research, development, demonstration, and commercialization activities needed to advance, test, and potentially validate the viability of airborne wind energy systems. </P>
+
+<P xml:lang="EN-US"></P>
+
+<P xml:lang="EN-US">This report is being provided to the following Members of Congress: </P>
+
+<P xml:lang="EN-US"></P>
+
+<L>
+<LI>
+<LBody xml:lang="EN-US">•The Honorable Eddie Bernice Johnson</LBody>
+</LI>
+</L>
+
+<P xml:lang="EN-US">Chairwoman, House Committee on Science, Space, and Technology</P>
+
+<P xml:lang="EN-US"></P>
+
+<L>
+<LI>
+<LBody xml:lang="EN-US">•The Honorable Frank Lucas</LBody>
+</LI>
+</L>
+
+<P xml:lang="EN-US">Ranking Member, House Committee on Science, Space, and Technology</P>
+
+<P xml:lang="EN-US"></P>
+
+<L>
+<LI>
+<LBody xml:lang="EN-US">•The Honorable Joe Manchin III</LBody>
+</LI>
+</L>
+
+<P xml:lang="EN-US">Chairman, Senate Committee on Energy and Natural Resources</P>
+
+<P xml:lang="EN-US"></P>
+
+<L>
+<LI>
+<LBody xml:lang="EN-US">•The Honorable John Barrasso</LBody>
+</LI>
+</L>
+
+<P xml:lang="EN-US">Ranking Member, Senate Committee on Energy and Natural Resources</P>
+
+<P xml:lang="EN-US"></P>
+
+<P xml:lang="EN-US">If you have any questions or need additional information, please contact me or Mr. Ali Nouri, Assistant Secretary for Congressional and Intergovernmental Affairs, or Ms. Elizabeth Noll, Deputy Assistant Secretary for House Affairs, Office of Congressional and Intergovernmental Affairs, at (202) 586-5450. </P>
+
+<P xml:lang="EN-US"></P>
+
+<P xml:lang="EN-US">Sincerely, </P>
+
+<P xml:lang="EN-US"></P>
+
+<P xml:lang="EN-US"></P>
+
+<P xml:lang="EN-US"></P>
+
+<P xml:lang="EN-US"></P>
+
+<P xml:lang="EN-US">Jennifer M. Granholm </P>
+
+<P xml:lang="EN-US"></P>
+
+<P xml:lang="EN-US">Executive Summary </P>
+
+<P xml:lang="EN-US">In response to language set forth in The Energy Act of 2020, the U.S. Department of Energy’s (DOE’s) Wind Energy Technologies Office (WETO), working with the National Renewable Energy Laboratory (NREL), explored the potential for, and technical viability of, airborne wind energy (AWE) technologies, which convert wind energy into electricity using tethered flying devices. As part of its inquiry, WETO drew on findings and insights gained from a synthesis of existing literature, NREL internal analysis, and outreach through interviews of AWE industry leaders. Supported by WETO, NREL hosted a technical workshop on U.S. Airborne Wind Energy in March 2021, attended by more than 100 experts and interested parties.  </P>
+
+<P xml:lang="EN-US">Based on these activities, WETO completed an assessment of the potential for, and technical viability of, airborne wind energy systems as means to provide a significant source of energy in the United States. Its conclusions are summarized below: </P>
+
+<L>
+<LI>
+<LBody xml:lang="EN-US">•The technical resource potential
+<Link>1</Link>
+ of wind energy available to AWE systems is uncertain,but likely similar in magnitude to that available to traditional wind energy systems. Theextent to which AWE represents an additional wind energy resource is not clear, and itwill depend on the energy harvesting characteristics of commercial designs. Even ifthere is no additionality, the resource (along with that of traditional wind energy)remains significant compared to national electricity use.</LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">•If AWE could be captured economically, it could provide a significant source of energy.In general, however, AWE remains an immature and unproven technology that requiressignificant further development before it could be deployed at meaningful scales at thenational level.</LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">•AWE technologies are fundamentally new. They are different from traditional windturbines in their design, manufacture, supply chain, logistics, installation, operations,and maintenance. Challenges and opportunities arise from these differences and are notwithin the scope of traditional wind energy research and development (R&amp;D).</LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">•AWE system designs to date are diverse and largely experimental. There is littleconvergence, so far, as to a preferred technology or approach, and no megawatt-scaleAWE systems have been commercially deployed. Several AWE designs underdevelopment show promise. The overall design space has not yet been fully explored.</LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">•Like high-performance aircraft, AWE systems can be technically complex and mustsustain flight through demanding atmospheric conditions. However, AWE systems alsomust operate autonomously and are tethered to the ground, presenting additionalchallenges.</LBody>
+</LI>
+</L>
+
+<Footnote>
+<P xml:lang="EN-US">1 Technical resource potential represents the upper bound of achievable capacity and energy production given social, environmental, and regulatory spatial considerations combined with technology performance and density assumptions. When technology performance is uncertain, as with AWE, so is technical resource potential. </P>
+</Footnote>
+
+<L>
+<LI>
+<LBody xml:lang="EN-US">•Federal programs have intermittently supported U.S. AWE R&amp;D in the past (~$13M since2009). However, AWE is actively supported by research programs in the European Union(EU) (~$58M since 2008), where most AWE advancements occur.</LBody>
+</LI>
+</L>
+
+<P xml:lang="EN-US"></P>
+
+<P xml:lang="EN-US">With these factors in mind, the report’s authors identified research, development, demonstration, and commercialization (RDD&amp;C) activities needed to advance and validate the technical and economic viability of airborne wind energy systems. These plans span a notional 10-year period and, if pursued, could occur within a phased-gate approach that communicatesexpectations for progress at each stage-gate, before commencing the next stage of investment.</P>
+
+<P xml:lang="EN-US">A conceptual RDD&amp;C plan could include the following elements and activities: </P>
+
+<L>
+<LI>
+<LBody xml:lang="EN-US">•Characterize the quantity, quality, and complementary nature of the wind resourceabove traditional wind turbines, higher than 200 meters (m).</LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">•Carry out national and regional cost and feasibility studies to evaluate key cost drivers,market potential (including offshore), and economic benefits of AWE technology.</LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">•Broaden and deepen the physical understanding of various AWE concepts throughmodeling and simulation with a focus on power density, robust controls, and scalingpotential.</LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">•Establish test facilities and research capacities to enable AWE system developers toprove system and sub-system reliability and performance, and study grid/micro-gridintegration.</LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">•Encourage industry R&amp;D, including with cooperative research and developmentagreements or other mechanisms that enable access to research and engineering talentat the National Laboratories.</LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">•Participate in standards-setting organizations and contribute to the establishment ofinternational standards for AWE design, testing, and certification.</LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">•Assess the social acceptance and environmental implications of AWE technology.Explore and, to the extent possible, quantify the environmental and human impacts ofAWE.</LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">•Attract and develop a pool of talent for the AWE industry through research fellowships,centers of excellence, prize competitions, and other training mechanisms.</LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">•Explore options for cost-effective policies and technical assistance mechanisms for thedevelopment and commercialization of AWE technology.</LBody>
+</LI>
+</L>
+
+<P xml:lang="EN-US">The above elements and activities are integral parts of a whole concept. All are important, but their relative priority and timing over a 10-year period would be determined by the desired commercial timeline, availability of funding from various sources, and the targeted AWE market. </P>
+
+<P xml:lang="EN-US"></P>
+
+<P xml:lang="EN-US"><Figure Alt="b&w">
+
+<ImageData src="images/2021 - Challenges and Opportunities for Airborne Wind Ene_img_4.jpg"/>
+</Figure>
+</P>
+
+<P xml:lang="EN-US">Challenges and Opportunities for Airborne Wind Energy  in the United States </P>
+
+<P xml:lang="EN-US"></P>
+
+<P xml:lang="EN-US"></P>
+
+<P xml:lang="EN-US">Table of Contents </P>
+
+<TOC>
+<TOCI xml:lang="EN-US"></TOCI>
+
+<TOCI xml:lang="EN-US">
+<Reference xml:lang="EN-US">I.Legislative Language </Reference>
+................................................................................................
+<Reference xml:lang="EN-US">............ 1</Reference>
+ </TOCI>
+
+<TOCI xml:lang="EN-US">
+<Reference xml:lang="EN-US">II.Purpose and Method </Reference>
+................................................................................................
+<Reference xml:lang="EN-US">........... 1</Reference>
+ </TOCI>
+
+<TOCI xml:lang="EN-US">
+<Reference xml:lang="EN-US">III.Airborne Wind Energy Technology </Reference>
+................................................................
+<Reference xml:lang="EN-US">...................... 2</Reference>
+ </TOCI>
+
+<TOCI xml:lang="EN-US">
+<Reference xml:lang="EN-US">IV.Review of State of the Art </Reference>
+................................................................................................
+<Reference xml:lang="EN-US">.... 9</Reference>
+ </TOCI>
+
+<TOCI xml:lang="EN-US">
+<Reference xml:lang="EN-US">2018 European Union-Commissioned Report </Reference>
+................................................................
+<Reference xml:lang="EN-US">............ 9</Reference>
+ </TOCI>
+
+<TOCI xml:lang="EN-US">
+<Reference xml:lang="EN-US">2020 Airborne Wind Energy Topical Expert Meeting ............................................................... 11</Reference>
+ </TOCI>
+
+<TOCI xml:lang="EN-US">
+<Reference xml:lang="EN-US">2021 U.S. Airborne Wind Energy Workshop ............................................................................. 13</Reference>
+ </TOCI>
+
+<TOCI xml:lang="EN-US">
+<Reference xml:lang="EN-US">V.U.S. Challenges and Opportunities .................................................................................... 15</Reference>
+ </TOCI>
+
+<TOCI xml:lang="EN-US">
+<Reference xml:lang="EN-US">Potential and Viability ............................................................................................................... 15</Reference>
+ </TOCI>
+
+<TOCI xml:lang="EN-US">
+<Reference xml:lang="EN-US">Research, Development, &amp; Demonstration .............................................................................. 19</Reference>
+ </TOCI>
+
+<TOCI xml:lang="EN-US">
+<Reference xml:lang="EN-US">Commercialization .................................................................................................................... 24</Reference>
+ </TOCI>
+
+<TOCI xml:lang="EN-US">
+<Reference xml:lang="EN-US">VI.Conclusion .......................................................................................................................... 28</Reference>
+ </TOCI>
+
+<TOCI xml:lang="EN-US">
+<Reference xml:lang="EN-US">VII.References ......................................................................................................................... 31</Reference>
+ </TOCI>
+
+<TOCI xml:lang="EN-US">
+<Reference xml:lang="EN-US">Appendix – Makani Closure .......................................................................................................... 36</Reference>
+ </TOCI>
+</TOC>
+
+<P xml:lang="EN-US"></P>
+
+<H1 id="LinkTarget_1059" xml:lang="EN-US">I.Legislative Language</H1>
+
+<P xml:lang="EN-US">This report is submitted pursuant to subsection 3003(b)(2)(G) of Division Z of Public Law 116-260, also known as the Energy Act of 2020, which states:   </P>
+
+<P xml:lang="EN-US"></P>
+
+<P xml:lang="EN-US">… &quot;(i) IN GENERAL. — Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on the potential for, and technical viability of, airborne wind energy systems to provide a significant source of energy in the United States. </P>
+
+<P xml:lang="EN-US"></P>
+
+<P xml:lang="EN-US">(ii)CONTENTS. — The report under paragraph (1) shall include a summary of research,development, demonstration, and commercialization needs, including an estimate ofFederal funding requirements, to further examine and validate the technical andeconomic viability of airborne wind energy concepts over the 10-year period beginning onthe date of the enactment of this Act.”</P>
+
+<H1 id="LinkTarget_1065" xml:lang="EN-US">II.Purpose and Method</H1>
+
+<P xml:lang="EN-US">Using kites as an alternative to horizontal axis wind turbines was studied in 1980 by Miles Loyd, a researcher at DOE’s Lawrence Livermore National Laboratory. His seminal paper on the topic quantified the potential benefits and framed research questions about what we now call airborne wind energy [1]. Despite this innovative effort, sensor technology and control methods were insufficient at the time to enable commercial development. The technology associated with “traditional” horizontal axis wind turbines would go on to receive the bulk of Federal wind research funding for the next 40 years.    </P>
+
+<P xml:lang="EN-US"></P>
+
+<P xml:lang="EN-US">Airborne wind energy (AWE) “is the conversion of wind energy into electricity using tethered flying devices” [2]. AWE and airborne wind energy systems (AWES) have been developed in earnest by a global community of advocates, researchers, and businesses since the early 2000s. As directed by the Energy Act of 2020, this report outlines the potential for, and technical viability of, airborne wind energy systems to provide a significant source of energy in the United States going forward. Further, it lays out the research and development (R&amp;D) that this nascent industry would need to demonstrate its viability over the next decade. This report does not explore tethered multipurpose platforms concepts whose main purpose is telecommunication or observation rather than electricity production (e.g., Toyota’s “Mothership” [3] or blimp-like concepts from Omnidea [4], Altaeros [5]). Few developers express interest in accessing the wind resource higher than one kilometer (1km), so those concepts are not analyzed in detail. </P>
+
+<P xml:lang="EN-US"></P>
+
+<P xml:lang="EN-US">Section III provides an overview of AWE technology, including potential benefits and challenges, the impacts of primary design choices, historical context including sources of support to date, and an overview of global market leaders. Section IV dives deeper into several recent reports that summarize: (1) the European Union’s market outlook for AWE; (2) the proceedings of a recent technical experts meeting of the International Energy Agency (IEA) regarding AWE; and </P>
+
+<P xml:lang="EN-US">(3) the U.S. Airborne Wind Energy workshop, sponsored by DOE and hosted by NREL in March 2021 to elicit input from U.S. stakeholders. Informed by literature reviews, technology developer interviews, the U.S. AWE workshop [6], and NREL analysis [7], Section V discusses the challenges and opportunities facing the U.S. AWE market, in terms of the potential resources and technology viability, research, development, demonstration (RD&amp;D) needs, and barriers to commercialization. The report concludes with Section VI, which discusses the role of future research in achieving the potential of airborne wind energy. </P>
+
+<H1 id="LinkTarget_1057" xml:lang="EN-US">III. Airborne Wind Energy Technology </H1>
+
+<P xml:lang="EN-US">Many resources cover the basics of AWE technology [2] [8] [9], and this section will summarize them, with a focus on the benefits and challenges of AWES, the primary design choices that designers must make, some historical context, and an overview of the global market. One thing that is clear is that AWE is an entirely different technology than “traditional” wind. One possible analogy is the difference between traditional hydropower and marine hydrokinetic systems; both harvest the power of moving water, but the former is well established, whereas the latter is a new technology where a large ecosystem of companies is exploring a range of innovative approaches. 
+<Reference xml:lang="EN-US">Table 1</Reference>
+ highlights the dramatic differences between traditional wind energy and AWE providing high-level context for the subsequent discussion of the relative benefits and challenges of airborne wind. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Table 1. Fundamental differences between traditional and airborne wind energy </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US"><Figure>
+
+<ImageData src="images/2021 - Challenges and Opportunities for Airborne Wind Ene_img_5.jpg"/>
+Traditional WindAirborne WindConceptSpinning rotor comprised of composite blades, a tower mounted nacelle &amp; drivetrainSelf-supported airborne system tethered to a ground station, with an airborne or ground mounted drivetrainResponse to a FailureRotor blades pitch to stop rotation and the turbine waits for remote diagnostics or on-site technicianAirborne system must land safely and autonomously, while avoiding personnel/propertyInstallation / MaintenanceCrane lift and elevated assembly of major components.  Inspection and maintenance also performed at height (80+ meters) All installation and maintenance performed near ground levelMarket ConvergenceUpwind, 3-bladed configuration dominates, developed over 40+ years with trusted international standardsDozens of configurations, little market convergence, and no international design standards or requirementsOperating AltitudeTypically below 250 metersConstant altitudeTypically 200–800 metersVariable altitudeOperational StrategyAnnual OpEx ≈ 2–3% of CapExDesigned for 25+ year operational lifeAnnual OpEx ≈ 3–20% of CapExMajor components may be replaced or upgraded oftenSupport StructureTower and foundation must resist significant overturning momentsMinimal overturning moments, tether tension is dominant load on foundationOverland TransportationBlades and towers are currently size constrained by the limits of highway and rail transportationKites may disassemble or compress for easier transportation.  Larger rigid wings may become transportation size constrained in the futureUnit Capacity0–6 MW Onshore6–15+ MW Offshore0–2 MW Onshore (notional)2–5 MW Offshore (notional)Wind Farm Integration2D placement (Lattitude, Longitude)3D placement (Lattitude, Longitude, Altitude)Location depends on wind direction and speed</Figure>
+ </P>
+
+<P xml:lang="EN-US">Benefits and Challenges </P>
+
+<P xml:lang="EN-US">Wind energy is already an affordable and significant contributor to U.S. electricity; it provided 8.4 percent of electricity production in 2020 [10], is now the largest U.S. source of renewable energy [11], and accounted for 47.4 percent of new electricity capacity commissioned in the United States in 2020 [12, p. 5]. There are challenges, however, to the continued deployment of traditional wind technology. In the next decade, with significant growth, many of the best wind resources on land will be developed, and the trend toward larger rotors and taller towers have made transportation logistics challenging. Airborne wind technology replaces the support structure with a lightweight tether, reducing mass by around 90 percent [13], which may lead to lower lifecycle emissions and lower visual footprint. The tether allows airborne wind to harvest wind at higher altitudes, which can be stronger and more consistent, and to adjust its flight path to (1) find the optimal height for power production, (2) control its influence on neighboring airborne devices, and (3) mitigate airspace use conflicts or viewshed concerns – including landing if needed. Airborne wind can be deployed or re-deployed quickly and lowered to the ground for maintenance, potentially opening new markets and improving technician  </P>
+
+<P xml:lang="EN-US">  </P>
+
+<P xml:lang="EN-US">safety. The lower mass inputs, easier logistics, and potentially higher capacity factor (fraction of time that the system produces the rated amount of power) may lead to a reduced cost of energy compared to traditional wind technology in certain regions or markets.  </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">The International Renewable Energy Agency released an innovation report for offshore wind in 2016 [14, pp. 88-90], which called AWE a potential “game changer,” and ranked the technology third most important, below next-generation offshore turbines and floating foundations, in which DOE’s Wind Energy Technologies Office (WETO) is investing heavily. The projected commercialization timeline for airborne wind is vague, as seen in Figure 1, spanning nearly a decade from 2024 to 2033. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US"><Figure Alt="Machine generated alternative text:
+o 
+E 
+Next generation turbines 
+Floating foundations 
+Airborne wind 
+Integrated turbine and foundation installation 
+HVDC infrastru ctu re 
+DC power takeoff and array cables 
+Site layout optimisation 
+Increased tu rbine rating 
+Reducing electrical infrastructure 
+Wind farm-level control strategies 
+Blade design and manufactu re 
+Person nel access systems 
+Onshore tu rbine pre-commission ing 
+Self-installing fou ndations 
+2015 
+2020 
+2025 
+2030 
+2035 
+Development 
+Turbines 
+Support structure 
+Electrical interconnection 
+Installation 
+Operation, Maintenance and Service 
+2040 
+2045 
+Anticipated commercialisation ">
+
+<ImageData src="images/2021 - Challenges and Opportunities for Airborne Wind Ene_img_6.jpg"/>
+</Figure>
+</P>
+
+<P xml:lang="EN-US">Despite its promise, AWE technology is still relatively immature and much remains to be done. The potential for reduced levelized cost of energy (LCOE) has not been validated given that the first commercial units are planned for deployment by SkySails Power in 2021 [6]. Reliability and availability of an AWES over many weeks, months, or years has not been demonstrated. Further, if any failure occurs, the device cannot stop mid-air and wait for help; it must be fail-safe, returning safely to ground and avoiding any personnel or property nearby. Robust, </P>
+
+<P xml:lang="EN-US">automatic launch and recovery and adequate protection against extreme weather (e.g., high winds, gusts, or lightning) must be developed for utility-scale deployment. There are regulatory and siting concerns related to noise, wildlife impacts, radar mitigation, airspace use, and grid compliance, which will need to be studied and addressed with the appropriate stakeholders. AWES must be more than simply cost-competitive; if the energy harvesting characteristics of mature AWES are not differentiated from traditional wind turbines in some way, the sector may not achieve significant market penetration [15]. None of these challenges are viewed as insurmountable, but they must be addressed for successful application of the technology. In many cases, the challenges are unique to AWE and would not otherwise be addressed by traditional wind R&amp;D. Overcoming these challenges will require sustained and coordinated R&amp;D but may allow airborne wind to have an impact at scale.  </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Discussing the benefits and challenges of a technology often implies a particular embodiment of that technology. As the next section highlights, AWE is an incredibly diverse field of technologies with each having their own strengths and weaknesses. Since the sector is still rapidly evolving, this report attempts to be as inclusive as possible, cognizant that a combination of AWES architectures or an entirely new architecture may emerge that enhances a benefit or mitigates a challenge attributed to airborne wind. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Design Choices </P>
+
+<P xml:lang="EN-US">
+<Reference xml:lang="EN-US">Figure 2</Reference>
+ illustrates a few AWES under development to provide a sense for the variety of AWE architectures, but no claim is made or implied regarding the performance or feasibility of these concepts. Each architecture is distinguished by key design choices.  </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US"><Figure>
+
+<ImageData src="images/2021 - Challenges and Opportunities for Airborne Wind Ene_img_7.jpg"/>
+</Figure>
+ </P>
+
+<P xml:lang="EN-US"> Figure 2. Examples of variety in AWES architectures from Schmehl 2021 [16] </P>
+
+<P xml:lang="EN-US">  </P>
+
+<P xml:lang="EN-US">Generator placement. The first design choice is where to place the electrical generation equipment. If placed onboard (called fly-gen), the airborne device generates power continuously but must transmit the electricity to the ground over the tether connecting the airborne device to the ground. If the generator remains on the ground (called ground-gen), the airborne device can be simpler and lighter, but many designs only generate electricity in one phase of flight—called “reel out,” as a tether is spooled from a drum—and consume energy during “reel in.” Ground-gen devices can have a stationary or moving generator, though the former is more commonly proposed.  </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Wing structure. Second, the structure of the airborne device can be either rigid like most aircraft or soft and compliant like a parafoil kite. Rigid wings can have higher performance and durability but may be heavier. Soft wings sacrifice performance and may have to be regularly replaced due to wear on the fabric, but are lighter and fly slower, and thus are more likely to survive a crash and cause less damage. Soft wings may also inflate for strength or compress for easier transportation. Hybrid concepts like intentionally flexible, jointed, or tailored composite designs are also emerging. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Flight operation. The third key design choice is the method of flight operation. The device will (1) fly crosswind like a traditional wind turbine blade, leading to highest relative wind speed and efficiency but challenging to control, or (2) be relatively stationary, generating power through sub-component motion, autorotation, or by transmitting torque to the ground station (see “Windswept” concept above). </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Takeoff and landing. Fourth, how will the device become airborne?  One could launch and land horizontally like a traditional aircraft, vertically like a helicopter or drone, use a combination of the two, or use a pilot kite or auxiliary system to loft the system.  </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">There are at least 24 potential configurations, shown in 
+<Reference xml:lang="EN-US">Figure 3</Reference>
+ that combine the above four design choices, and because of the potential for hybrid approaches this represents a subset of the complete design space. It is not clear which of these concepts (or yet another) will emerge as dominant, and it is likely that multiple designs will survive to some extent, each best for a specific market. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US"><Figure>
+
+<ImageData src="images/2021 - Challenges and Opportunities for Airborne Wind Ene_img_8.jpg"/>
+</Figure>
+ </P>
+
+<P xml:lang="EN-US">Figure 3. Some of the many possible AWES architectures and illustrative companies </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Historical Context </P>
+
+<P xml:lang="EN-US">Kites have been essential tools for more than two hundred years, used for surveillance, communications, measurement platforms, and airframe testing prior to flight [17]. Hermann Honnef (writing in 1939, translated in 1974) dreamed of high-altitude wind power [18], and key innovations in kite technologies occurred in the second half of the 20th century, like the Rogallo ParaWing [19] once considered for returning Gemini space capsules to Earth, and “Flexifoil” [20], the predecessor of the modern power or traction kite used in soft kite AWES today. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Several key publications on airborne wind date to the late 1970s and early 1980s including Hermann Oberth [21], Bryan Roberts [22], and Miles Loyd [1]. However, the field began to accelerate in 2001 with the work of Wubbo Ockels, a Dutch physicist and European astronaut. At Delft University of Technology in 2001, Ockels published a paper on the “Laddermill,” a ground-gen concept to harvest energy from high altitudes up to 10 km [23]. His research group at Delft then proposed a pumping mill design that is the predecessor of many ground-gen concepts [24] and began to consider concepts that fly lower in the atmosphere [25]. Ockels’ research led to two spinoff companies and to a growing global network of AWE researchers, enthusiasts, and entrepreneurs that now encompasses more than 60 organizations [2]. The U.S. community, shown graphically in 
+<Reference xml:lang="EN-US">Figure 4</Reference>
+, has fewer players than Europe. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US"><Figure>
+
+<ImageData src="images/2021 - Challenges and Opportunities for Airborne Wind Ene_img_9.jpg"/>
+</Figure>
+  </P>
+
+<P xml:lang="EN-US">Figure 4. U.S. organizations with demonstrated interest in airborne wind energy, from NREL 2021 [7] </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">From 2009 to 2012, the airborne wind community gathered for annual international conferences, beginning in 2009 in Chico, California, and alternating between locations in the United States and Europe. Starting in 2013, the conference was held biennially in various locations around Europe. More than 220 delegates from 21 countries attended the 2019 conference [26]. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Commercial Status and Funding </P>
+
+<P xml:lang="EN-US">Globally, the AWE market has many players, with heavy weighting toward Europe where public sector support is historically stronger. Most proposed AWES are at or below a technology readiness level (TRL)
+<Link>2</Link>
+ of 6 [27], where TRL 6 implies a large prototype, flown in a relevant environment, capable of performing all the functions that the operational system will require. Only one company globally has shipped a commercial product as of publication (SkySails), but all expect to do so within 1–5 years. The entry market for nearly every company is for distributed, remote, or microgrid applications. Most companies have plans to scale up to larger products by 2030. In Europe, the EU and national/regional organizations have awarded AWE grants of approximately €49M ($58M) since 2008 [28], and the technology is expected to need </P>
+
+<Footnote>
+<P xml:lang="EN-US">2 Technical Readiness Level is a measure of the maturity of a technology, rated on a scale of 1–9, where 9 is the most mature. </P>
+continued RD&amp;D assistance and substantial market support to reach commercialization by 2025. In the United States, Federal entities have supported the development of AWE technology with approximately $13M direct investment since 2009, through one ARPA-E OPEN award [29], multiple SBIR awards from DOD, USDA, and NSF [30], and NSF funding to universities [31]. There has also been $11.9M of investment in kite-like devices for underwater energy harvesting, both to support long-duration autonomous missions (Defense Advanced Research Projects Agency [32]) and terrestrial use (ARPA-E SHARKS program [33] and DOE’s Water Power Technologies Office [34]). On an annual basis, European funding for AWE has been approximately four times higher than in the United States between 2010 and 2020. Aside from public funds, some developers can raise capital from outside investors—more than $200M according to Bloomberg as of 2019 [35].  </Footnote>
+
+<P id="LinkTarget_948" xml:lang="EN-US"> </P>
+
+<H1 xml:lang="EN-US">IV. Review of State of the Art </H1>
+
+<P xml:lang="EN-US">The review in this section summarizes three efforts at assessing the state of the AWE market: (1) An EU-commissioned report on the challenges of commercializing AWE in Europe [36], (2) a recent expert meeting that aimed to formalize international collaboration on AWE [37], and (3) a U.S.-centric airborne wind workshop [6] held in support of the present report. These resources address one or more aspects of the Congressional request and are consistent in their conclusions and recommendations, lending emphasis to the recommendations that will follow in Section 
+<Reference xml:lang="EN-US">V</Reference>
+. </P>
+
+<P id="LinkTarget_950" xml:lang="EN-US"> </P>
+
+<H2 xml:lang="EN-US">2018 European Union-Commissioned Report </H2>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Purpose and Method </P>
+
+<P xml:lang="EN-US">In 2018, the European Commission Directorate-General for Research and Innovation commissioned a report on the current state of AWE in Europe to guide the best use of public funding for further technology development [36]. Comparable to the present report, the EU authors were also tasked with the question of whether AWES are expected to contribute significantly to the European energy system. In addition to desk research, the authors used a variety of methods including scoping interviews, stakeholder engagement of 38 stakeholders through semi-structured interviews, focus groups on select themes, and a validation workshop. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Key Conclusions </P>
+
+<P xml:lang="EN-US">The EU study concluded that AWE technology is still immature, and it is not clear whether the technology has the potential to contribute significantly to the EU energy supply and decarbonization targets. Specifically, the authors found that AWE’s potential impact on the energy system was sensitive to the scale of the AWES being deployed. Small- to medium-scale systems tend to target niche markets and will likely not have an impact on the EU energy system. However, even if the AWES scale up successfully, challenges remain. For safety reasons, a desire to deploy AWES away from populated areas implies that the market entry for land-based AWES will likely occur outside of population-dense Europe. If they are deployed in Europe, they may compete for space with conventional wind, limiting the complementarity of the technology. Complementarity is an area that needs further research. Offshore, AWES will face challenges due to the harsh environment and because their operating expenses are expected to be a higher fraction of their total cost than traditional wind turbines. The authors note that EU does have an industrial leadership position in this technology and may leverage that as an export advantage, even if deployments are not substantial within Europe.  </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">The report also lays out a detailed phased-gate approach that enables the public sector to participate in risk-controlled AWE development (see Figure ES.3 for example in [36]). The EU report includes several recommendations, quoted below followed by a paraphrased explanation. </P>
+
+<L>
+<LI>
+<LBody xml:lang="EN-US">• “Prove continuous operations: define, achieve, and prove reliability targets.” Focus on setting and achieving reliability targets and enabling developers to share the evidence. AWES field data will be necessary to address many non-technological barriers – like wildlife impacts, investor confidence, and regulatory approval. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• “Substantiate the AWES case: deepen insight in resource potential and resource complementarity.” Collaborate with the AWE sector to better characterize the wind resource from 100-meter (m) to 1000-m altitude through publicly funded measurement and analysis. Confirm resource potential and complementarity before funding full-scale demonstrations. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• “Anchor learning: build on previous experiences and improve fundamental understanding.” Prototype and company failures are to be expected when developing new technology. Public funding should strive to help the sector learn from these failures, anchoring industry progress and preventing repeated missteps. Because of intellectual property concerns, consider promoting informal exchange mechanisms like R&amp;D consortia and test sites. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• “Create a hub: concentrate testing activities in one geographic location.” A test site is a good informal exchange mechanism. The public sector should explore the development of a European test site for AWES. Consult with the sector to determine test site requirements and apply incentives (24/7 operation approval, lower testing fees, wind resource data, grid connectivity, etc.) </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• “Utilize technology crossovers: invest in enabling technologies.” AWES developments have benefitted from enabling technologies like automation, composite materials, and drone technology. Investments in these sectors will provide a return regardless of AWES success or failure. AWES developers should highlight areas where enabling technology needs improvement for AWES applications. </LBody>
+</LI>
+</L>
+
+<L>
+<LI>
+<LBody xml:lang="EN-US">• “Build mutual trust: set realistic expectations and offer a conditional outlook of stable support.” Communication of development timelines and milestones from developers to the public sector helps build the rationale for public funding. This can also help the public sector provide a stable funding outlook, with clear expectations of what kinds of support are available when performance metrics are achieved. Collaboration on common challenges can help accelerate AWE technology development. </LBody>
+</LI>
+</L>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Many of the report’s findings could easily refer to and be applicable to the U.S. market. U.S.-specific traits to consider, for perspective, are the delay of offshore wind deployment relative to Europe, the lack of wind energy penetration in the southeast United States, the generally lower population density, and differences in the airspace regulatory environment. One substantial difference is that the United States does not hold an industrial or technological leadership position in AWES, and therefore is not likely to benefit from export of this technology.  </P>
+
+<P id="LinkTarget_919" xml:lang="EN-US"> </P>
+
+<H2 xml:lang="EN-US">2020 Airborne Wind Energy Topical Expert Meeting </H2>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">International Energy Agency Wind: History and Purpose </P>
+
+<P xml:lang="EN-US">The International Energy Agency (IEA), founded in 1974 to coordinate a unified response to oil supply disruptions, runs a series of Technology Collaboration Programs (TCPs) to promote co-operation and leverage international R&amp;D to accelerate energy technology development. The United States participates in the Wind TCP and researchers at U.S. National Laboratories lead or co-lead several projects, called Tasks, on the topics of systems engineering, blade recycling, wind farm control, and forecasting. The Wind TCP participants represent countries with more than 85 percent of the installed wind capacity globally, so they represent a broad perspective on the state and focus of industry [38]. In September 2020, IEA Wind Task 11 “Base Technology Exchange” held a two-day topical expert meeting on Airborne Wind Energy. This section summarizes the conclusions of the meeting attendees and the future work proposed through the IEA. This summary draws from meeting presentations and proceedings [37] and the proposed IEA Task for Airborne Wind Energy [39]. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Topical Expert Meeting Highlights </P>
+
+<P xml:lang="EN-US">A topical expert meeting (TEM) is a gathering of world experts to discuss the state of a technology, whether a new IEA Wind Task would be helpful, and if so, what the potential scope should be. The 2020 meeting reviewed for this present report was focused on the global development and deployment of AWES. Dr. Roland Schmehl, Professor at TU Delft, summarized what the group hoped to achieve in the long run:  </P>
+
+<P xml:lang="EN-US">“Based on its resource availability and material savings, make AWE the cheapest form of energy. Based on its low environmental footprint, make AWE the most acceptable  form of energy. Combine AWE with other renewable energy technologies to  accelerate the transition to a 100% renewable energy system.” </P>
+
+<P xml:lang="EN-US">The group envisioned a timeline of 1–3 years to market entry for small-scale AWES (up to several hundred kilowatts) into niche markets and 5–15 years to market entry for larger-scale AWES (megawatt-range) that can have an impact on the energy system and achieve AWE’s full potential [40]. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">A session on electrical system requirements noted that AWE electrical systems (generators, power electronics) are challenging for ground-gen systems due to the extremes of operation—slow, high torque, reeling-out and fast, low-torque reeling in. The unique oscillating power generation profiles and the energy required to launch and recover fly-gen systems also pose challenges. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Regarding workforce development, finding potential employees, policy makers, and other stakeholders with awareness of AWE is rare. Recent Ph.D. networks like the Airborne Wind Energy System Modelling, Control and Optimization program (AWESCO [41] EU Horizon 2020) and the New Energy and mobility Outlook for the Netherlands (NEON [42] Dutch Research Council) have contributed both to the research literature and supply of experienced engineers for AWE companies. Specialized programs (across educational levels, e.g., BS/MS degree, pilot certification, technician) or massive open online courses could be developed to improve awareness.  </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">The meeting reinforced the idea that a new IEA Wind Task for AWE should be proposed and established four key international R&amp;D topics for working groups to further refine: </P>
+
+<L>
+<LI>
+<LBody xml:lang="EN-US">• Resource potential and markets. The AWE advantage in power generation is the ability to reach better wind higher up, or to reach the same winds with less mass, and to vary the operational altitude to target the best winds, which are not always at the highest altitude. Because of this, defining a power curve requires care and the industry must establish best practices and standards. One presenter raised the concern that if the energy-harvesting characteristics of AWES are not differentiated from traditional wind turbines, the sector cannot expect significant market penetration [15]. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• Reference models, tools, and metrics. There are several experimentally validated toolsets within academia for the simulation and design of AWES, but there is a need for more training and dissemination. Third-party (e.g., certification) entities will also need validated and well-understood tools to evaluate AWE technology. Researchers have defined a multi-megawatt (MW) rigid-wing ground-gen reference model, but there is no established effort to develop a reference model for any other configuration. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• Safety and regulation. Since AWE consists of flying components, reliability and safety are critically important. The wide variety of AWE architectures (see Section 
+<Reference xml:lang="EN-US">III</Reference>
+) means that the safety concerns are also widely varied, but all have a need for new standards and regulation. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• Social acceptance. Because there are no commercial AWE units, the environmental and societal impacts of AWE are known only to the extent that can be modeled or extrapolated from other technologies. This holds for both potentially detrimental (noise, wildlife impact, visual signature) and potentially beneficial (mobility, lifecycle emissions, flexibility in altitude and operation) aspects of the technology. </LBody>
+</LI>
+</L>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Proposed International Energy Agency Task </P>
+
+<P xml:lang="EN-US">With the framework set by the TEM, the meeting organizers developed a task proposal [39] with five work packages (WPs)—one for each R&amp;D area described in the previous section, plus a fifth added in January 2021, to be executed over the next three years, if approved by Wind TCP leadership.  </P>
+
+<L>
+<LI>
+<LBody xml:lang="EN-US">• WP1:  Resource potential and markets </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• WP2:  Reference models, tools, and metrics </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• WP3:  Safety and regulation </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• WP4:  Social acceptance </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• WP5:  AWES architectures (new since TEM) </LBody>
+</LI>
+</L>
+
+<P xml:lang="EN-US"> The main goal of WP5 is to explore and document the complete design space of AWES architectures and study how they compare in terms of applicability, performance, and impact. The output will also include R&amp;D needs and any found untapped design space. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">The WPs described in this section follow logically from the conclusions of the EU 2018 report [36] and the 2020 TEM [37]—namely, that AWE is an immature technology far from convergence into a dominant architecture and would need rigorous RD&amp;D including public-sector support to achieve its potential. Resource potential and markets (WP1) are inherently country-specific topics that the United States may study, but the tools and techniques for evaluating this can be improved and standardized through collaboration. Safety and regulation (WP3) and social acceptance (WP4) are two key areas that have seen very little study outside of company- and region-specific research.  </P>
+
+<P id="LinkTarget_886" xml:lang="EN-US"> </P>
+
+<H2 xml:lang="EN-US">2021 U.S. Airborne Wind Energy Workshop </H2>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Workshop Purpose </P>
+
+<P xml:lang="EN-US">Held virtually in March 2021, the U.S. Airborne Wind Energy Workshop [6] was designed to gather U.S. AWE stakeholders’ perspectives on the status and potential of AWES to contribute significantly to the U.S. energy system. DOE sponsored the workshop as part of its response to the Congressional AWE inquiry. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Structure and Execution </P>
+
+<P xml:lang="EN-US">NREL hosted the two-day workshop, which included approximately 100 attendees from industry, academia, National Laboratories, Non-Governmental Organizations, and stakeholders within the Federal Government. Three speakers and a panel discussion introduced attendees to the state of global and U.S. AWE research and development, and then a series of breakout sessions elicited feedback in five categories: </P>
+
+<L>
+<LI>
+<LBody xml:lang="EN-US">• Resource potential and energy output. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• Technical potential, social and environmental impacts, and permitting. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• Techno-economic analysis and markets. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• Technology assessment and upscaling. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• Demonstration and commercialization needs. </LBody>
+</LI>
+</L>
+
+<P xml:lang="EN-US"> Key Takeaways </P>
+
+<P xml:lang="EN-US">The workshop proceedings [6], published separately, contain the full scope of the feedback received. Select takeaways from the proceedings include: </P>
+
+<L>
+<LI>
+<LBody xml:lang="EN-US">• Technical potential and techno-economic analysis is very sensitive to several assumptions that have high uncertainty. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• Discussions of higher-altitude wind resource must consider tether length and elevation angle, which tend to negate the benefits of potentially faster winds at higher heights. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• More data and modeling are needed on the wind resource above 200m. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• Research is scarce regarding wildlife and community impacts. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• The public has little knowledge or understanding of the functional and economic attributes of AWE, which hinders investment and commercialization.  </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• Public-sector support would not only assist AWE companies financially but would also lend credibility to the nascent industry. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• Depending on the technology archetype and targeted markets, the needs for technology research and development differ considerably. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• The creation and operational support of an experimental test center for AWE technology research and development would accelerate industry progress.  </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• There are potential benefits of AWE that have not been quantified, e.g., portability, low material inputs, viewshed, co-use of existing grid interconnections. </LBody>
+</LI>
+</L>
+
+<P xml:lang="EN-US">  </P>
+
+<H1 id="LinkTarget_826" xml:lang="EN-US">V. U.S. Challenges and Opportunities </H1>
+
+<P xml:lang="EN-US">This section directly answers the requests from Congress regarding (A) “the potential for, and technical viability of, AWES to provide a significant source of energy in the United States,” (B) a summary of RD&amp;D needs, and (C) a summary of commercialization needs. In each section, a notional 10-year schedule of activities relevant to the discussion in that section is proposed. </P>
+
+<P id="LinkTarget_828" xml:lang="EN-US"> </P>
+
+<H2 xml:lang="EN-US">Potential and Viability </H2>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Relationship to Traditional Wind </P>
+
+<P xml:lang="EN-US">AWE accesses a resource that could provide a significant source of energy for the United States; the technical resource potential of airborne wind, while uncertain, is likely similar in magnitude to the traditional wind potential in the United States. NREL analysis along with AWE community feedback [6] suggest a range of conceptual AWES with capacity densities from 0.44 MW/km2  to 19.6 MW/km2 based on tether length, rated power, and system architecture assumptions. Analyses also empirically identify a range of 1–18 MW/km2 for installed U.S. wind farms, showing that it is plausible to achieve significant variation in installed capacity density [7]. From this range of capacity densities comes a similarly wide range of technical resource potential, but both traditional wind and AWE have significant technical resource potential on the same order as or larger than the total U.S. electricity generation capacity of 1.2 terawatts [43].  </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">At many locations in the United States, there is an increase in average wind speed with altitude up to ~300m, above which the wind speed profile becomes mostly flat up to 500m [7]. Any discussion of reaching additional wind resource at significant heights must consider the effects of increased tether length and elevation angle, which tend to reduce these gains [6]. In the windiest locations, the higher altitude achieved by AWE is less important, therefore the value of AWE may come from areas with low wind, high shear, or high terrain complexity.  </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Malz [44] performed one of the first complementarity studies
+<Link>3</Link>
+ for continental Europe and found that “AWE is most valuable to the electricity system if installed at sites with low wind speed within a region. At greater shares of the electricity system, even if AWES could demonstrate lower costs compared to wind turbines, AWE would merely substitute for them instead of increasing the total share of wind energy in the system.”  The study used only one AWE design concept (fly-gen) and focused specifically on onshore deployments in Europe, so additional AWE concepts and the U.S. context (including offshore) could be studied for a more complete perspective on this question.  </P>
+
+<Footnote>
+<P xml:lang="EN-US">3 Research to describe the degree to which airborne wind energy can generate electricity cost effectively where or when traditional wind energy cannot. </P>
+</Footnote>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">In a different view of complementarity, the supply chains for traditional and airborne wind energy will be largely independent; as such, the development of AWE technology could help mitigate potential supply chain constraints in a scenario with rapid clean energy deployment. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Viability for Distributed, Remote, and Disaster Applications </P>
+
+<P xml:lang="EN-US">Many developers (in the United States and globally) are focused on relatively small AWES, rated at 1–100 kilowatts (kW), for distributed, micro-grid, off-grid, or military customers. This is due to (1) the global nature of the potential market, (2) the higher value of energy in that market, (3) the need for low-cost design prototypes, many of which are destroyed during testing, and (4) the cost and technology risk perceived by utility scale players that could favor larger designs. The value of energy for military forward operating bases, for example, is high because soldiers may be put in harm’s way to deliver the fuel for diesel generators [45]. Remote communities or islands may not have reliable grid connections or may be reliant on imported diesel fuel. In those cases, AWE can complement solar PV or other distributed energy resources in microgrid applications. Assuming such communities have the capacity to manage the deployment and maintenance of advanced technologies like AWE, these applications can provide critical energy to communities and individuals that need it but may not have a large impact at grid scale. One challenge for single-unit installations is that energy storage above and beyond a typical microgrid may be needed to smooth out power fluctuations.  </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Viability for Land-Based Applications </P>
+
+<P xml:lang="EN-US">The potential of AWE as a stand-alone utility resource on land is sensitive to a variety of performance metrics, such as capacity factor, specific power e.g. kite MW/m2, and power capacity density e.g., installed MW/km2. It is also sensitive to tether lengths and required safety setbacks from the wind farm to civil infrastructure, which may vary depending on system architecture, scale, regulation, and available on-board safety systems [7]. Because of these sensitivities and the lack of any commercial platform on which to baseline analysis, the technical potential of AWE (which accounts for social, environmental, and regulatory spatial considerations and technology performance) is highly uncertain. Based on NREL’s analysis of characteristics that may lead to a cost-competitive AWE system in 2030 [7], a successful land-based AWE product would have traits specific to the areas in which it is deployed. If land for development is scarce, the focus would be on achieving high-capacity densities above 10 MW/km2. If land is plentiful, AWE could target high-capacity factors and lower capital expenditures to be competitive. This approach is not unique to AWE; traditional wind similarly tailors products for specific markets, such as larger rotors or taller towers in areas with lower wind speeds [46]. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Viability for Hybrid Power Plants or Repowering </P>
+
+<P xml:lang="EN-US">Electricity-producing facilities can potentially benefit from co-locating airborne wind within the footprint of existing or new development. Wake losses of AWE technology are believed to be low [47], so they could potentially be deployed within the footprint of existing wind farms to increase capacity factor. In older wind farms with smaller turbines, AWES could potentially fly entirely above the existing structures or be part of a repowering solution for older turbines at the end of their design life. Similarly, the shadow of a kite at relatively high altitude is believed to be minimal and the foundation infrastructure much smaller than traditional wind, so AWE could also be deployed within utility-scale solar plants to complement the diurnal nature of their resource. It is important to note that these applications are hypothetical, have not been demonstrated, and may introduce new challenges (e.g., difficult flying in the wake of a traditional wind turbine, property risks from overflying a solar installation, and the dense spacing of older wind farms), but they could perhaps help plant owners and grid operators make the most of existing infrastructure. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Viability for Offshore Applications </P>
+
+<P xml:lang="EN-US">The theoretical AWE attributes of low wake losses, smaller and cheaper support structures, and the ability to install and maintain them without needing expensive large service vessels make a compelling case for further technology research and development in offshore applications. Approximately 58 percent of the U.S. offshore wind resource is in water deeper than 60m and will require floating platforms to access using conventional wind turbines [48]. The floating platform is the largest CapEx component of LCOE for floating wind [49]; therefore, AWE may have an advantage in deeper waters if they are able to operate from significantly smaller platforms or with lower mooring requirements. However, these beneficial attributes have yet to be demonstrated—onshore or offshore. The smaller scale (in MW per unit) predicted for initial offshore AWE installations may force more units to be installed in an area to generate the same rated capacity. This could cause greater conflict with other ocean users and stakeholders. In the United States, where offshore projects are planned with relatively constant spacing between turbines (~1 nautical mile grid) [50] to allow for navigation and co-use, it may be challenging for AWE to achieve the same capacity densities as traditional wind [7]. The contribution of AWE in the offshore space will be sensitive to the scaling potential of AWE concepts to higher capacity per platform, through unit scale or multiple kites, and to the ability of the industry to demonstrate reliability over thousands of launch/generate/land sequences. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Activities to Further Quantify Potential and Viability </P>
+
+<P xml:lang="EN-US">Initial techno-economic analysis for the U.S. market [7] has focused on onshore deployment and found that the results are sensitive to a variety of uncertain inputs including setbacks, tether length, system performance, operational expenses, and achievable AWE array capacity density. The uncertainty can be traced partly to the fact that there are no megawatt-scale products or commercial deployments on which to base the analysis, and partly to the wide range of AWE designs, performance, operational strategies, and cost projections found in literature and shared at the recent U.S. airborne wind workshop. As more data become available and tools for modeling system cost and performance evolve, this analysis could be extended and periodically revisited with an eye toward national and regional cost and feasibility studies to evaluate key cost drivers, market potential (including offshore), and operational strategies of AWES. </P>
+
+<P xml:lang="EN-US">  </P>
+
+<P xml:lang="EN-US">Wind energy developers and researchers have spent considerable sums to characterize the planetary boundary layer up to the tip heights of existing wind turbines (~200m), and there is still great uncertainty in the dynamics of the shears, veers, and turbulence at those elevations. AWES may fly much higher (primarily 200–800m) and quality field data in that range are even more scarce. Developers and policymakers need accurate wind resource data to make design and investment decisions, suggesting a need for multiple long-term measurement campaigns, including at least one located offshore, and refinement of mesoscale modeling techniques to better enable extrapolation to other locations. Existing wind resource datasets that end at 200m could be updated with results extracted as high as 1km to inform techno-economic modeling, support preliminary siting, and encourage developer interest. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">To track the development of the technology and further refine our estimates of the available resource and technical potential, several activities are highlighted in 
+<Reference xml:lang="EN-US">Table 2</Reference>
+. Research, development, deployment (RD&amp;D) and commercialization activities can continue in parallel and are discussed in sections that follow. </P>
+
+<P xml:lang="EN-US">  </P>
+
+<P xml:lang="EN-US">Table 2. Activities to Establish the Potential and Viability of Airborne Wind  </P>
+
+<P xml:lang="EN-US"><Figure>
+
+<ImageData src="images/2021 - Challenges and Opportunities for Airborne Wind Ene_img_10.jpg"/>
+Research QuestionActivity Description12345678910How good is the domestic wind resource above 200m?Investigate alternative winds aloft data sources leveraging various federal agency activities (NWS, FAA, NASA)Targeted resource measurement field campaigns onshore &amp; offshore, 200–1000mUpdate and validate wind resource models up to 1km altitude, refine as measurement campaign informs validationWhat are the costs and opportunities of AWE?Develop and publish technology baselines, reference scenarios, LCOE projections, and cost breakdown (e.g. CapEx, OpEx) estimatesTechno-economic assessment combining technology performance with wind resource  to determine where &amp; when AWE is competitive.  Update periodicallyPotential and ViabilityNotional 10 Year Timeline</Figure>
+ </P>
+
+<P xml:lang="EN-US"> </P>
+
+<H2 xml:lang="EN-US"> </H2>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">  </P>
+
+<H2 id="LinkTarget_785" xml:lang="EN-US">Research, Development, &amp; Demonstration </H2>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">System Design and Analysis Tools </P>
+
+<P xml:lang="EN-US">Open-source simulation tools, in combination with well-documented reference models, have been valuable tools for technology advancement in many applications, including wind energy. These resources do not exist for AWE. Their absence hinders the ability to conduct accurate technical assessments of various AWES, as well as the ability to capture fundamental knowledge gained by the industry over time. Several toolsets are available ( [51], [52], [53]), but are all in some way either concept-specific, or are otherwise lacking the simulation capabilities or validation needed to properly evaluate the performance and aeroelastic loading of various AWES concepts. At a lower fidelity, a steady state model of AWES, along with concept-agnostic, first-order sizing, performance, and cost models (such as those proposed by Trevisi et. al. [54]), could be developed and enhanced. This would allow industry to further explore the AWE design space, evaluate new AWE concepts, and optimize power plants that utilize a mix of AWE and other generation or storage assets.  </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Wake losses are typically assumed to be small for AWE and early modeling tends to agree [47], but this could be confirmed with rigorous assessments that require either measurements at the farm scale, or high-fidelity simulation of at least two AWES interacting in operation. Quantifying the potential wake losses would reduce the performance risk of siting airborne systems too close, or of assuming that such a close spacing is feasible when determining the technical potential of the wind resource. Many researchers and stakeholders ( [6], [37], [55]) have expressed interest in or performed some initial scaling research, exploring how well various system architectures scale, and what might that suggest about when, where, and how they will be deployed. Appropriately, this is being studied by the new IEA Wind Task [39] and could be studied by U.S. participants. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Reference Designs and Performance Metrics </P>
+
+<P xml:lang="EN-US">Some generic AWE designs have been proposed (e.g., a small ground-gen model with 3m2 wing [44] and a multi-MW, 150m2 ground-gen model [56]), however more detailed concepts, reference controllers, or designs of a different architecture may become necessary for simulation tool benchmarking and collaboration among industry partners. Similarly, AWE needs a common set of metrics and language when discussing TRL and the performance of potential products. ECORYS [36] and Weber et al., [57] have proposed example language, and the IEA Wind Task [39] has proposed WP2: Reference models, tools, and metrics to support this industry need. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Grid Compliance/Integration and Control </P>
+
+<P xml:lang="EN-US">Airborne wind energy systems have different generation characteristics than traditional wind turbines. For example, single-kite fly-gen systems have a cyclic power output due to wind shear and gravity effects (
+<Reference xml:lang="EN-US">Figure 5</Reference>
+, left) and most ground-gen concepts consume power for a short time during what’s called a pumping cycle (
+<Reference xml:lang="EN-US">Figure 5</Reference>
+, right), although designs have been proposed to avoid this [58] and it can be mitigated at low cost using wind farm controls [44].  </P>
+
+<P xml:lang="EN-US">It is worth studying the available types of energy storage and intelligent controls (including machine learning and artificial intelligence methods) that will add the most value by pairing them with airborne wind. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US"><Figure>
+
+<ImageData src="images/2021 - Challenges and Opportunities for Airborne Wind Ene_img_11.jpg"/>
+</Figure>
+ </P>
+
+<P xml:lang="EN-US">Figure 5. AWE power generation profiles, fly-gen (left) and ground-gen with a pumping cycle (right) from Fig 4.1 in Malz 2020 [44] </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Several sets of industry standards define the expected functional performance for bulk power system or distribution-connected generation resources. Although not all standards, such as IEEE 1547 and IEEE P2800, are universally mandatory as of today, it is still important to design the standard-compliant controls to streamline the future interconnection process. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">One important step in the utility interconnection process is the impact study, in which system reliability is evaluated to make sure the interconnecting generator will bring “no harm” to the surrounding grid. Establishing standard airborne wind models will not only ease the model preparation for interconnection, but the models can be used for long-term planning, real-time control, and future research needs for airborne wind grid integration. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Grid analytics on all time scales, from operations and dispatch to long term planning, would need to be updated to best incorporate the benefits of airborne wind. Powered by those tools, grid adequacy and operating reliability could be evaluated. The results will inform mid- to long-term technology needs to integrate airborne wind into the grid. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Physics of Alternative Wing Structures </P>
+
+<P xml:lang="EN-US">Compliant structures like power kites are new to wind energy but are studied extensively in other contexts (kite sports, sailing, and military air drop [59]). TU Delft [60] and Toyota Research Institute [61] are actively pursuing this topic in the AWE space and have found that the in-flight deformation of fabric kites significantly impacts their aerodynamic performance. Testing and modeling these soft (or semi-rigid, or segmented) structures with high-fidelity fluid-structure interaction computational tools can lead to new physical insight and more accurate engineering models and allow improved design of high-performance and durable soft kites. Since the market has not yet converged around a specific wing architecture, it is not clear that this would be a high-impact activity in the short term, but high-fidelity modeling would play an important role in the development of soft kites. Model validation would require installation of a soft kite prototype with sufficient instrumentation to obtain a series of measurements capturing its motion, deformation, and performance in flight. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Material Inputs </P>
+
+<P xml:lang="EN-US">Many companies use commercially available ultra-high-molecular-weight polyethylene rope, such as DyneemaTM, for tethers, which is quite strong and light, and floats in water. Fly-gen companies, however, need conducting tethers to transmit power to ground, and these tend to be custom-made. Tether replacement is an expected operations and maintenance (O&amp;M) cost (potentially annually) for ground-gen systems that repeatedly reel a tether on and off a drum, whereas it is less common for fly-gen systems. Given the significance of O&amp;M costs for ground-gen systems, a common R&amp;D facility, test methods, and tether qualification may provide value to the overall industry as a broader supply chain develops around tethers and tether connectors. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">More broadly, the requirements for constructing and deploying AWES could be examined for the use of critical materials, supply chain constraints, key impediments to scaling and manufacturability, and fundamental physical limitations of known inputs (e.g., high-performance fabric). This analysis could be shared broadly with industry and would inform future technology or materials development efforts. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">System Reliability and Performance </P>
+
+<P xml:lang="EN-US">To deploy their technology with affordable debt financing like traditional wind energy technology, AWE developers need to demonstrate long-term autonomous operation and failsafe controls (tether failure, icing, rain, hail), among other things. Accelerator programs and “fly-off” competitions at a shared test site could encourage new industry participants and push existing players toward these goals. Prizes could be awarded for power performance and reliability metrics. Fostering discussion and partnerships between AWE entrepreneurs and established wind energy developers could push AWE technology significantly closer to commercialization.  </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">R&amp;D Facilities  </P>
+
+<P xml:lang="EN-US">An airborne wind test site is needed to accurately characterize the performance of AWES and allow entrepreneurs to prove the reliability of their systems. A test site can also act as a catalyst for informal collaboration and knowledge sharing [36] and help connect National Laboratories to industry. Instrumentation needs at such a site include the capability to measure wind speeds and other environmental conditions up to 1km above ground level, along with other sensors and infrastructure to characterize the motion, performance, and loads on the test vehicle. Avian radar or other wildlife detection capabilities can enable rigorous wildlife impact assessments. These R&amp;D facilities can evolve over time to support critical subsystem R&amp;D (e.g., tether dynamics and loads, kite structural testing, or material environmental degradation), as well as operational testing for arrays of kites to demonstrate wind farm controls, kite wake effects, and energy production at scale. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Industry R&amp;D </P>
+
+<P xml:lang="EN-US">Many U.S. AWE players are small businesses or entrepreneurs and may be undercapitalized to execute internal R&amp;D projects that would improve the performance or reliability of their products. In addition to R&amp;D funding for these internal priorities, some groups may benefit from access to expert design reviews, test facilities, and certification assistance from the National Laboratories. NREL’s Competitiveness Improvement Project [62] has helped meet the R&amp;D needs of the distributed wind industry since 2013 and it (or a similarly framed program) could play an expanded role in AWE as well. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">The activities highlighted in 
+<Reference xml:lang="EN-US">Table 3</Reference>
+ would help better evaluate the system architecture tradeoffs, develop improved physical understanding of AWES operation, and assist the nascent U.S. AWE market in improving the performance, reliability, and scalability of the technology.  </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US"><Figure>
+
+<ImageData src="images/2021 - Challenges and Opportunities for Airborne Wind Ene_img_12.jpg"/>
+Research QuestionActivity Description12345678910How do we evaluate AWE within the energy landscape?Low-order AWE cost and scaling models and integrated system analysis,reference models and controllersStructural and aeroelastic modeling of AWE systems for controls, performance, and loads optimization in turbulenceHigh-fidelity modeling for turbulent inflow, aerodynamics, loads, wakes, and AWE physics understanding; in later years, soft kite modelingHow do we best integrate AWE systems with the grid?Grid impact studies stakeholder engagementPilot-scale demonstration of AWE integration with micro/mini-grid including storageEstablish standard AWE models for grid integrationFull-scale demonstration of hybrid (AWE+storage) systemAre there any potential roadblocks on the AWE developmental path?Critical material inputs, critical component/subsystem capability,  supply chain survey, airspace &amp; groundspace use and restrictionsHow reliable are AWE systems?How reliable can they be?Establish, equip, and staff a permitted flight test site and support facility for AWE power production and reliability testingEnhance test facilities for subcomponents as needs evolve - tether fatigue, kite loads, hybrids, grid integration, multi-kite array, etc.Fly-off with prizes for reliability and performance (100kW–200kW scale)Fly-off with prizes for reliability and performance(300kW–1MW scale)How to support industry R&amp;D and engagement with national laboratories?Competitive program to fund technology development from TRL 1-6, national lab support available with these awardsTechnology RD&amp;DNotional 10 Year Timeline</Figure>
+</P>
+
+<H2 id="LinkTarget_731" xml:lang="EN-US">Commercialization </H2>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Standards and Certification </P>
+
+<P xml:lang="EN-US">The traditional wind turbine industry has benefited from an international standards and certification process that established the performance requirements and operational load cases that the system must survive. These agreed-to criteria lifted an industry from a collection of designs with widely variable reliability, to an industry with predictable performance and ever-increasing reliability. Normal operational conditions of atmospheric shear, veer, and turbulence as a function of elevation could be defined. The most critical need is for a set of atmospheric events that every system must prove it can survive and under which every system must be able to retrieve their kite and bring it safely to stow. Standards for power performance measurement are also critical given that the systems operate at variable altitude. Developing standards or recommended practice for acoustic testing would minimize risk prior to large-scale deployment or deployment near occupied residences. In the near- to medium-term, the United States could support appropriate international efforts for certification of AWES working with the International Electrotechnical Commission (IEC) e.g., IEA WP3: Safety and regulation [39]. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Safety and Regulation </P>
+
+<P xml:lang="EN-US">Many unanswered and understudied questions for AWE relate to safe land and airspace use in and around the AWE installation. Under what conditions may an AWE system overfly a highway? What is the minimum setback distance of residences or infrastructure from an AWE system and how does that depend on the level of redundancy or architecture of the system? What markings or lighting are required to ensure visibility? A 2018 review by Salma et. al. [63] concluded that “the regulation framework for AWE systems is not yet mature,” and that the framework would likely be shaped by early movers in the industry. Like with certification, safety is a global need and U.S. constituents could both contribute to and leverage appropriate international efforts. There are U.S.-specific regulatory questions which will require engagement from the Federal Aviation Administration (FAA) (e.g. [64]) and others
+<Link>4</Link>
+ to help answer, and through that engagement the United States may support the proposed IEA TCP Wind Task for Airborne Wind, specifically WP3: Safety and regulation [39]. </P>
+
+<Footnote>
+<P xml:lang="EN-US">4 Bureau of Ocean Energy Management, Bureau of Safety and Environmental Enforcement (BSEE), International Civil Aviation Organization, Joint Authorities for Rulemaking on Unmanned Systems, and Occupational Safety and Health Administration (OSHA) </P>
+</Footnote>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Social Acceptance (Noise/Visual) </P>
+
+<P xml:lang="EN-US">Soft kites tend to fly slower than traditional wind turbine blades so are likely quieter. Rigid kites with fly-gen will likely be louder than traditional turbines due to the high speeds of the kite’s propeller tips. AWE acoustic emissions can be modeled, measured, and considered in deployment scenarios. Proponents suggest that the shadow flicker (the shadow of the kite passing over people and structures on the ground) is much lower with airborne wind than  </P>
+
+<P xml:lang="EN-US">  </P>
+
+<P xml:lang="EN-US">traditional wind. Once visual impact has been quantified, analysis can explore the potential opportunities and economics of wind energy systems that are able to land and effectively disappear from the viewshed. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Environmental Impacts </P>
+
+<P xml:lang="EN-US">It is generally accepted that traditional wind turbines do not have population-level impacts on migratory birds due to low altitude, but AWE technology has a different visual signature and flight path so the impact warrants study. Some limited research in this area has been done by AWE developers at their test sites (e.g., KiteMill [65] and Makani [66]), but the most complete work, by Bruinzeel, et al., [67] used a probabilistic approach with data from aircraft as an analog for the kite and power lines as an analog for the tether. They estimate that bird fatalities of an average rigid airborne wind system would be comparable to the average wind turbine, but gave a wide range of possible values and did not distinguish between AWE architectures. Other well-studied analogs could be used, such as guy wires on communication towers [68]. Soft kites may have an advantage as they tend to fly slower and may deform to cushion any impact, but the tether would be no less dangerous.  </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">U.S. research could start with similar but broader first-order analysis to better understand the challenge and help define the needed field campaigns. Pre-construction wildlife surveys could be completed on any new AWE installation, but beginning monitoring before there is an AWE with reliable operation is unnecessary, which puts fieldwork several years in the future. Given the potentially large areas swept by a long tether, technology development may be needed as part of the monitoring solution e.g., fiber-optic monitoring, kite- or ground-station- mounted sensing, or thermal imaging for falling carcasses. When a pre-commercial or prototype site is operating continuously, wildlife interactions can be observed to validate impact and fatality estimates. As needed, researchers and industry can develop techniques or technology to minimize collisions with wildlife, e.g., adjusting flight altitude or flight path to avoid songbirds or landing during significant wildlife activity. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">The IEA airborne wind task proposal includes WP4: Social Acceptance [39], which studies these topics and more, and can be supported by U.S. efforts. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Radar Interference </P>
+
+<P xml:lang="EN-US">AWES, like traditional wind turbines, will have to address concerns about radar interference. However, if curtailed due to radar, AWES may have to land—potentially increasing the financial loss for the operator associated with curtailment. Existing processes for assessing wind turbine radar interference are applicable to AWE and are likely to be sufficient in driving stakeholder awareness and determining the radar impact of various AWE architectures (soft, rigid fly-gen, and rigid ground-gen) on a relative basis. If radar is more sensitive to AWE systems, then follow-on R&amp;D work could consider ways to minimize the interference.  </P>
+
+<P xml:lang="EN-US">  </P>
+
+<P xml:lang="EN-US">Workforce Development </P>
+
+<P xml:lang="EN-US">To address workforce development in undergraduate programs, the existing and successful Collegiate Wind Competition could be a model for an AWE collegiate competition – one that would make use of simulation tools or test facilities proposed elsewhere. At the post-graduate level, creating one or more centers of excellence at U.S. universities, where a cohort of masters or doctoral students work on different aspects of the airborne wind challenge, could quickly advance the state of the art in the United States, and provide a supply of talented researchers to industry and the national laboratory system. For installation and O&amp;M, the skillsets of the existing (and growing) wind turbine technician workforce somewhat overlap with the skill requirements for AWE, but the ability to perform maintenance at ground level means the jobs are safer and less physically taxing. A workforce-related benefit is that the O&amp;M needs of airborne wind may be substantially higher than traditional wind, potentially increasing the number of permanent local jobs. To the extent that additional skillsets are needed (e.g., power electronics, drones), the growing workforce of electric vehicle maintainers and the popularity of maker spaces and drones may help increase the number of qualified candidates. If the industry begins serial production and operation of high-throughput facilities, these assumptions could be revisited, and the development of technical school or community college curricula may be considered. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Policy Levers </P>
+
+<P xml:lang="EN-US">Conventional wind energy in the United States has benefited immensely from the Production Tax Credit. However, AWE is a very different technology, has a much lower TRL and higher cost basis, and it is appropriate to treat it separately from conventional wind energy for the purposes of policy support. It is worth careful study as to which policy or financial incentives are most appropriate for an energy technology that has not yet achieved convergence around a specific architecture. Would such incentives be helpful or hurtful at this stage? At what stage could they be introduced for cost-effective results? </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">To help AWE to address the commercialization needs above over a ten-year time frame, a series of activities is summarized in 
+<Reference xml:lang="EN-US">Table 4</Reference>
+. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US"><Figure>
+
+<ImageData src="images/2021 - Challenges and Opportunities for Airborne Wind Ene_img_13.jpg"/>
+Research QuestionActivity Description12345678910How can we standardize the terminology, design, testing, and certification to enhance bankability and insurability?Support international AWE standards development with U.S. industry, IEC, etc.What are standard safety practices that should be followed for siting and operation of AWE?U.S. stakeholder engagement: OSHA / BSEE / FAA / industryfeed into IEA Task WP3What are the human impacts of significant AWE development?Modeling and experimental campaigns (acoustics, flicker, lighting, visual impact, IEA Task WP4)What is the impact of AWE on birds, bats and other wildlife?Literature survey and analysis to bound the problem with various AWE architectures, plan monitoring campaign for test siteField monitoring campaign at test site and early pre-commercial site once continuous operation is achievedDevelop technologies to measure and mitigate wildlife impacts as neededWhat are the effects of AWE on radar stakeholders?Extend interagency Wind Turbine-Radar Interference Mitigation Working Group to include AWEDetermine relative impact of AWE concepts on radar and develop mitigation measures, as needed, to reduce interferenceHow can we train U.S. workers for jobs created in this sector?Center of Excellence for AWE, supporting MS and PhD'sNew AWE Collegiate Wind CompetitionDevelop additional AWE-specific curricula for technical schools and community collegesWhat kinds of policy and financial incentives are appropriate for AWE?Study historical impact of policy levers on energy technologies similar to AWE, recommend policy for out-yearsCommercializationNotional 10 Year Timeline</Figure>
+</P>
+
+<H1 id="LinkTarget_697" xml:lang="EN-US">VI. Conclusion </H1>
+
+<P xml:lang="EN-US">Fully answering the question posed by Congress regarding the viability of airborne wind to provide a significant source of energy in the United States requires some consideration of how quickly AWE might contribute as a source of energy. For airborne wind, a nascent, unproven technology, to achieve significant commercial success by 2035 would require a rapid expansion of R&amp;D activities and an acceleration of commercialization that is unprecedented in energy production technology. For a sense of scale, Federal support of wind energy research dates back over four decades, the wind production tax credit almost three decades, and it has taken nearly that long for wind to become commercially competitive across much of the country. AWE becoming a significant source of energy by 2050 is possible, but the uncertainty in estimating technology cost declines (for AWE and other clean technologies) and the evolution of the U.S. power sector size and requirements means that projection is much more difficult to make with confidence.  </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">The U.S. Department of Energy works closely with the Office of Management and Budget to provide annual budget requests to Congress for Departmental activities. For reference, in fiscal years 2020 and 2021, the Wind Energy Technologies Office was allocated $104M and $110M respectively. Federal entities have supported the development of AWE technology with approximately $13M direct investment since 2009. There has also been $11.9M of investment in kite-like devices for underwater energy harvesting. However, no Federal office holds a strategic overview of these investments and how they interrelate, and there is no corresponding research program within the national lab complex that could serve as the foundation of a growing airborne wind industry. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">One can find lessons in the development of Makani’s AWE technology (see [66] and [69], discussed more fully in the Appendix). With an infusion of funding from Google, Makani scaled up quickly from a 20kw to a 600kw prototype, which locked capital in tooling, embedded additional cost into every airframe and every flight test, and led the team to focus for a decade on one concept that they ultimately concluded did not have a path to commercialization. Future research can mitigate risk by initially considering multiple, low-TRL concepts, at relevant but small scales, and by insisting that well-understood performance and reliability targets be met at that TRL level before supporting larger (costlier) scale prototypes or pilots. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Prior R&amp;D can also provide insight. Wiser and Millstein [70] recently estimated that the U.S. Wind Energy R&amp;D program generated an 18-to-1 benefit-to-cost ratio from $1.7B of investment across 1976–2017. This implies that even if a clean energy technology has some risk of failure, the expected value of R&amp;D may be positive because of the significant long-term societal benefits of successful commercialization. </P>
+
+<P xml:lang="EN-US">  </P>
+
+<P xml:lang="EN-US">Based on insights gained from literature, NREL analysis, domestic and global outreach through the U.S. AWE workshop, numerous industry interviews, and an overall assessment, the following conclusions are drawn regarding the potential for, and technical viability of, airborne wind energy systems to provide a significant source of energy in the United States:  </P>
+
+<L>
+<LI>
+<LBody xml:lang="EN-US">• The technical resource potential of wind energy available to AWE systems is uncertain, but likely similar in magnitude to that available to traditional wind energy systems. The extent to which AWE represents an additional wind energy resource is not clear, and it will depend on the energy harvesting characteristics of commercial designs. Even if there is no additionality, the resource (along with that of traditional wind energy) remains significant compared to national electricity use. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• If AWE could be captured economically, it could provide a significant source of energy. In general, however, AWE remains an immature and unproven technology that requires significant further development before it could be deployed at meaningful scales at the national level.  </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• AWE technologies are fundamentally new. They are different from traditional wind turbines in their design, manufacture, supply chain, logistics, installation, operations, and maintenance. Challenges and opportunities arise from these differences and are not within the scope of traditional wind energy research and development (R&amp;D). </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• AWE system designs to date are diverse and largely experimental. There is little convergence, so far, as to a preferred technology or approach, and no megawatt-scale AWE systems have been commercially deployed. Several AWE designs under development show promise. The overall design space has not yet been fully explored. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• Like high-performance aircraft, AWES can be technically complex and must sustain flight through demanding atmospheric conditions. However, AWES also must operate autonomously and are tethered to the ground, presenting additional challenges. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• Federal programs have intermittently supported U.S. AWE R&amp;D in the past (~$13M since 2009). However, AWE is actively supported by research programs in the European Union (EU) (~$58M since 2008), where most AWE advancements occur. </LBody>
+</LI>
+</L>
+
+<P xml:lang="EN-US">With these factors in mind, the report’s authors identified research, development, demonstration, and commercialization (RDD&amp;C) activities needed to advance and validate the technical and economic viability of airborne wind energy systems. These plans span a notional 10-year period and, if pursued, could occur within a phased-gate approach that communicates expectations for progress at each stage-gate, before commencing the next stage of investment. </P>
+
+<P xml:lang="EN-US">A conceptual RDD&amp;C plan could include the following elements and activities: </P>
+
+<L>
+<LI>
+<LBody xml:lang="EN-US">• Characterize the quantity, quality, and complementary nature of the wind resource above traditional wind turbines, higher than 200 meters (m). • Carry out national and regional cost and feasibility studies to evaluate key cost drivers, market potential (including offshore), and economic benefits of AWE technology. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• Broaden and deepen the physical understanding of various AWE concepts through modeling and simulation with a focus on power density, robust controls, and scaling potential. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• Establish test facilities and research capacities to enable AWES developers to prove system and sub-system reliability and performance, and to study grid/micro-grid integration. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• Encourage industry R&amp;D, including with cooperative research and development agreements or other mechanisms that enable access to research and engineering talent at the National Laboratories. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• Participate in standards-setting organizations and contribute to the establishment of international standards for AWE design, testing, and certification. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• Assess the social acceptance and environmental implications of AWE technology. Explore and, to the extent possible, quantify the environmental and human impacts of AWE. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• Attract and develop a pool of talent for the AWE industry through research fellowships, centers of excellence, prize competitions, and other training mechanisms.  </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• Explore options for cost-effective policies and technical assistance mechanisms for the development and commercialization of AWE technology. </LBody>
+</LI>
+</L>
+
+<P xml:lang="EN-US">The above elements and activities are integral parts of a whole concept. All are important, but their relative priority and timing over a 10-year period would be determined by the desired commercial timeline, availability of funding from various sources, and the targeted AWE market.  </P>
+
+<H1 id="LinkTarget_661" xml:lang="EN-US">VII. References </H1>
+
+<P xml:lang="EN-US"> </P>
+
+<Table>
+<TR>
+<TH>
+<P xml:lang="EN-US">[1]  </P>
+</TH>
+
+<TH>
+<P xml:lang="EN-US">M. L. Loyd, &quot;Crosswind Kite Power,&quot; Journal Energy, vol. 4, no. 3, pp. 106-111, 1980.  </P>
+</TH>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[2]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">R. Schmehl, &quot;Airborne Wind Energy Explained,&quot; 20 June 2019. [Online]. Available: http://www.awesco.eu/awe-explained/. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[3]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">T. Nam, O. Vahid, R. Gupta and R. K. Kapania, &quot;High Altitude Airborne Wind Energy,&quot; in AIAA SciTech Forum, Virtual Event, 2021.  </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[4]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">&quot;Omnidea Aerial Platforms,&quot; [Online]. Available: https://www.omnidea.net/aerial-platforms.html. [Accessed 10 February 2021]. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[5]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">&quot;Altaeros,&quot; [Online]. Available: https://www.altaeros.com/. [Accessed 10 February 2021]. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[6]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">J. Weber, M. Marquis, A. Lemke, A. Cooperman, C. Draxl, A. Lopez, O. Roberts and M. Shields, &quot;Proceedings of the 2021 Airborne Wind Energy Workshop,&quot; National Renewable Energy Laboratory, Golden, CO, 2021. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[7]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">J. Weber, M. Marquis, A. Cooperman, C. Draxl, R. Hammond, J. Jonkman, A. Lemke, A. Lopez, R. Mudafort, M. Optis, O. Roberts and M. Shields, &quot;Airborne Wind Energy,&quot; National Renewable Energy Laboratory, Golden, CO, 2021. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[8]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">M. Diehl, &quot;Airborne Wind Energy: Basic Concepts and Physical Foundations,&quot; in Airborne Wind Energy, U. Ahrens, M. Diehl and R. Schmehl, Eds., Springer, 2013.  </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[9]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">U. Zillman and K. Petrick, 13 August 2020. [Online]. Available: http://www.airbornewindeurope.org/. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[10]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">US Energy Information Administration, &quot;Wind Explained: Electricity generation from wind,&quot; 24 March 2020. [Online]. Available: https://www.eia.gov/energyexplained/wind/electricity-generation-from-wind.php. [Accessed 9 February 2021]. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[11]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">US Energy Information Administration, &quot;Today in Energy: Wind has surpassed hydro as most-used renewable electricity generation source in U.S.,&quot; 26 February 2020. [Online]. Available: https://www.eia.gov/todayinenergy/detail.php?id=42955. [Accessed 9 February 2021]. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[12]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">Federal Energy Regulatory Commission, &quot;Energy Infrastructure Update: December 2020,&quot; 8 February 2021. [Online]. Available: https://cms.ferc.gov/media/energy-infrastructure-update-december-2020. [Accessed 8 February 2021]. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[13]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">U. Zillmann and P. Bechtle, &quot;Emergence and Economic Dimension of Airborne Wind Energy,&quot; in Airborne Wind Energy: Advances in Technology Development and Research, R. Schmehl, Ed., Springer, 2018, pp. 1-25. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[14]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">International Renewable Energy Agency, &quot;Innovation Outlook: Offshore Wind,&quot; 2016. [Online]. Available: https://www.irena.org/publications/2016/oct/innovation-outlook-offshore-wind. [Accessed 11 June 2021]. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[15]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">P. Bechtle, &quot;Resource Potential: Wind Studies and Power Curves,&quot; in IEA Wind Topical Expert Meeting #102, Virtual, 2020.  </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[16]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">R. Schmehl, &quot;Airborne Wind Energy R&amp;D Overview EU/Global,&quot; in US Airborne Energy Workshop, Virtual, 2021.  </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[17]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">W. Schmidt and W. Anderson, &quot;Kites: Pioneers of Atmospheric Research,&quot; in Airborne Wind Energy, U. Ahrens, M. Diehl and R. Schmehl, Eds., Springer, 2013.  </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[18]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">H. Honnef, &quot;High Wind Power Plants,&quot; NASA Technical Translation, Washington D.C., April 1974. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[19]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">NASA History, &quot;Spaceflight Revolution: In the Sevice of Apollo,&quot; [Online]. Available: https://history.nasa.gov/SP-4308/ch11.htm#382. [Accessed 4 March 2021]. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[20]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">Wikipedia, &quot;Power Kite,&quot; [Online]. Available: https://en.wikipedia.org/wiki/Power_kite#History. [Accessed 4 March 2021]. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[21]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">H. Oberth, &quot;Verbessertes Drachenkraftwerk&quot;. Germany Patent DE2720339, 1977. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[22]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">B. W. Roberts and J. Blackler, &quot;Various Systems for Generation of Electricity Using Upper Atmospheric Winds,&quot; in 2nd Wind Energy Innovation Systems Conference, Colorado Springs, 1980.  </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[23]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">W. Ockels, &quot;Laddermill, a novel concept to exploit the energy in the airspace,&quot; Aircraft Design, vol. 4, no. 2-3, pp. 81-97, 2001.  </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[24]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">B. Lansdorp and W. J. Ockels, &quot;Comparison of concepts for high-altitude wind energy generation with ground based generator,&quot; in 2nd China International Renewable Energy Equipment &amp; Technology Exhibition and Conference, Beijing, 2005.  </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[25]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">B. Lansdorp, R. Ruiterkamp, P. Williams and W. Ockels, &quot;Long-Term Laddermill Modeling for Site Selection,&quot; in AIAA Modeling and Simulation Technologies Conference and Exhibit, Honolulu, HI, 2008.  </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[26]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">&quot;Airborne Wind Energy Conference (AWEC) 2021,&quot; [Online]. Available: https://www.awec2021.com/. [Accessed 4 March 2021]. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[27]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">U.S. Department of Energy, &quot;Technology Readiness Assessment Guide,&quot; 2011. [Online]. Available: https://www.directives.doe.gov/directives-documents/400-series/0413.3-EGuide-04-admchg1. [Accessed 14 June 2021]. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[28]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">R. Schmehl, Personal Communication, 2021.  </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[29]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">ARPA-E, &quot;Makani Power: Airborne Wind Turbine,&quot; U.S. Department of Energy, [Online]. Available: https://arpa-e.energy.gov/technologies/projects/airborne-wind-turbine. [Accessed 14 June 2021]. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[30]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">&quot;Small Business Innovative Research (SBIR) Award Database,&quot; [Online]. Available: https://www.sbir.gov/search-result-page?search=airborne%20wind%20energy. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[31]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">&quot;National Science Foundation (NSF) Award Database,&quot; [Online]. Available: https://www.nsf.gov/awardsearch/simpleSearchResult?queryText=airborne+wind+energy. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[32]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">D. Hambling, &quot;DARPA Building An Energy-Harvesting Submarine That Never Runs Out Of Power,&quot; Forbes, 12 February 2021. [Online]. Available: https://www.forbes.com/sites/davidhambling/2021/02/12/darpas-new-energy-harvesting-manta-ray-is-a-submarine-like-no-other/. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[33]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">ARPA-E, &quot;SHARKS Project Descriptions,&quot; U.S. Department of Energy, [Online]. Available: https://www.arpa-e.energy.gov/document/sharks-project-descriptions. [Accessed 8 March 2021]. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[34]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">North Carolina State University, &quot;MAE Team Awarded $1.9 Million for Development of Energy-Harvesting Ocean Kite Technology,&quot; [Online]. Available: https://www.mae.ncsu.edu/blog/2019/05/24/mae-team-awarded-1-9-million-for-development-of-energy-harvesting-ocean-kite-technology/. [Accessed 14 June 2021]. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[35]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">R. Shifman, &quot;Airborne Wind Energy: Waiting For Take-Off,&quot; BNEF, 2019. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[36]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">K. v. Hussen, E. Dietrich, J. Smeltink, K. Berentsen, M. v. d. Sleen, R. Haffner and L. Fagiano, &quot;Study on Challenges in the commercialisation of airborne wind energy systems,&quot; 2018. [Online]. Available: https://op.europa.eu/en/publication-detail/-/publication/a874f843-c137-11e8-9893-01aa75ed71a1/language-en. [Accessed 2 Feb 2021]. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[37]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">N. E. Hayek, &quot;Airborne Wind Energy: Challenges and Opportunities,&quot; in IEA Wind Topical Expert Meeting #102, Virtual, 2020.  </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[38]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">N. E. Hayek, &quot;IEA Wind TCP &amp; Task 11 Activities Introduction,&quot; Planair SA, Virtual Meeting, 2020. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[39]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">K. Petrick, U. Zillmann, J. Weber, A. Clifton, C. Vermillion and R. Schmehl, &quot;Task Proposal on Airborne Wind Energy,&quot; International Energy Agency (IEA) Wind TCP, Brussels, 2021. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[40]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">R. Schmehl, &quot;Visions for the Airborne Wind Energy Sector,&quot; in IEA Wind Topical Expert Meeting TEM#102 , Virtual, 2020.  </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[41]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">R. Schmehl, &quot;Airborne Wind Energy System Modelling, Control and Optimization,&quot; EU Horizon 2020, [Online]. Available: http://awesco.eu/summary/. [Accessed 3 March 2021]. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[42]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">&quot;NEON research: Airborne Wind Energy,&quot; Eindhoven University of Technology, [Online]. Available: https://neonresearch.nl/work_package/airborne-wind-energy/. [Accessed 11 March 2021]. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[43]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">P. Zummo, &quot;America’s Electricity Generation Capacity: 2021 Update,&quot; American Public Power Association, 2021. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[44]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">E. C. Malz, &quot;Airborne Wind Energy - to fly or not to fly?,&quot; Chalmers University of Technology, Goteborg, Sweden, 2020. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[45]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">B. Naughton, R. Preus, T. Jimenez, B. Whipple and J. Gentle, &quot;Market Opportunities for Deployable Wind Systems for Defense and Disaster Response,&quot; 2020. [Online]. Available: https://www.energy.gov/sites/default/files/2020/02/f71/deployable-turbine-market-assessment.pdf. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[46]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">E. Lantz, O. Roberts, J. Nunemaker, E. DeMeo, K. Dykes and G. Scott, &quot;Increasing Wind Turbine Tower Heights: Opportunities and Challenges,&quot; 2019. [Online]. Available: https://www.nrel.gov/docs/fy19osti/73629.pdf. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[47]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">T. Hass, J. D. Schutter, M. Diehl and J. Meyers, &quot;Wake characteristics of pumping mode airborne wind energy systems,&quot; in J. Phys.: Conf. Ser., 2019.  </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[48]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">W. Musial, D. Heimiller, P. Beiter, G. Scott and C. Draxl, &quot;2016 Offshore Wind Energy Resource Assessment for the United States,&quot; 2016. [Online]. Available: https://www.nrel.gov/docs/fy16osti/66599.pdf. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[49]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">T. Stehly, P. Beiter and P. Duffy, &quot;2019 Cost of Wind Energy Review,&quot; National Renewable Energy Laboratory, Golden, CO, 2020. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[50]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">BOEM, &quot;Vineyard Wind 1 Offshore Wind Energy Project, Final Environmental Impact Statement, Volume I,&quot; U.S. Department of the Interior, Bureau of Ocean Energy Management, 2021. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[51]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">Makani/NREL, &quot;KiteFAST,&quot; [Online]. Available: https://github.com/rafmudaf/openfast/tree/kitefast. [Accessed 18 March 2021]. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[52]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">J. Koenemann, &quot;OpenAWE,&quot; 2021. [Online]. Available: https://openawe.github.io/. [Accessed 26 March 2021]. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[53]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">J. D. Schutter, &quot;awebox,&quot; 2021. [Online]. Available: https://github.com/awebox/awebox. [Accessed 26 March 2021]. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[54]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">F. Trevisi, M. Gaunaa and M. McWilliam, &quot;Unified engineering models for the performance and cost of Ground-Gen and Fly-Gen crosswind Airborne Wind Energy Systems,&quot; Renewable Energy, vol. 162, pp. 893-907, 2020.  </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[55]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">M. Sommerfeld, M. Dorenkamper, J. D. Schutter and C. Crawford, &quot;Ground-generation airborne wind energy design space exploration,&quot; in Wind Energy Science, Virtual, 2020.  </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[56]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">D. Eijkelhof, &quot;Design and Optimisation Framework of a Multi-MW Airborne Wind Energy Reference System,&quot; TU Delft / DTU, 2019. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[57]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">J. Weber, J. D. Roberts, A. Babarit, R. Costello, D. L. Bull, K. Neilson, C. Bittencourt, B. Kennedy, R. J. Malins and K. Dykes, &quot;Guidance on the Technology Performance Level (TPL) Assessment Methodology,&quot; Sandia National Laboratory, Web, 2016. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[58]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">M. Langbein, M. Ruby and N. Gauger, &quot;Assessment of an Alternative Concept for a High-Altitude Wind-Power Generator,&quot; in The Science of Making Torque from Wind (TORQUE 2018), Milano, Italy, 2018.  </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[59]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">M. Ghoreyshi, K. Bergeron, A. Jirasek, J. Seidel, A. J. Lofthouse and R. M. Cummings, &quot;Computational aerodynamic modeling for flight dynamics simulation of ram-air parachutes,&quot; Aerospace Science and Technology, vol. 54, pp. 286-301, 2016.  </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[60]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">M. Folkersma, R. Schmehl and A. Vire, &quot;Steady-state aeroelasticity of a ram-air wing for airborne wind energy applications,&quot; in TORQUE 2020, Virtual, 2020.  </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[61]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">W. Zhao, S. Desai, J. Miglani, R. K. Kapania, J. A. Schetz, A. Aris and S. S. Panwar, &quot;Structural and Aeroelastic Design, Analysis, and Experiments of Inflatable Airborne Wings,&quot; in AIAA SciTech Forum, Virtual, 2021.  </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[62]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">I. Baring-Gould, &quot;Competitiveness Improvement Project,&quot; National Renewable Energy Laboratory, [Online]. Available: https://www.nrel.gov/wind/competitiveness-improvement-project.html. [Accessed 31 March 2021]. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[63]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">V. Salma, R. Ruiterkamp, M. Kruijff, M. M. (. v. Paassen and R. Schmehl, &quot;Current and Expected Airspace Regulations for Airborne Wind Energy Systems,&quot; in Airborne Wind F. A. Administration, &quot;Notification for Airborne Wind Energy Systems (AWES),&quot; 7 December 2011. [Online]. Available: https://www.govinfo.gov/content/pkg/FR-2011-12-07/pdf/2011-31430.pdf. [Accessed 25 March 2021]. </P>
+</TD>
+
+<TD>
+<P xml:lang="EN-US">Energy: Advances in Technology Development and Research, R. Schmehl, Ed., Springer, 2018, pp. 703-725. </P>
+</TD>
+
+<TH>
+<P xml:lang="EN-US">[64]  </P>
+</TH>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[65]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">A. Håland, &quot;Testing of Kitemill’s Airborne Wind Energy System at Lista, Norway. Assessing the impacts on birds. A pilot study.,&quot; Testing of Kitemill’s Airborne Wind Energy, Bergen, Norway, 2018. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[66]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">P. Echeverri, T. Fricke, G. Homsy and N. Tucker, &quot;The Energy Kite: Selected Results from the Design, Development and Testing of Makani's Airborne Wind Turbines, Parts I, II, and III,&quot; Makani Technologies LLC, 2020. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[67]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">L. Bruinzeel, E. Klop, A. Brenninkmeijer and J. Bosch, &quot;Ecological Impact of Airborne Wind Energy Technology: Current State of Knowledge and Future Research Agenda,&quot; in Airborne Wind Energy: Advances in Technology Development and Research, R. Schmehl, Ed., Springer, 2018.  </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[68]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">T. Longcore, C. Rich, P. Mineau, B. MacDonald, D. G. Bert, L. M. Sullivan, E. Mutrie, S. A. G. Jr., M. L. Avery, R. L. Crawford, A. M. M. II, E. R. Travis and D. Drake, &quot;An Estimate of Avian Mortality at Communication Towers in the United States and Canada,&quot; PLoS ONE, vol. 7, no. 4, 2012.  </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[69]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">Pulling Power From the Sky. [Film]. USA: Makani Wind Power, 2020.  </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[70]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">R. Wiser and D. Millstein, &quot;Evaluating the economic return to public wind energy research and development in the United States,&quot; Applied Energy, vol. 261, 2020.  </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[71]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">D. Lee, &quot;Alphabet shuts down its power-generating kites project,&quot; 18 February 2020. [Online]. Available: https://www.latimes.com/business/technology/story/2020-02-18/alphabet-ends-power-generating-kites-project-makani. [Accessed 7 March 2021]. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[72]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">F. Felker, &quot;A Long and Windy Road,&quot; 18 February 2020. [Online]. Available: https://medium.com/@fortfelker/a-long-and-windy-road-3d83b9b78328. [Accessed 10 Ferbruary 2021]. </P>
+</TD>
+</TR>
+
+<TR>
+<TH>
+<P xml:lang="EN-US">[73]  </P>
+</TH>
+
+<TD>
+<P xml:lang="EN-US">R. Wiser and M. Bolinger, &quot;2017 Wind Technologies Market Report,&quot; US Department of Energy, 2017. </P>
+</TD>
+</TR>
+</Table>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">  </P>
+
+<H1 id="LinkTarget_278" xml:lang="EN-US">Appendix – Makani Closure </H1>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">The closure of Makani Windpower [71] made headlines in the airborne wind energy sector in 2020. With the substantial financial backing of Alphabet and Shell, top technical talent, and the highest power flying AWE system in the world, Makani was viewed as a global leader and their closure took many by surprise. Given their stature in the industry, a few words are warranted in this report on the company’s story. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Makani Background </P>
+
+<P xml:lang="EN-US">Makani was founded in 2006 by entrepreneurs and kite surfers Saul Griffith, Corwin Hardham, and Don Montague, and quickly attracted funding from both Google and ARPA-E ($5.6M, OPEN 2009). Makani used soft kites but for the first few years, but had committed to rigid kites with fly-gen by 2010 [69]. With ARPA-E funding, they built what they called “Wing 7,” a 20kw fly-gen demonstrator. By the end of their performance period with ARPA-E, they had successfully demonstrated “all modes flight” with Wing 7, which means that the wing autonomously launched, flew away from the ground station, transitioned into crosswind flight, flew crosswind (where power is generated), transitioned out of crosswind flight, flew back to the ground station, and landed [69]. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">The company was acquired by Google X in 2013, and designed a built a new kite, scaled 30 times from 20kw to 600kw, known as the M600. After several years of testing the new design at China Lake, California, the team moved to a new test site in Hawaii with a new ground station and began repeatedly flying “all modes” in a series of 10 test flights. Royal Dutch Shell provided financial support and offshore expertise for seven months leading up to Makani’s well-publicized offshore demonstration flight in August 2019. Their M600 kite launched from a floating spar buoy in Norway, flew autonomously in crosswind, and established several world firsts, but the flight ended with the loss of the kite during landing. The team returned to Hawaii to continue testing an earlier M600 airframe through December of 2019 [69]. </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">In February 2020, Makani announced it was leaving X (now an Alphabet company) and, unable to secure external funding, shut down that September [72]. Makani’s CEO, Fort Felker, put it this way: </P>
+
+<P xml:lang="EN-US">&quot;Creating an entirely new kind of wind energy technology means facing business challenges as well as engineering challenges. Despite strong technical progress, the road to commercialization is longer and riskier than hoped, so from today Makani’s time at Alphabet is coming to an end. &quot; </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">As the company was winding down, members of the team could share the products of their many years of work. They released internal reports, presentations, flight logs and videos, simulation software, and sizing tools, and wrote a number of explanatory reports to help others learn what they had learned [66].  </P>
+
+<P xml:lang="EN-US"> </P>
+
+<P xml:lang="EN-US">Contributing Factors </P>
+
+<P xml:lang="EN-US">Using publicly available information, one can point to several possible contributing factors to Makani’s closure in 2020. How these rank in significance or if other factors may have played a role, are not known. </P>
+
+<L>
+<LI>
+<LBody xml:lang="EN-US">• Power performance – Makani’s largest kite, the M600, produced less power than expected in flight testing [66]. The primary contributors to the underperformance were (1) the worse-than-expected aerodynamic performance of the wing/tether system, and (2) the inability of the kite to fly circles as small as desired. Makani’s design and simulation tools evolved to predict the underperformance and from those learnings they designed a follow-on kite, MX-2, that was believed to fix the shortcomings. However, this kite was never built.  </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• Eroded cost advantage – In November 2017, the LCOE of land-based wind energy had fallen by approximately 50% [73] from the time of the original ARPA-E award in 2009. Makani made the decision to fly the M600 from a floating buoy, and the company pivoted toward a business opportunity in floating offshore wind. Floating offshore wind’s cost profile is a match for AWE—the most significant component of floating wind CapEx is the platform and substructure [49], and one of the core advantages of AWE is the potential for smaller and cheaper support structures. This pivot may have reduced the team’s ability to focus on improving the performance of the kite as they took on the added challenge of flying from a floating buoy offshore. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• Locked into rigid wing, fly-gen architecture – Makani moved away from their original soft kite concepts in 2009. Rapidly scaling the team and prototype size before fully understanding the smaller kite’s performance sensitivities may have locked in substantial tooling, development, and staffing costs, reducing the incentive to explore the overall design space. </LBody>
+</LI>
+
+<LI>
+<LBody xml:lang="EN-US">• Funding pressure – funding from Alphabet and Shell had rapid renewal cycles, and continued funding was contingent on achieving technical milestones [66]. This caused the team to take large leaps in scale (20kw to 600kw) and operating environment (onshore to offshore), sometimes without sufficient time or funding to retire risks. For the most part, this strategy paid off by pushing them to the forefront of the industry, but it also contributed to several crashes, including during the 2019 offshore demonstration [66]. Sundar Pichai became CEO of Alphabet in 2015, and the sunset of Makani was one of his first big moves after Google founders stepped away. Sundar may have been reacting to investor pressure to shore up the finances of the “Other Bets” business, which had poor financial performance in 2019, and of which Makani was a part [71]. However, the details of Alphabet’s and Shell’s decision are not public. </LBody>
+</LI>
+</L>
+
+<P xml:lang="EN-US">  </P>
+
+<P xml:lang="EN-US">Lessons Learned </P>
+
+<P xml:lang="EN-US">Makani spent over a decade and many millions of dollars developing the fly-gen AWE concept, and the team arguably knew more than anyone else in the world about the strengths and shortcomings of that concept. The fact that they shared the hard-won lessons they learned means those years were not wasted and highlights the fact that their closure was connected to the Makani-specific AWE architecture, strategic decisions, and funding pressure. While Makani provides a cautionary story, this should not necessarily prevent further exploration of AWE concepts in general. </P>
+</Sect>
+</TaggedPDF-doc>

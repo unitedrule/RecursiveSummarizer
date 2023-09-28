@@ -1,0 +1,1663 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Created from PDF via Acrobat SaveAsXML -->
+<!-- Mapping Table version: 28-February-2003 -->
+<TaggedPDF-doc>
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.1-c001 79.2a0d8d9, 2023/03/14-11:19:46        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <xmp:ModifyDate>2023-09-28T09:51:18+03:00</xmp:ModifyDate>
+         <xmp:CreateDate>2020-08-26T22:07:37-07:00</xmp:CreateDate>
+         <xmp:MetadataDate>2023-09-28T09:51:18+03:00</xmp:MetadataDate>
+         <xmp:CreatorTool>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36</xmp:CreatorTool>
+         <xmpMM:DocumentID>uuid:728824b9-b80f-11b2-0a00-69983c647348</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:6d036477-a052-44c9-ae3b-17094de5f04f</xmpMM:InstanceID>
+         <dc:format>xml</dc:format>
+         <pdf:Producer>Acrobat Pro DC 20.12.20043</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+<?xpacket end='r'?>
+<bookmark-tree>
+<bookmark title="00-FRONT MATTER for Makani Technical Report">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="01-Introduction for Makani Technical Report">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="02-Oktoberkite and the MX2">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="03-Airborne Wind Turbine Performance - Google Docs">
+<destination structID="LinkTarget_469"/>
+</bookmark>
+<bookmark title="04-M600 Energy Kite Description">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="05-Copy of The Makani Autopilot_ A Critical Retrospective">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="06-Makani's Flight Testing Approach">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="Blank Page">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="Blank Page">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="Blank Page">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="Blank Page">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="7a7939a6-f6e2-4c36-b899-882dbd177ad3.pdf">
+<destination structID="None"/>
+<bookmark title="00-FRONT MATTER for Makani Technical Report">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="01-Introduction for Makani Technical Report">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="02-Oktoberkite and the MX2">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="03-Airborne Wind Turbine Performance - Google Docs">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="04-M600 Energy Kite Description">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="05-Copy of The Makani Autopilot_ A Critical Retrospective">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="06-Makani's Flight Testing Approach">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="Blank Page">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="Blank Page">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="Blank Page">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="Blank Page">
+<destination structID="None"/>
+</bookmark>
+</bookmark>
+<bookmark title="7a7939a6-f6e2-4c36-b899-882dbd177ad3.pdf">
+<destination structID="None"/>
+<bookmark title="00-FRONT MATTER for Makani Technical Report">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="01-Introduction for Makani Technical Report">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="02-Oktoberkite and the MX2">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="03-Airborne Wind Turbine Performance - Google Docs">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="04-M600 Energy Kite Description">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="05-Copy of The Makani Autopilot_ A Critical Retrospective">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="06-Makani's Flight Testing Approach">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="Blank Page">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="Blank Page">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="Blank Page">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="Blank Page">
+<destination structID="None"/>
+</bookmark>
+</bookmark>
+</bookmark-tree>
+
+<Part>
+<H1 id="LinkTarget_469">Airborne Wind Turbine Performance </H1>
+
+<Sect>
+<H3>Key Lessons From More Than a Decade of Flying Kites </H3>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_0.jpg"/>
+</Figure>
+</Sect>
+
+<Sect>
+<H3>Nicholas Tucker </H3>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_1.jpg"/>
+</Figure>
+
+<P>Airborne Wind Performance: Key Lessons From More Than a Decade of Flying Kites Corresponding author: Nicholas Tucker, 
+<Link>nicholas.o.tucker@gmail.com </Link>
+</P>
+
+<P>The Energy Kite: Selected Results from the Design, Development, and Testing of Makani’s Airborne Wind Turbines, Part I of III by Paula Echeverri, Tobin Fricke, Geo Homsy, Nicholas Tucker, on behalf of the Makani team. </P>
+
+<P>Copyright © 2020 by Makani Technologies LLC </P>
+
+<P>Distributed under the 
+<Link>Creative Commons CC BY 4.0 License . </Link>
+You are free to copy and redistribute this material in any medium or format for any purpose, even commercially. </P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_2.jpg"/>
+</Figure>
+
+<P>Intended for electronic publication and distribution. Copies of this volume may be found at </P>
+
+<P>
+<Link>https://archive.org </Link>
+Additional information is at: 
+<Link>https://x.company/projects/makani </Link>
+</P>
+
+<P>Published September 2020 </P>
+
+<Sect>
+<H5>
+<Link>1 Introduction </Link>
+
+<Link>93 </Link>
+</H5>
+
+<Sect>
+<H5>1.1 
+<Link>Executive Summary </Link>
+
+<Link>93 </Link>
+</H5>
+
+<P>1.2 
+<Link>Example Systems </Link>
+
+<Link>95 </Link>
+</P>
+
+<P>1.3 
+<Link>Numerical Model </Link>
+
+<Link>95 </Link>
+</P>
+</Sect>
+</Sect>
+
+<Sect>
+<H5>
+<Link>2 A Measure of Performance </Link>
+
+<Link>97 </Link>
+</H5>
+
+<P>
+<Link>3 Balance of System </Link>
+
+<Link>99 </Link>
+</P>
+
+<P>
+<Link>4 Maintenance </Link>
+
+<Link>107 </Link>
+</P>
+
+<P>
+<Link>5 System Cost </Link>
+
+<Link>113 </Link>
+</P>
+
+<P>
+<Link>6 Kite Power </Link>
+
+<Link>114 </Link>
+</P>
+
+<Sect>
+<H5>6.1 
+<Link>Loyd Revisited </Link>
+
+<Link>116 </Link>
+</H5>
+
+<P>6.1.1 
+<Link>Tether Drag Losses </Link>
+
+<Link>119 </Link>
+</P>
+
+<P>6.1.2 
+<Link>Path Offset Losses </Link>
+
+<Link>121 </Link>
+</P>
+
+<P>6.1.3 
+<Link>Wind Shear Gains </Link>
+
+<Link>123 </Link>
+</P>
+
+<P>6.1.4 
+<Link>Turning Losses </Link>
+
+<Link>124 </Link>
+</P>
+
+<P>6.1.5 
+<Link>Eﬃciency Losses </Link>
+
+<Link>130 </Link>
+</P>
+
+<P>6.1.6 
+<Link>Gravity Losses </Link>
+
+<Link>131 </Link>
+</P>
+
+<P>6.1.7 
+<Link>Minimum Airspeed Losses </Link>
+
+<Link>140 </Link>
+</P>
+
+<P>6.1.8 
+<Link>Tension Limiting Losses </Link>
+
+<Link>140 </Link>
+</P>
+
+<P>6.1.9 
+<Link>Putting It Together </Link>
+
+<Link>142 </Link>
+</P>
+</Sect>
+
+<Sect>
+<H5>6.2 
+<Link>Lessons from Loyd Revisited </Link>
+
+<Link>149 </Link>
+</H5>
+
+<Sect>
+<H5>
+<Link>6.2.1 Minimum Turning Radius Constraints 
+<Link>149 </Link>
+</Link>
+</H5>
+
+<P>6.2.2 
+<Link>The Push for Tighter Loops </Link>
+
+<Link>154 </Link>
+</P>
+
+<P>
+<Link>6.2.3 Higher Power from Stronger Winds at Altitude? 
+<Link>156 </Link>
+</Link>
+</P>
+
+<P>6.2.4 
+<Link>Comparing AWT with HAWT Power Production </Link>
+
+<Link>158 </Link>
+
+<Link>6.3 Conclusion </Link>
+
+<Link>166 </Link>
+</P>
+</Sect>
+</Sect>
+
+<Sect>
+<H5>6.4 
+<Link>A Numerical Take on Path Shape </Link>
+
+<Link>167 </Link>
+</H5>
+</Sect>
+</Sect>
+
+<Sect>
+<H5>
+<Link>7 Mass </Link>
+
+<Link>171 </Link>
+</H5>
+
+<Sect>
+<H5>
+<Link>7.1 Hover </Link>
+
+<Link>171 </Link>
+</H5>
+
+<P>7.2 
+<Link>No Wind Upstroke </Link>
+
+<Link>174 </Link>
+</P>
+
+<P>7.3 
+<Link>Mass in Crosswind </Link>
+
+<Link>174 </Link>
+</P>
+
+<P>
+<Link>8 Multi-kites </Link>
+
+<Link>177 </Link>
+</P>
+
+<P>
+<Link>9 M600 Power Performance </Link>
+
+<Link>182 </Link>
+</P>
+
+<P>
+<Link>10 High Winds Are Hard </Link>
+
+<Link>185 </Link>
+</P>
+
+<P>
+<Link>10.1 Overview </Link>
+
+<Link>185 </Link>
+10.2 
+<Link>The Challenge </Link>
+
+<Link>185 </Link>
+
+<Link>10.3 Strategies </Link>
+
+<Link>188 </Link>
+</P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_3.jpg"/>
+Makani Technologies LLCMakani Technologies LLC</Figure>
+
+<P>10.3.1 
+<Link>Reducing lift </Link>
+
+<Link>188 </Link>
+</P>
+
+<P>10.3.2 
+<Link>Non-optimal speed </Link>
+
+<Link>190 </Link>
+
+<Link>10.3.3 Path </Link>
+
+<Link>193 </Link>
+</P>
+
+<P>10.3.4 
+<Link>Excess Drag </Link>
+
+<Link>199 </Link>
+</P>
+
+<P>10.3.5 
+<Link>Piecing Together a Strategy </Link>
+
+<Link>201 </Link>
+</P>
+
+<P>
+<Link>10.3.5.1 Path Strategy 
+<Link>202 </Link>
+</Link>
+</P>
+
+<P>10.3.5.2 
+<Link>Lift and Speed Strategy </Link>
+
+<Link>203 </Link>
+</P>
+
+<P>
+<Link>10.3.5.3 Rotor Strategy 
+<Link>207 </Link>
+</Link>
+</P>
+
+<P>10.3.6 
+<Link>Poking holes in our strategy </Link>
+
+<Link>209 </Link>
+
+<Link>10.3.6.1 Turbulence </Link>
+
+<Link>211 </Link>
+</P>
+
+<P>10.3.6.2 
+<Link>Control Variability </Link>
+
+<Link>212 </Link>
+</P>
+
+<P>10.3.6.3 
+<Link>Tether Dynamics </Link>
+
+<Link>213 </Link>
+</P>
+
+<P>
+<Link>10.3.6.4 All the Rotors 
+<Link>214 </Link>
+</Link>
+</P>
+
+<P>10.3.6.5 
+<Link>Kite Acrobatics </Link>
+
+<Link>215 </Link>
+</P>
+
+<Sect>
+<H5>10.4 
+<Link>Power Saturation Summary </Link>
+
+<Link>216 </Link>
+</H5>
+
+<P>
+<Link>11 References </Link>
+
+<Link>220 </Link>
+</P>
+
+<P>
+<Link>12 Appendix </Link>
+
+<Link>221 </Link>
+</P>
+
+<P>12.1 
+<Link>Numerical Model Description </Link>
+
+<Link>221 </Link>
+
+<Link>12.1.1 Overview </Link>
+
+<Link>221 </Link>
+
+<Link>12.1.2 Sub-Models </Link>
+
+<Link>222 </Link>
+</P>
+
+<P>
+<Link>12.1.2.1 Rotor Model 
+<Link>223 </Link>
+</Link>
+</P>
+
+<P>
+<Link>12.1.2.2 Aero Model 
+<Link>224 </Link>
+</Link>
+</P>
+</Sect>
+
+<Sect>
+<H5>12.1.3 
+<Link>Known Shortcomings </Link>
+
+<Link>224 </Link>
+</H5>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_4.jpg"/>
+9292</Figure>
+
+<P>1 Introduction </P>
+
+<P>The goal of this document is to highlight several fundamental challenges for airborne wind energy that Makani has learned, in particular those that are perhaps under-represented in the ﬁeld. The M600 (Makani’s prototype that was tested from 2015-2019) was unable to meet its intended performance targets. While we will touch upon the speciﬁc issues of that design, the intent here is to discuss the challenges of energy kite performance more broadly, building up an understanding rather than a speciﬁc set of ﬁxes. Where possible, we’ll build an analytical foundation to frame the discussion, but building a complete mathematical toolset to design or evaluate an energy kite is not the explicit goal. As such, we presume the reader is somewhat familiar with the fundamentals of wind energy, and can pick up where the provided analytical tools stop short. </P>
+
+<P>In the released design summary for the proposed next-generation system called MX2, Makani has sketched a system with some surprising characteristics: a short tether, a tall tower, and a comparatively low-performance-per-wing-area kite that's designed to ﬂy tight paths as low as possible. Many, but not all, of the changes are driven by the general considerations we’ll discuss here. </P>
+
+<P>In addition, although Makani spent several of its early years designing, building, and testing several different types of energy kites, most of our collective experience is focused on onboard generation rigid wing kites. Many of the lessons here apply equally to soft fabric kites or systems with generation on the ground, but several do not. Rather than delve outside Makani’s (and in particular this author’s) area of expertise, we’ll keep things centered on onboard generation designs. </P>
+
+<P>Finally, this work is attempting to collect, condense, revise, and expand upon the efforts of dozens of individuals spanning many years. It’s hoped that this author has represented their work appropriately. </P>
+
+<P>1.1 Executive Summary </P>
+
+<P>In order for any energy source to gain substantial market share, the cost of energy over the life of the system must be competitive. Renewables such as wind and solar have the added challenge that turning on your microwave doesn’t tell the sun to shine brighter or the wind to blow harder, creating a mismatch between energy supply and demand. They then need to be even less costly in order to justify excess capacity that is only used when demand is highest, or potentially require additional infrastructure costs for energy storage. With the cost of energy as our guiding metric, we’ll discuss the key challenges airborne wind energy faces. </P>
+
+<P>These challenges can be summarized as follows: </P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_5.jpg"/>
+1 Introduction 93</Figure>
+
+<P>1. Supporting infrastructure in a wind turbine plant is a large portion of the total cost of energy, especially offshore, and the primary way to reduce these costs is to increase the system size. </P>
+
+<P>a. Airborne wind energy has some inherent infrastructure cost advantages compared to traditional wind turbines, particularly in deep water offshore applications, but required components and their share of the total cost of energy do not substantially differ. </P>
+
+<P>2. Despite several similarities between airborne wind turbines and aircraft, maintenance costs need to be approximately an order of magnitude less than similarly priced aircraft in order for airborne wind turbines to remain viable. </P>
+
+<L>
+<LI>
+<Lbl>a. </Lbl>
+
+<LBody>It’s not appropriate to directly apply the maintenance costs from traditional wind turbines to airborne wind turbines, as much of the improvement in the industry is the result of increased scale and reduced number of components for a given plant size, properties that airborne wind energy also needs to pursue. </LBody>
+</LI>
+
+<LI>
+<Lbl>b. </Lbl>
+
+<LBody>Small systems will struggle to have maintenance costs per unit power as low as larger systems, regardless of their perceived simplicity, due to the additional number of components. </LBody>
+</LI>
+</L>
+
+<P>3. Reducing turbine costs cannot be the primary avenue for long term success, given that turbine costs form less than half of the total cost of energy for a plant, and about a quarter of total costs offshore. Turbine costs can lose the battle for a competitive cost of energy, but it’s exceedingly diﬃcult to win the battle on turbine costs alone. </P>
+
+<P>a. It is more important for airborne wind energy to demonstrate a path to grow system scale than reduce turbine costs, as comparatively minor reductions in infrastructure and maintenance costs, as a result of larger scale, can easily outweigh aggressive turbine cost reductions. </P>
+
+<P>4. Kites are largely free from the power limits imposed by the ﬁxed swept area of the blades on a traditional wind turbine, but these gains are offset by the introduction of new loss mechanisms. </P>
+
+<L>
+<LI>
+<Lbl>a. </Lbl>
+
+<LBody>Path offset losses, tether drag, and powertrain eﬃciency/cycle-time are among the largest, typically reducing power to a third of the theoretical maximum of the kite alone. </LBody>
+</LI>
+
+<LI>
+<Lbl>b. </Lbl>
+
+<LBody>A small minimum turning radius and reliable operation close to that limit is essential to reduce gravity pumping losses and path offset losses. </LBody>
+</LI>
+
+<LI>
+<Lbl>c. </Lbl>
+
+<LBody>The speciﬁcs of path shape are relatively unimportant even in theory, and even less relevant in practice. Paths must generally be as low and as tight as practical, but otherwise, simpler is better. </LBody>
+</LI>
+
+<LI>
+<Lbl>d. </Lbl>
+
+<LBody>Typical losses negate any gains from accessing stronger high altitude winds unless tether drag is exceptionally low and wind shear is very high. </LBody>
+</LI>
+
+<LI>
+<Lbl>e. </Lbl>
+
+<LBody>Kite speciﬁc losses are on a similar scale as the induced ﬂow losses for a typical 3 bladed traditional wind turbine, effectively trading one set of losses for another. </LBody>
+</LI>
+</L>
+
+<P>5. Mass is a key design constraint, especially for hovering systems featuring onboard generation. </P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_6.jpg"/>
+9494</Figure>
+
+<P>a. Power generation is strongly tied to wing area and weakly tied to mass, so the target for an optimal design is to get the largest wing possible into crosswind. </P>
+
+<P>6. Multiple kites on a single ground station or a single shared tether have some clear beneﬁts, but those beneﬁts are only accessible after solving many novel control challenges, presenting a diﬃcult development story. </P>
+
+<L>
+<LI>
+<Lbl>a. </Lbl>
+
+<LBody>Multi-kites begin to see induced losses similar to traditional wind turbines, somewhat degrading their beneﬁts. </LBody>
+</LI>
+
+<LI>
+<Lbl>b. </Lbl>
+
+<LBody>Simpler conﬁgurations of multi-kites may be worthwhile to pursue once a reliable single kite product is well developed and tested. </LBody>
+</LI>
+</L>
+
+<P>7. High winds pose a number of unsolved challenges, and these challenges only present themselves in the context of imperfect control and a turbulent wind ﬁeld. </P>
+
+<L>
+<LI>
+<Lbl>a. </Lbl>
+
+<LBody>The main mechanism to limit power for traditional turbines, reducing lift, is diﬃcult to implement for kites as they also use lift to turn. </LBody>
+</LI>
+
+<LI>
+<Lbl>b. </Lbl>
+
+<LBody>Energy kites experience large swings in potential energy over their path, complicating other strategies as they must heavily reduce power for part of the path, and maximize it for the rest. </LBody>
+</LI>
+
+<LI>
+<Lbl>c. </Lbl>
+
+<LBody>In order to ensure the system can maintain adequate margins, necessary because of the limitations mentioned above, it’s likely that the power components cannot be fully saturated at high wind speeds. </LBody>
+</LI>
+
+<LI>
+<Lbl>d. </Lbl>
+
+<LBody>The nature of the problem makes it diﬃcult to evaluate outside the context of detailed ﬂight simulation or physical ﬂight tests. </LBody>
+</LI>
+</L>
+
+<P>Our hope is that by pointing out these potholes, others can then ﬁll or avoid them. So, get ready for a bumpy ride, as we’re aiming for a lot of potholes—there is much to discuss! </P>
+
+<P>1.2 Example Systems </P>
+
+<P>Throughout this text, we’ll be pulling example values from several systems to demonstrate various effects. The key values for those systems are outlined in table 1 . 1 </P>
+
+<P>1.3 Numerical Model </P>
+
+<P>
+<Link>Throughout this text we’ll occasionally rely on results from a numerical model whose source </Link>
+
+<Link>code has been released [1] . </Link>
+This model is commonly referred to as the FBL at Makani. In most cases here, we lean on it to simply provide a numerical justiﬁcation for a simplifying analytical assumption, but we’ll also dive into a particular set of optimized results for a complete system 
+<Link>in s ection 10, High Winds Are Hard . </Link>
+It’s not the goal of this paper to describe that model in detail, but there is a brief description in the appendix of this section. </P>
+
+<P>1 All values are approximate. These systems all had various conﬁgurations that evolved over time. </P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_7.jpg"/>
+.95</Figure>
+
+<Table>
+<TR>
+<TH>Parameter </TH>
+
+<TH>Units </TH>
+
+<TH>Description </TH>
+
+<TH>M600 Intent </TH>
+
+<TH>M600 As-Built </TH>
+
+<TH>MX2 </TH>
+</TR>
+
+<TR>
+<TD>-</TD>
+
+<TD>-</TD>
+
+<TD>-</TD>
+
+<TD>Original design intent. </TD>
+
+<TD>Prototype M600. Includes test equipment. </TD>
+
+<TD>Oktoberkite next gen design. </TD>
+</TR>
+
+<TR>
+<TD>lt </TD>
+
+<TD>m </TD>
+
+<TD>tether length </TD>
+
+<TD>4002 </TD>
+
+<TD>4402,3 </TD>
+
+<TD>300 </TD>
+</TR>
+
+<TR>
+<TD>S </TD>
+
+<TD>m2 </TD>
+
+<TD>wing area </TD>
+
+<TD>32.9 </TD>
+
+<TD>32.9 </TD>
+
+<TD>54 </TD>
+</TR>
+
+<TR>
+<TD>b </TD>
+
+<TD>m </TD>
+
+<TD>wing span </TD>
+
+<TD>25.7 </TD>
+
+<TD>25.7 </TD>
+
+<TD>26 </TD>
+</TR>
+
+<TR>
+<TD>CL @ ζL </TD>
+
+<TD>-</TD>
+
+<TD>lift coeﬃcient @ best performance </TD>
+
+<TD>2.8 </TD>
+
+<TD>2.56 </TD>
+
+<TD>1.81 </TD>
+</TR>
+
+<TR>
+<TD>@CDk ζL </TD>
+
+<TD>-</TD>
+
+<TD>kite drag coeﬃcient @ best power </TD>
+
+<TD>0.207 </TD>
+
+<TD>0.2443 </TD>
+
+<TD>0.123 </TD>
+</TR>
+
+<TR>
+<TD>dt </TD>
+
+<TD>m </TD>
+
+<TD>tether diameter </TD>
+
+<TD>0.025 </TD>
+
+<TD>0.02953 </TD>
+
+<TD>0.0295 </TD>
+</TR>
+
+<TR>
+<TD>CDt </TD>
+
+<TD>-</TD>
+
+<TD>tether drag coeﬃcient </TD>
+
+<TD>0.7 </TD>
+
+<TD>0.73 </TD>
+
+<TD>0.7 </TD>
+</TR>
+
+<TR>
+<TD>CD @ ζL </TD>
+
+<TD>-</TD>
+
+<TD>kite + tether drag coeﬃcient @ best power </TD>
+
+<TD>0.260 </TD>
+
+<TD>0.3123 </TD>
+
+<TD>0.152 </TD>
+</TR>
+
+<TR>
+<TD>ζ0 </TD>
+
+<TD>-</TD>
+
+<TD>performance metric, best, kite only </TD>
+
+<TD>76 </TD>
+
+<TD>42 </TD>
+
+<TD>58 </TD>
+</TR>
+
+<TR>
+<TD>ζL </TD>
+
+<TD>-</TD>
+
+<TD>performance metric, best, kite + tether </TD>
+
+<TD>48 </TD>
+
+<TD>26 </TD>
+
+<TD>38 </TD>
+</TR>
+
+<TR>
+<TD>Arotor </TD>
+
+<TD>m2 </TD>
+
+<TD>rotor area </TD>
+
+<TD>3.8 </TD>
+
+<TD>4.153 </TD>
+
+<TD>4.38 </TD>
+</TR>
+
+<TR>
+<TD>Nrotors </TD>
+
+<TD>-</TD>
+
+<TD>number of rotors </TD>
+
+<TD>8 </TD>
+
+<TD>8 </TD>
+
+<TD>8 </TD>
+</TR>
+
+<TR>
+<TD>rloopmin </TD>
+
+<TD>m </TD>
+
+<TD>minimum viable path radius </TD>
+
+<TD>75 </TD>
+
+<TD>1453 </TD>
+
+<TD>90 </TD>
+</TR>
+
+<TR>
+<TD>hmin </TD>
+
+<TD>m </TD>
+
+<TD>minimum kite altitude </TD>
+
+<TD>85 </TD>
+
+<TD>1103 </TD>
+
+<TD>70 </TD>
+</TR>
+
+<TR>
+<TD>htower </TD>
+
+<TD>m </TD>
+
+<TD>tether attachment height </TD>
+
+<TD>15 </TD>
+
+<TD>53 </TD>
+
+<TD>15 </TD>
+</TR>
+
+<TR>
+<TD>mkite </TD>
+
+<TD>kg </TD>
+
+<TD>kite mass </TD>
+
+<TD>1310 </TD>
+
+<TD>16903 </TD>
+
+<TD>1850 </TD>
+</TR>
+
+<TR>
+<TD>mtether </TD>
+
+<TD>kg </TD>
+
+<TD>tether mass </TD>
+
+<TD>315 </TD>
+
+<TD>390 </TD>
+
+<TD>275 </TD>
+</TR>
+
+<TR>
+<TD>ηt2g </TD>
+
+<TD>-</TD>
+
+<TD>eﬃciency, thrust to grid </TD>
+
+<TD>0.66 </TD>
+
+<TD>0.66 </TD>
+
+<TD>0.66 </TD>
+</TR>
+
+<TR>
+<TD>vamin </TD>
+
+<TD>m/s </TD>
+
+<TD>minimum viable airspeed </TD>
+
+<TD>30 </TD>
+
+<TD>35 </TD>
+
+<TD>27 </TD>
+</TR>
+
+<TR>
+<TD>FTmax </TD>
+
+<TD>kN </TD>
+
+<TD>maximum operating tension </TD>
+
+<TD>280 </TD>
+
+<TD>2403 </TD>
+
+<TD>250 </TD>
+</TR>
+</Table>
+
+<P>Table 1 : Various approximate values for Makani systems we’ll be using in analytical examples. </P>
+
+<P>2 Includes bridle radial length. 3 Varied for different tests, but the value represents the bulk of the ﬂight test data. </P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_8.jpg"/>
+96Parameter </Figure>
+
+<P>2 A Measure of Performance </P>
+
+<P>How do we best describe the performance of a source of energy? What are the key metrics? Ultimately, the goal of any source of energy, wind turbines included, is to provide energy that is needed at a competitive cost, and the metric of greatest importance here is the Levelized Cost of Energy, or LCOE. </P>
+
+<P>Given that energy systems generally have high upfront costs and long lifetimes, the “levelized” portion of LCOE refers to assessing the lifetime impact of all costs and distilling it down to an average cost in today’s dollars. Included in this levelizing are items such as the cost of capital, the developer's desired return on investment, taxes, and inﬂation. </P>
+
+<P>LCOE is not the only metric that matters—a system that can better match demand by providing energy when needed, or one that can provide a consistent reliable base power, has more value than one that provides huge amounts of energy only when it’s windy—but for simplicity’s sake, let’s leave it as the main metric when comparing the performance of different energy systems. With renewables only providing ~6% of the world’s energy at the time of this writing, 4 this is especially true outside of a few markets where renewable penetration is large. In those increasingly saturated markets, the need for the energy system to match demand becomes of greater importance, and we see turbines value other metrics like capacity factor, which is a measure of the average power the turbine makes relative to its maximum rated power. </P>
+
+<P>There are many ways to calculate lifetime costs, but as the focus here is on the energy system and not the underlying economics or ﬁnancing, we utilize the simple method outlined by NREL in 
+<Link>
+<Link>“</Link>
+Manual for the Economic Evaluation of Energy Efficiency and Renewable Energy </Link>
+
+<Link>
+<Link>Technologies” </Link>
+[3] , which boils these factors down into a single factor called the Fixed Charge </Link>
+Rate, or kFCR , which represents the yearly amortization rate of the total upfront costs. </P>
+
+<P>From here, we can state that: </P>
+
+<P>Ccapex kFCR + Copexl</P>
+
+<P>LCOE = AEP [1] </P>
+
+<P>Where Ccapex is the sum of the capital expenditures, kFCR is the ﬁxed charge rate, Copexl is the levelized annual operating expenses (note that the l subscript denotes this is a levelized value), and AEP is the Annual Energy Production of the power system. </P>
+
+<P>The methodology in determining kFCR will not be laid out here (see the reference) to avoid getting sidetracked by project economics that have little to do with turbine design, but we </P>
+
+<P>4 
+<Link>As of 2020. Not counting hydroelectric. IEA Global Energy Review 2020 [2] . </Link>
+</P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_9.jpg"/>
+Given that energy systems generally have high upfront costs and long lifetimes, the “levelized” portion of LCOE refers to assessing the lifetime impact of all costs and distilling it down to an average cost in today’s dollars. Included in this levelizing are items such as the cost of capital, the developer's desired return on investment, taxes, and inﬂation. 97</Figure>
+
+<P>should note that for risk levels associated with mature onshore systems in well developed markets and expected project life around 20 years, typical kFCR values are around 0.1. Offshore markets, novel designs, or new markets will see higher rates as the projects carry more perceived risk, while publicly supported projects can see favorable ﬁnancing and tax treatment and have very low kFCR values. 5 </P>
+
+<P>It is useful to break this apart further. Capital expenditures are commonly split between the cost of the turbine itself, which we’ll call Csys , and the cost of the roads, foundations, collection </P>
+
+<P>system, transformers and other systems that make up the rest of the plant. On a per system basis, these costs are called the Balance of System, or BoS, and on a plant basis they are called the Balance of Plant, or BoP. On the energy side of things, AEP can be broken down into the system rated power, Prated , which is the maximum continuous power of the turbine system, typically in MW, capacity factor, kCF , which the average power normalized by the rated power, and tyear , which is a year in the units of choice, typically hours, so that the ﬁnal result is in costs per MW·hr. We now have: </P>
+
+<P>(Csys + C ) k + Copexl</P>
+
+<P>BoS fcr </P>
+
+<P>LCOE = [2]</P>
+
+<P>kP t</P>
+
+<P>CF rated year </P>
+
+<P>LCOE is now written in such a way that we have the big drivers separated out, and each of these terms forms a key metric we will use to compare systems below. To reiterate, there’s the cost of the system, Csys , the cost of everything else, CBoS , the cost to keep everything running, Copexl , </P>
+
+<P>how effectively we’re utilizing our maximum system performance, kCF , and the ﬁnal metric we can control: how large our system is, Prated . Despite our best efforts, we’re unable to control the length of a year. </P>
+
+<P>In any comparison utilizing only one of these component metrics, one needs to keep in mind that it is just that: only one piece of the total picture. A comparison between components is only valid in the context of LCOE if the other components are similar. We should be wary of gaming these component metrics. As an example, downrating a power system with no change in costs results in a higher capacity factor, but this is offset by the lower system rating and corresponding loss in energy production for a net increase in LCOE. 6 With this in mind, we’ll compare some of these inputs for AWTs with HAWTs. Let’s begin our conversation on wind turbine performance by not talking about the turbine at all, and instead discuss all the other components. </P>
+
+<P>5 Financing and economics have a huge effect on LCOE. Favorable ﬁnancing is often glossed over, or the beneﬁts incorrectly attributed to energy system improvements. Much of the gains in wind turbine LCOE over the last few decades is from increased market conﬁdence, which shows up as more favorable ﬁnancing. The effect of ﬁnancing also makes LCOE market speciﬁc in addition to site speciﬁc. 6 A high capacity factor has value independent of LCOE, but can’t be the singular goal. If this were the case, we’d see the large rotors from, for example, 2 MW HAWTs paired with small 500 kW power systems. Capacity factor would be high, but LCOE and total energy production would be poor, as the expensive rotors are underutilized. Heavily saturated markets where capacity factor is highly valued are trending this way, but this doesn’t well represent new markets. </P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_10.jpg"/>
+98FC</Figure>
+
+<P>3 Balance of System </P>
+
+<P>Of the many improvements made to traditional horizontal axis wind turbines (HAWTs) over decades, perhaps the most obvious is the ever increasing system size and power rating (illustrated in ﬁgure 1 ), which is expected to continue, especially offshore. </P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_11.jpg"/>
+</Figure>
+
+<P>Figure 1 : HAWTs have grown dramatically over time, as shown in this 2011 diagram from the 
+<Link>IPCC Special Report on Renewable Energy Sources and Climate Change Mitigation [4] . </Link>
+As of 2020, the largest HAWTs are ~15 MW, and are expected to continue to grow larger. </P>
+
+<P>With the additional constraint of needing the system to ﬂy, airborne wind energy (AWE) systems face bigger diﬃculties increasing scale than HAWTs do. It’s important to understand the pressures behind the growth of HAWTs and see how they may also apply to airborne wind turbines (AWTs). BoS is a surprisingly large portion of the total LCOE for wind energy systems and is indirectly responsible for much of this trend. What creates this trend? Why is one massive system better than several smaller systems if, when combined, they make the same total amount of power? To better understand, let’s look at some examples of the importance of BoS costs, beginning with onshore HAWTs. </P>
+
+<P>Numerous examples can be found in literature of breakdowns of these costs for HAWTs, such 
+<Link>as the example in ﬁgure 2 from the NREL 2018 Cost of Wind Energy Review [5] . </Link>
+</P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_12.jpg"/>
+Figure 1 : HAWTs have grown dramatically over time, as shown in this 2011 diagram from the 99</Figure>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_13.jpg"/>
+</Figure>
+
+<P>Figure 2 : Component-level LCOE contribution for the 2018 land-based wind reference project. 
+<Link>Note: O&amp;M represents operation and maintenance. Image is from NREL 2018 Cost of Wind </Link>
+
+<Link>Energy Review, [5, ﬁg ES1] . </Link>
+</P>
+
+<P>In this example, BoS and related soft costs (the purple and blue colors) are approximately 22% of the system LCOE for an onshore system. </P>
+
+<P>Makani developed a bottom-up system cost, scaling, and performance model, and here we compare the total cost of energy breakdown in that model using a system similar to our MX2 next generation system under similar plant and site conditions as the NREL study. </P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_14.jpg"/>
+100100</Figure>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_15.jpg"/>
+</Figure>
+
+<P>Figure 3 : LCOE breakdown for onshore, using a system similar to our MX2 system under similar plant and site conditions as the NREL study. </P>
+
+<P>Approximating the categories (and roughly the colors) from the NREL data, we ﬁnd that AWTs have similar cost drivers. They aren’t meaningfully different in components—collection systems still need to be placed, substations and connections still need to be made, and access routes to install and maintain systems must be in place. The commonality means BoS costs play a similarly large role for AWTs as they do for HAWTs. </P>
+
+<P>How do BoS costs relate to system scale? NREL provides scaling models for BoS costs that 
+<Link>reside in their System Advisor Model renewable energy cost tool [6] , and we can compare the </Link>
+speciﬁc BoS cost-per-rated-watt from the NREL model with our internally developed BoS model. </P>
+
+<P>Direct comparisons should be qualiﬁed—the models were developed independently and don’t necessarily share identical underlying assumptions. However, best attempts were made to make similar inputs, and differences in output appear justiﬁed. Using these models, we can hold the total rated power of the plant constant and vary the system rated power, resulting in fewer systems in the plant as each individual system increases in size. </P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_16.jpg"/>
+reside in their System Advisor Model renewable energy cost tool [6] , and we can compare the 101</Figure>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_17.jpg"/>
+</Figure>
+
+<P>Figure 4 : Speciﬁc BoS Costs versus P rated for 100 MW onshore plant. </P>
+
+<P>For a constant 100 MW onshore wind turbine project with typical siting, similar trends are present for both AWTs and HAWTs: BoS cost-per-rated-watt decreases with increasing system size. Larger systems are more cost effective than many small systems. Fewer systems mean fewer roads, fewer collection system trenches, fewer installations… In short, less of everything needed to install and support a wind turbine, which more than offsets the increased cost of the larger components and more involved installation process, driving the industry to larger and larger systems. We expect AWTs to have an advantage on speciﬁc BoS, requiring smaller access roads, foundations, towers, and crane pads on a per-rated-watt basis, and this appears to be the case. </P>
+
+<P>Assuming that other system performance metrics are similar, AWTs appear to need to be at least &gt; ~500 kW to get down the steepest part of the curve and be competitive with the 2-4 MW onshore HAWT systems of today. </P>
+
+<P>For offshore installations, we never created scaling models to ﬁll out an entire curve, but we expect the shapes to be similar, just shifted substantially up and to the right, for both AWTs and HAWTs. This is easily explained by again pulling from the NREL case study, this time for offshore ﬂoating platforms: </P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_17.jpg"/>
+102</Figure>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_18.jpg"/>
+</Figure>
+
+<P>Figure 5 : Component-level LCOE contribution for the 2018 ﬂoating offshore wind reference 
+<Link>project. Image is from NREL 2018 Cost of Wind Energy Review [5, ﬁg ES3] . </Link>
+</P>
+
+<P>The BoS and associated soft costs dominate the total cost of energy for offshore systems, at ~52% of the total. The turbine is just a small fraction of the cost of energy! Making electrical connections, running mooring lines, and making large ﬂoating platforms is expensive, quickly taking over and deﬁning the problem. It becomes justiﬁable to spend more on the turbine on a cost-per-rated-watt basis to grow the system and push down relative BoS costs. </P>
+
+<P>Again, it’s important to highlight that for most costs here, AWTs do not substantially differ! For all categories except: Assembly and Installation, Port and Staging, Logistics, Transportation, and Substructure and Foundation, AWE expects to have similar (or higher) costs per rated power. These categories where AWE differs and can hope to see a beneﬁt combine to just 20% of the total LCOE. AWE needs to claim a clear advantage in these areas to make a meaningful reduction in overall cost of energy. </P>
+
+<P>Several rough case studies for offshore systems at Makani conﬁrm similar cost breakdowns. Figure 6 shows the results for one such case study, again matching conditions to the NREL example as much as possible, using a system similar to the MX2: </P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_19.jpg"/>
+Several rough case studies for offshore systems at Makani conﬁrm similar cost breakdowns. Figure 6 shows the results for one such case study, again matching conditions to the NREL example as much as possible, using a system similar to the MX2: 103</Figure>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_20.jpg"/>
+</Figure>
+
+<P>Figure 6 : LCOE breakdown for ﬂoating offshore, using a system similar to our MX2 system under similar plant and site conditions as the NREL study. 7 </P>
+
+<P>The turbine share of total costs for AWTs is smaller than for HAWTs—in this example, we’re using the same system as onshore. Larger offshore HAWTs generally pay a higher cost per rated power to reduce more BoS costs for an overall win. BoS is less dominant for onshore systems, so this tradeoff is less pronounced onshore—this is the main reason why offshore systems are larger than onshore systems today. 8 The optimum for offshore AWTs will follow the same trend—larger systems reduce dominating BoS costs—but using the same system in this comparison means we’re unable to capture this effect. </P>
+
+<P>Maintenance for offshore AWTs was also modeled as a lower share of LCOE than HAWTs—there is certainly some beneﬁt in being able to swap out a kite and perform turbine maintenance onshore—but conﬁdence in matching the same conditions and assumptions, and in the predictive capabilities of the models, is lower. The key takeaway is simply that labor costs grow signiﬁcantly offshore, taking up a larger portion of the operating costs. Maintenance costs </P>
+
+<P>7 “Floating Station” here refers to the equipment (winches, sensors, perch) on top of the ﬂoating foundation, not the foundation itself. 8 Also, onshore systems typically have additional siting, transportation, and installation constraints, further pushing the trade-off to smaller systems than those offshore. </P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_21.jpg"/>
+104Figure 6 : LCOE breakdown for ﬂoating offshore, using a system similar to our MX2 system under similar plant and site conditions as the NREL study. </Figure>
+
+<P>are rising (evident in the fact that operating costs offshore grow to be a similar component as the AWT, which is unchanged in cost), but the share of total LCOE is reduced as BoS becomes so dominant. </P>
+
+<P>We expect AWTs to have an enduring advantage in platform cost-per-rated-watt over HAWTs in ﬂoating offshore applications, for three primary reasons: </P>
+
+<L>
+<LI>
+<Lbl>1. </Lbl>
+
+<LBody>AWTs have a lower overturning moment due to shorter towers. </LBody>
+</LI>
+
+<LI>
+<Lbl>2. </Lbl>
+
+<LBody>AWTs have lower mass, centered at lower elevation above sea level. </LBody>
+</LI>
+</L>
+
+<P>3. AWTs can tolerate large platform motions. The combined effect of these factors leads to smaller platforms that are less expensive to build and simpler to deploy. </P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_22.jpg"/>
+</Figure>
+
+<P>Figure 7 : Notional offshore platforms for ﬁxed bottom (left) HAWTs, ﬂoating (center) HAWTs, and AWTs (right), with rough platform tonnage per rated watt. </P>
+
+<P>As shown in ﬁgure 7 , Makani anticipated approximately an order of magnitude less foundation mass per unit power. This forms an enduring advantage for AWTs: even as system scale increases, the relative lack of an overturning moment will remain, keeping platforms small. Of course, this cost saving is primarily on the ﬂoating foundation itself. Installation costs per system go down as well, but, if systems are small, will need to be repeated for many systems. Electrical infrastructure follows this trend as well, but here AWTs have no initial advantage, requiring similar connections and installation processes. </P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_23.jpg"/>
+.105</Figure>
+
+<P>Clearly, many touted AWE beneﬁts are in danger of vanishing at smaller system sizes—AWT ﬂoating platforms and turbines may be able to reach a better cost-per-watt than HAWTs, but electrical infrastructure, installation, and maintenance costs grow with the increasing number of systems needed to meet a desired plant size, eating into those beneﬁts. </P>
+
+<P>In addition, many markets are increasingly space constrained—it doesn’t appear in the LCOE metric, but when space to install turbines is limited, power per ground or sea area becomes important. As long as the LCOEs are competitive, a developer may choose a more power dense system to maximize total energy at the expense of a slighter higher cost of energy—the more power dense systems are typically also the higher rated systems. </P>
+
+<P>AWTs can potentially meet renewable energy demand for small or semi-permanent installations in places where a large HAWT would be diﬃcult to install, but in order to directly compete with HAWTs in the utility energy market and have a signiﬁcant impact on overall renewable energy penetration, AWTs have signiﬁcant incentive to be approximately 1 MW or larger. </P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_24.jpg"/>
+106AWTs can potentially meet renewable energy demand for small or semi-permanent installations in places where a large HAWT would be diﬃcult to install, but in order to directly compete with HAWTs in the utility energy market and have a signiﬁcant impact on overall renewable energy penetration, AWTs have signiﬁcant incentive to be approximately 1 MW or larger. </Figure>
+
+<P>4 Maintenance </P>
+
+<P>Keeping the turbines operating via planned and unplanned maintenance is nearly the entirety of operating costs for turbines—land lease and insurance is typically a small component. </P>
+
+<P>Cost of maintenance is difficult to model and predict—much of the existing literature on HAWTs relies on historical data and trends to predict performance of future systems. It’s tempting to lean on this same HAWT historical data to form AWT predictions, but we need to at least understand the reasons for the trends for HAWTs and see how they can apply for AWE. We took two approaches—a broad, top-down comparison with the wind industry and aircraft, and a complex bottom-up approach, relying on extensive estimation of major component lifespans and repair or replacement costs. We’ll describe some of the top-down comparisons here, and describe the key learnings from the bottom-up modeling we did. </P>
+
+<P>We begin by setting an upper bound on maintenance costs with the naive assumption that maintenance is the only cost. If everything else was free, how much would maintenance need to cost to reach a desired LCOE target? </P>
+
+<P>With COMn as the cost in today’s dollars in year n, lsys as the total system lifetime in years, and </P>
+
+<P>kWACC as the real (inﬂation adjusted) weighted average cost of capital, the yearly levelized cost of operations and maintenance, Copexl is: </P>
+
+<P>lsys n</P>
+
+<P>COMn (1 kWACC)</P>
+
+<P>Copexl = ∑ [3]</P>
+
+<P>lsys </P>
+
+<P>n=0 </P>
+
+<P>If we assume operations and maintenance costs per year to be constant in today’s dollars, we can represent this as: </P>
+
+<P>Copexl = COMklevel [4] </P>
+
+<P>where COM is the average annual operations and maintenance costs in today’s dollars, and klevel is the levelizing factor, determined from the sum above to be: </P>
+
+<P>lsys lsys </P>
+
+<P>k (1 kWACC) (1 kWACC) + 1 </P>
+
+<P>WACC </P>
+
+<P>klevel = lsys kWACC [5] </P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_25.jpg"/>
+107</Figure>
+
+<P>We want to ﬁnd some normalizing metric to compare with other vehicles, so let’s deﬁne a new variable, the speciﬁc maintenance cost kOM , which is the levelized cost to maintain a system per hour, scaled by system rating. If we deﬁne a speciﬁc system capital cost, kcapex , such that: </P>
+
+<P>Csys + CBoS </P>
+
+<P>kcapex = [6]</P>
+
+<P>Prated </P>
+
+<P>we can then solve for the required system maintenance cost per hour in today’s dollars, kOM , in terms of LCOE and some system and economic characteristics: </P>
+
+<P>kcapex k</P>
+
+<P>COM Prated FCR )</P>
+
+<P>kOM = tyear = klevel (LCOE kCF tyear [7] </P>
+
+<P>Now, for some examples. With a kWACC of 6% and a 20 year project life, klevel = 0.61. Solving for </P>
+
+<P>kOM , a 1 MW rated system with a 50% capacity factor at a competitive onshore LCOE of $40/MWhr would require a maintenance cost of ~$33/hr or less, even if the rest of the system were free! </P>
+
+<P>Let’s put these ﬁgures in context. In order to do so, we’ll abandon any pretense of precision and pull out our biggest, broadest paintbrush. </P>
+
+<P>We’ll assume a kFCR of 0.1 for this exercise, typical for projects with a 20 year life in well developed economies. AWTs, especially rigid wing onboard generation ones, share a lot in common with small aircraft, so to draw the comparison, we’ll compare the cost of the system with the cost of maintenance for several types of ﬂying vehicles. We’ll draw lines to represent the required kcapex to meet a $40/MWhr LCOE target. </P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_26.jpg"/>
+108</Figure>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_27.jpg"/>
+</Figure>
+
+<P>Figure 9 : A conglomerate system resembling the complexity of an AWT—a simple airframe and several electric powertrain units. </P>
+
+<P>This rough estimate arrived at estimated hourly costs of ~$14/hr, which, holding the rest of our assumptions from above, would require a kcapex of $0.88/W to meet a competitive onshore LCOE target of $40/MWhr. These rough approximations simply show that we need to pay attention, as unexpectedly high maintenance costs can quickly blow up the problem. Systems need to be as hands-off as possible! </P>
+
+<P>With these considerations in mind, Makani also built a comprehensive bottom-up model, whose top level results are shared in the LCOE breakdowns from above. We won’t be sharing this model, as it’s complex, vaguely sourced, and highly speciﬁc to our designs, but it’s worth distilling the results, which are more general in nature. </P>
+
+<P>The model consists of infant mortality and mean time between failure (MBTF) estimates for each class of components, combined with estimated time to service and/or replace those components, and their scheduled maintenance frequency. Failures are classiﬁed by urgency—some will require an unscheduled trip to the turbine, while others can be addressed in the next scheduled maintenance. Technician time to get out to the system and access it for repairs is one of the largest sensitivities, and unfortunately, also carries one of the largest uncertainties. An example of some of the largest inputs to this general labor portion (ie, not the labor to replace a speciﬁc component) of the model for onshore systems is in table 2 . </P>
+
+<P>Despite relying on a large number of rough assumptions and estimates, the process of creating and using a maintenance model gave us several key lessons: </P>
+
+<P>1. Larger systems reduce the total number of components in a given plant size, resulting in fewer trips, lower labor costs, and less kite downtime. </P>
+
+<P>a. This is especially important for offshore systems, where time to access systems is large. </P>
+
+<L>
+<LI>
+<Lbl>2. </Lbl>
+
+<LBody>Offshore AWT systems should support easy kite swaps to enable heavy maintenance operations to occur onshore. </LBody>
+</LI>
+
+<L>
+<LI>
+<Lbl>3. </Lbl>
+
+<LBody>Maintenance costs are dominated by the power plants. </LBody>
+</LI>
+
+<L>
+<LI>
+<Lbl>a. </Lbl>
+
+<LBody>There are a large number of rotors, motors, motor controllers, and cooling systems to maintain. </LBody>
+</LI>
+
+<LI>
+<Lbl>b. </Lbl>
+
+<LBody>Expected MBTFs for most powertrain components seem to necessitate ~6 month scheduled maintenance intervals, about twice that of HAWTs. </LBody>
+</LI>
+</L>
+</L>
+
+<L>
+<LI>
+<Lbl>4. </Lbl>
+
+<LBody>Onboard generation wind turbines will likely be more expensive to maintain than modern HAWTs on a cost per rated power basis. </LBody>
+</LI>
+
+<L>
+<LI>
+<Lbl>a. </Lbl>
+
+<LBody>Modeling uncertainty is large—it appears onboard generation wind turbines maintenance costs can be competitive, but a major cost reduction is unlikely. </LBody>
+</LI>
+
+<LI>
+<Lbl>b. </Lbl>
+
+<LBody>Ground based power systems will have somewhat easier access, but face the same maintenance pressures to reduce the number of components and thus have the same incentive for increased scale. </LBody>
+</LI>
+</L>
+</L>
+
+<L>
+<LI>
+<Lbl>5. </Lbl>
+
+<LBody>Rotor life expectancy for onboard generation systems is an area of concern. </LBody>
+</LI>
+
+<LI>a. Inspection and replacement intervals will need to be several times longer than comparable rotors from general aviation, with costs a small fraction. </LI>
+</L>
+
+<LI>
+<Lbl>6. </Lbl>
+
+<LBody>AWTs should be designed to facilitate quick powertrain swaps. </LBody>
+</LI>
+</L>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_28.jpg"/>
+110of $0.88/W to meet a competitive onshore LCOE target of $40/MWhr. These rough approximations simply show that we need to pay attention, as unexpectedly high maintenance costs can quickly blow up the problem. Systems need to be as hands-off as possible! </Figure>
+
+<P>a. Smaller powertrain units than comparable power HAWTs enable easier maintenance, but the system needs to be designed to maximize this advantage. </P>
+
+<Table>
+<TR>
+<TH>Project Level General Maintenance Assumptions </TH>
+
+<TH>Value </TH>
+
+<TH>Unit </TH>
+</TR>
+
+<TR>
+<TD>Fault/troubleshooting time multiple of unscheduled time </TD>
+
+<TD>100 </TD>
+
+<TD>% </TD>
+</TR>
+
+<TR>
+<TD>Average kite wait time before a tech response </TD>
+
+<TD>8 </TD>
+
+<TD>hr </TD>
+</TR>
+
+<TR>
+<TD>Average travel time for a tech to get a kite </TD>
+
+<TD>0.5 </TD>
+
+<TD>hr </TD>
+</TR>
+
+<TR>
+<TD>Average time to get in a service position once at the kite </TD>
+
+<TD>0.5 </TD>
+
+<TD>hr </TD>
+</TR>
+
+<TR>
+<TD>General inspections each time accessing the kite </TD>
+
+<TD>0.25 </TD>
+
+<TD>hr </TD>
+</TR>
+
+<TR>
+<TD>% effectiveness increase decrease in tech time year over year </TD>
+
+<TD>1.0 </TD>
+
+<TD>% </TD>
+</TR>
+
+<TR>
+<TD>Burden rate for handling spares </TD>
+
+<TD>5 </TD>
+
+<TD>% </TD>
+</TR>
+
+<TR>
+<TD>% of scheduled maintenance done below cut-in </TD>
+
+<TD>20 </TD>
+
+<TD>% </TD>
+</TR>
+
+<TR>
+<TD># of carbon ﬁber repairs per kite per year </TD>
+
+<TD>2.0 </TD>
+
+<TD/>
+</TR>
+
+<TR>
+<TD>Cost per kite per year of carbon ﬁber repairs </TD>
+
+<TD>1500 </TD>
+
+<TD>$ </TD>
+</TR>
+
+<TR>
+<TD>Average # of hr down for a carbon ﬁber repair </TD>
+
+<TD>24 </TD>
+
+<TD>hr </TD>
+</TR>
+
+<TR>
+<TD>% of time that techs are working but not ﬁxing kites </TD>
+
+<TD>15 </TD>
+
+<TD>% </TD>
+</TR>
+</Table>
+
+<P>Table 2 : Some of the key inputs to Makani’s labor model for onshore maintenance expenses. </P>
+
+<P>Anecdotal evidence supports the top takeaway, that larger systems reduce maintenance costs-per-rated-watt. Statements from several HAWT wind turbine farm operators agreed that the number of required technicians largely scales with the number of turbines (and therefore, number of total components), rather than the size of each turbine. </P>
+
+<P>The model also decided several design trades for the next generation system—more rotors and variable pitch rotors were both rejected in large part due to the higher predicted maintenance costs washing out the perceived beneﬁts of those changes. A maintenance model is useful to gain some insight into diﬃcult trades such as these, and reduce the temptation to add ever more complexity. </P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_29.jpg"/>
+Ground based power systems will have somewhat easier access, but face the same maintenance pressures to reduce the number of components and thus have the same incentive for increased scale. 111</Figure>
+
+<P>All of this is to say that maintenance costs are another compelling reason for energy systems to be as large as possible, and AWTs are not exempt, despite having comparatively easier to access and maintain power systems than HAWTs. </P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_30.jpg"/>
+112Makani Technologies LLC</Figure>
+
+<P>5 System Cost </P>
+
+<P>Although the turbine itself draws all the attention, modern turbines are now so cost effective that wind energy costs have become primarily a siting, infrastructure, maintenance, and ﬁnancing problem. As we saw above, the turbine itself is typically less than half the total cost of energy onshore, and a quarter or less offshore. Wind energy’s ongoing challenge is to increase the denominator—lowering the cost of energy by increasing energy production—and to increase system rating to reduce balance of system and maintenance costs. </P>
+
+<P>This isn’t to say that system costs are irrelevant, or that the challenge of making a cost effective system is easy, but simply to point out that it’s exceedingly diﬃcult to substantially reduce the cost of energy through the cost of the turbine alone. In our offshore LCOE breakdowns from 
+<Link>s ection 3 , we see that even if the cost of the turbine is free, </Link>
+9 we’ve only reduced the cost of energy by ~15-25%, placing an impossible 100% turbine cost reduction at parity with a relatively more realistic 15-20% capacity factor improvement or an increase in scale to reduce BoS and maintenance costs by 20-30%. A competitive cost of energy cannot be achieved by reducing the cost-per-rated-watt of the turbine alone, but a high turbine cost can certainly push it out of reach. </P>
+
+<P>We should use this to reframe the priorities for a ﬁrst generation AWT. The design needs to ensure that cost-per-rated-watt can be roughly competitive with traditional wind energy, at which point it becomes relatively unimportant, at least for a new technology entering the market. It’s much more important to demonstrate that a large system with an acceptable level of performance (ie, a competitive kCF ) is technically possible, as these are the key long term avenues towards success. As a ﬂedgling industry, AWE needs to shorten development time, 10 and (in the opinion of this author) time spent incrementally lowering costs should be largely relegated to future optimizations, assuming work has been done to ensure costs can be roughly competitive and maintenance considerations have been designed in. </P>
+
+<P>Makani developed cost models, estimates, and vendor quotes that show a path to a competitive cost-per-rated-watt, leaving the key challenge as needing to demonstrate reliable performance at scale. </P>
+
+<P>9 It’s obviously diﬃcult to build a business case around a free product, but it’s also diﬃcult to build one around a product with a lengthy development where the beneﬁts are only realized at a rock bottom price. 10 Despite several multi-year efforts from several companies, no AWT effort has publicly demonstrated hands-off operation of even a moderate sized (&gt;500 kW) AWT for a reasonable length of time (&gt;6 months of operation at a high level of availability) while achieving the necessary performance level. As Makani has clearly demonstrated, growing development costs and timelines can be hard to justify. </P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_31.jpg"/>
+) is technically possible, as these are the key long term avenues towards success. As a ﬂedgling industry, AWE needs to shorten development time, 113</Figure>
+
+<P>6 Kite Power </P>
+
+<P>We finally arrive at the last piece of the LCOE puzzle, the energy production of the turbine. In this section, we’ll introduce an analytical model to isolate the major sensitivities and losses for an AWT’s power. To do so, we’ll embody the mantra that “all models are wrong, but some are useful” by making extensive simplifying assumptions. Our goal is a relatively simple model that can be coded in an afternoon and teaches the big lessons on how to get power from a kite—the end result only needs to broadly capture the sensitivities to be useful. </P>
+
+<P>Before we build a power model, we need a brief discussion of how we translate power into energy. Power is a function of wind speed, 11 so turbine performance is typically presented as power versus wind speed, called a power curve. A typical power curve will appear like the following, ﬁgure 10 : </P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_32.jpg"/>
+
+<Caption>
+<P>Figure 10 : A notional power curve for a wind turbine with key wind speeds denoting different regimes speciﬁed. </P>
+</Caption>
+</Figure>
+
+<P>A power curve has 2 major regimes, denoted with 3 wind speeds. The cut-in wind speed marks the ﬁrst wind speed where the turbine makes power. The turbine makes more power as the wind grows stronger until it reaches its ﬁrst rated power point, where the power system becomes saturated at Prated , and is unable to accept any more power. The rated power continues until cut-out, where the turbine must shut down, typically to avoid excessive loads that could damage the system. </P>
+
+<P>11 And somewhat of turbulence, which we’ll ignore here, as it’s outside the scope of our simple model. </P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_32.jpg"/>
+114</Figure>
+
+<P>Power performance from cut-in to ﬁrst rated power is dictated by the turbine’s ability to extract power from the wind, while the rated power region is determined by the power system’s maximum power. Here, we’ll choose to focus on maximizing the ability of the turbine to make power from the wind, ie, the region from cut-in to ﬁrst rated power. Power saturation, and the 
+<Link>challenges associated with it, will be discussed in s ection 10 . </Link>
+</P>
+
+<P>A power curve does not directly give us the capacity factor, kCF , needed to determine LCOE. Capacity factor is a function of both the power curve and the wind speed probability distribution. Wind speed probabilities are site speciﬁc, but are commonly described with “standard” distributions, taking the form of a Rayleigh curve. Sites can be classiﬁed by their average wind speed, with the International Electrotechnical Commission (IEC) specifying high (class I), to very low (class IV) categories. Rayleigh distributions for those average wind speeds is shown in ﬁgure 11 below: </P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_33.jpg"/>
+
+<Caption>
+<P>Figure 11 : Wind probability distributions for IEC Wind Classes, assuming a typical Rayleigh distribution. </P>
+</Caption>
+</Figure>
+
+<P>A wind speed distribution convolved with a power curve then provides a power probability distribution. Integrating the power probability distribution results in the average power for a given wind distribution. The average power is then adjusted for turbine availability (turbines may be down for maintenance, or for bird migrations, or to better match energy demand, or several other reasons) and any other plant level losses, and ratio of the net average power to the maximum power, Prated , gives us the capacity factor, kCF . </P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_34.jpg"/>
+d115</Figure>
+
+<P>● Three tower aﬃxed wings ( ζS/(ζ0S0) = 3), also known as a traditional HAWT, are competitive in power with an AWT of 3x the performance at normal wind shears </P>
+
+<P>HAWTs have a strong motivation to have at least 3 blades for balancing reasons, and here we see why they don’t have more: they can already approach the Betz limit with 3 normal sized wings. Of course, this wing isn’t optimized for use on a tower—the value of higher ζL is also diminished as the Betz limit is approached, and this is why we don’t see HAWTs also chase high ζ with high lift airfoils like AWTs do—a single element airfoil has signiﬁcant simplicity and cost beneﬁts that outweigh the heavily reduced gains of the multi-element airfoil due to the increased induced ﬂow that a high performance multi-element airfoil creates. This means that in the 3 wing comparison case above, a HAWT would likely simplify its “wings” to a single element with lower ζ for little performance loss, perhaps making up for some of it with increased blade area—adding blade area is often cheaper than adding an equivalent amount of ζ through multi-element blades. </P>
+
+<P>6.3 Conclusion </P>
+
+<P>In this light, let’s take a step back and critically examine the perceived power beneﬁts of AWTs. A number of unique losses, in particular tether drag and elevation losses (from the combination of a minimum required altitude, turning losses, and a minimum turning radius) all act to reduce performance of an AWT relative to a HAWT with similar blades. Under these conditions, it’s inaccurate to state that AWTs access higher power from higher winds, since the net effect is to create less power than the same wing mounted to a tower at the reference height! </P>
+
+<P>This isn’t to say that AWTs don’t present any performance advantages compared to HAWTs: </P>
+
+<L>
+<L>
+<LI>
+<Lbl>● </Lbl>
+
+<LBody>AWTs sweep out much more wind area, dramatically lowering induced ﬂow losses. </LBody>
+</LI>
+
+<L>
+<LI>
+<Lbl>○ </Lbl>
+
+<LBody>AWTs can achieve higher performance per wing area than a 3 blade HAWT, especially in high wind shear or with very low kTDR ratios, possibly making them more cost effective. </LBody>
+</LI>
+
+<LI>
+<Lbl>○ </Lbl>
+
+<LBody>HAWTs remove so much energy from the wind area they sweep out that in a plant consisting of many wind turbines, downwind turbines see reduced performance (referred to in the industry as wake losses, and can be on the order of 10-15%). AWTs sweep out much more wind area relative to their power, and wake losses will be negligible. </LBody>
+</LI>
+</L>
+</L>
+
+<LI>
+<Lbl>● </Lbl>
+
+<LBody>Lower bending moments from shorter towers support much smaller and cheaper foundations, which is a signiﬁcant cost driver for offshore installations. </LBody>
+</LI>
+</L>
+
+<P>“These conditions” clearly include the system drag, path, and mass assumptions we’ve made. The biggest way to change this conclusion is with a very low kTDR in moderate to high wind shears. When the cost of reaching higher winds is low, the tether can better pay for itself to access them. Ratios low enough to do so seem achievable only with signiﬁcant tether fairing, something that Makani was not able to practically achieve. </P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_35.jpg"/>
+166)</Figure>
+
+<P>It’s also important to reiterate the detrimental effects of longer tethers we ignored in the above analysis—onboard generation AWTs must either pay additional resistive losses or increase mass. All AWTs must support the additional mass, and they should consider the opportunity cost of adding tether mass—increased tether mass generally directly takes away from mass that can be added to the wing (either to increase ζS or reduce costs), especially for onboard 
+<Link>power generation systems. We’ll explore this effect more in s ection 7, Mass . </Link>
+</P>
+
+<P>Path changes can also be important. We’ve so far assumed a circular path and a minimum altitude of ~3 wingspans at 80 m and htower of 15 m. A kite with a very tight minimum turning radius could instead make much ﬂatter shapes, lowering the mean elevation to signiﬁcantly reduce θe at the cost of minor off-wind losses for the crosswind portion and accepting bigger losses for the brief tight turns. </P>
+
+<P>One version of this could be horizontally oriented ﬁgure eights, with the additional beneﬁt of eliminating the need to de-twist the tether. For the systems presented here, this isn’t an optimal solution—the minimum turning radius constraint combined with shorter tethers simply pushes the sides of the path to large azimuth offsets, which hurts performance. A system that can turn more tightly can alleviate those losses, but unless the kite is substantially lighter, it will see large losses in the turns. Longer tethers can also ease the azimuth offsets, allowing us to stretch the path horizontally and spend less time turning, but longer tethers are less optimal, and they increase the turning losses for the same path radius. A very light kite with a low kTDR could ﬁnd a suitable compromise here. </P>
+
+<P>Mass has a surprisingly small impact on crosswind performance, predominantly only affecting the low wind performance. A lighter kite can pull tighter turns and experience less elevation losses at shorter tether lengths, but changes large enough to be signiﬁcant will likely only be possible with a different architecture, namely a ground-based power system, as the examples used here already represent very light construction methods for onboard power generation rigid kites. </P>
+
+<P>In summary, AWTs nearly completely eliminate the shackle of induced ﬂow losses, only to trade it for the shackle of tether, elevation, turning, gravity, and speed losses. Stronger high altitude winds provide a beneﬁt that can recoup some of the difference, but not enough for the systems explored here to see a net beneﬁt. </P>
+
+<P>6.4 A Numerical Take on Path Shape </P>
+
+<P>Thus far, we’ve limited the data to circular paths only, leaving non-circular paths to discussion alone. </P>
+<Figure>
+
+<ImageData src="images/Makani_TheEnergyKiteReport_Part1_short_img_36.jpg"/>
+TD167</Figure>
+</Sect>
+</Sect>
+</Sect>
+</Sect>
+</Part>
+</TaggedPDF-doc>
