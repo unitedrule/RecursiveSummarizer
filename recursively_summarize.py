@@ -1,5 +1,6 @@
 import openai
 import os
+from dotenv import load_dotenv
 from time import time,sleep
 import textwrap
 import re
@@ -10,7 +11,9 @@ def open_file(filepath):
         return infile.read()
 
 
-openai.api_key = open_file('openaiapikey.txt')
+# Call OpenAi API key from the settings environment file
+load_dotenv()
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 
 def save_file(content, filepath):
