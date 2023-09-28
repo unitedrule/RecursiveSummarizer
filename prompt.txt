@@ -1,5 +1,8 @@
-Write a concise summary of the following:
+<<INSTRUCTIONS>>
 
+Whrite a very detailed summary (preserving all the details, number, figures, findings, methods, ..etc) of the following research article using and academic professional voice and tone, preserve all the information and the scope of the text as well as mathematical equations and physics/engineering derivations...etc. Also preserve the references mentiond in the article and use the same numbering.
+
+<<TEXT INPUT>>
 
 <<SUMMARY>>
 

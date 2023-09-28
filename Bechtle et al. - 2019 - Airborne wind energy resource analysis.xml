@@ -1,0 +1,1432 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Created from PDF via Acrobat SaveAsXML -->
+<!-- Mapping Table version: 28-February-2003 -->
+<TaggedPDF-doc>
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.1-c001 79.2a0d8d9, 2023/03/14-11:19:46        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:prism_1_="http://prismstandard.org/namespaces/basic/3.0/"
+            xmlns:crossmark="http://crossref.org/crossmark/1.0/"
+            xmlns:jav="http://www.niso.org/schemas/jav/1.0/"
+            xmlns:pdfx="http://ns.adobe.com/pdfx/1.3/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:ali="http://www.niso.org/schemas/ali/1.0/">
+         <dc:format>xml</dc:format>
+         <dc:identifier>doi:10.1016/j.renene.2019.03.118</dc:identifier>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Airborne wind energy resource analysis</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Philip Bechtle</rdf:li>
+               <rdf:li>Mark Schelbergen</rdf:li>
+               <rdf:li>Roland Schmehl</rdf:li>
+               <rdf:li>Udo Zillmann</rdf:li>
+               <rdf:li>Simon Watson</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:subject>
+            <rdf:Bag>
+               <rdf:li>Airborne wind energy</rdf:li>
+               <rdf:li>Kite power</rdf:li>
+               <rdf:li>Wind resource</rdf:li>
+            </rdf:Bag>
+         </dc:subject>
+         <dc:description>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Renewable Energy, 141 (2019) 1103-1116. doi:10.1016/j.renene.2019.03.118</rdf:li>
+            </rdf:Alt>
+         </dc:description>
+         <dc:publisher>
+            <rdf:Bag>
+               <rdf:li>Elsevier Ltd</rdf:li>
+            </rdf:Bag>
+         </dc:publisher>
+         <prism_1_:aggregationType>journal</prism_1_:aggregationType>
+         <prism_1_:publicationName>Renewable Energy</prism_1_:publicationName>
+         <prism_1_:copyright>© 2019 The Authors. Published by Elsevier Ltd.</prism_1_:copyright>
+         <prism_1_:issn>0960-1481</prism_1_:issn>
+         <prism_1_:volume>141</prism_1_:volume>
+         <prism_1_:coverDisplayDate>October 2019</prism_1_:coverDisplayDate>
+         <prism_1_:pageRange>1103-1116</prism_1_:pageRange>
+         <prism_1_:startingPage>1103</prism_1_:startingPage>
+         <prism_1_:endingPage>1116</prism_1_:endingPage>
+         <prism_1_:doi>10.1016/j.renene.2019.03.118</prism_1_:doi>
+         <prism_1_:url>https://doi.org/10.1016/j.renene.2019.03.118</prism_1_:url>
+         <crossmark:MajorVersionDate>2010-04-23</crossmark:MajorVersionDate>
+         <crossmark:CrossmarkDomainExclusive>true</crossmark:CrossmarkDomainExclusive>
+         <crossmark:DOI>10.1016/j.renene.2019.03.118</crossmark:DOI>
+         <crossmark:CrossMarkDomains>
+            <rdf:Seq>
+               <rdf:li>elsevier.com</rdf:li>
+               <rdf:li>sciencedirect.com</rdf:li>
+            </rdf:Seq>
+         </crossmark:CrossMarkDomains>
+         <jav:journal_article_version>VoR</jav:journal_article_version>
+         <pdfx:doi>10.1016/j.renene.2019.03.118</pdfx:doi>
+         <pdfx:robots>noindex</pdfx:robots>
+         <pdfx:CrossmarkMajorVersionDate>2010-04-23</pdfx:CrossmarkMajorVersionDate>
+         <pdfx:CrossmarkDomainExclusive>true</pdfx:CrossmarkDomainExclusive>
+         <pdfx:CreationDate--Text>16th May 2019</pdfx:CreationDate--Text>
+         <pdfx:CrossMarkDomains>
+            <rdf:Seq>
+               <rdf:li>sciencedirect.com</rdf:li>
+               <rdf:li>elsevier.com</rdf:li>
+            </rdf:Seq>
+         </pdfx:CrossMarkDomains>
+         <xmp:CreatorTool>Elsevier</xmp:CreatorTool>
+         <xmp:ModifyDate>2019-05-16T08:58:07+05:30</xmp:ModifyDate>
+         <xmp:MetadataDate>2019-05-16T08:58:07+05:30</xmp:MetadataDate>
+         <xmpRights:Marked>True</xmpRights:Marked>
+         <pdf:CreationDate--Text>16th May 2019</pdf:CreationDate--Text>
+         <pdf:Producer>Acrobat Distiller 8.1.0 (Windows)</pdf:Producer>
+         <xmpMM:DocumentID>uuid:b5e81cef-0181-4b26-a7de-942f25bfa611</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:0dc3ecf3-4f09-44c5-a9c5-f79143c56303</xmpMM:InstanceID>
+         <ali:license_ref>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <ali:uri>http://creativecommons.org/licenses/by/4.0/</ali:uri>
+               </rdf:li>
+            </rdf:Bag>
+         </ali:license_ref>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+<?xpacket end='r'?>
+<bookmark-tree>
+<bookmark title="Airborne wind energy resource analysis">
+<destination structID="None"/>
+<bookmark title="1. Introduction">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="2. Data">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="3. Method">
+<destination structID="None"/>
+<bookmark title="3.1. Wind resource analysis">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="3.2. Cumulative high-altitude wind potential">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="3.3. Detailed results for the English Channel">
+<destination structID="None"/>
+</bookmark>
+</bookmark>
+<bookmark title="4. Results">
+<destination structID="None"/>
+<bookmark title="4.1. Wind speed and power availability for variable-height operation up to 500 m">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="4.2. Wind power availability for variable-height operation with other ceilings">
+<destination structID="None"/>
+</bookmark>
+</bookmark>
+<bookmark title="5. Conclusions">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="Acknowledgements">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="Appendix A. Supplementary data">
+<destination structID="None"/>
+</bookmark>
+<bookmark title="References">
+<destination structID="None"/>
+</bookmark>
+</bookmark>
+</bookmark-tree>
+
+<P>
+<Link>Renewable Energy 141 (2019) 1103</Link>
+e
+<Link>1116 </Link>
+</P>
+<Figure Alt="Imprint logo">
+
+<ImageData src="images/Bechtle et al. - 2019 - Airborne wind energy resource analysis_img_0.jpg"/>
+</Figure>
+
+<P>Contents lists available at 
+<Link>ScienceDirect </Link>
+</P>
+
+<Part>
+<H3>Renewable Energy </H3>
+
+<P>journal homepage: 
+<Link>www.elsevier.com/locate/renene </Link>
+</P>
+
+<Sect><Figure Alt="Journal logo">
+
+<ImageData src="images/Bechtle et al. - 2019 - Airborne wind energy resource analysis_img_1.jpg"/>
+</Figure>
+</Sect>
+
+<Sect>
+<H3>Airborne wind energy resource analysis </H3>
+
+<Sect>
+<H5>Philip Bechtle 
+<Link>a</Link>
+, Mark Schelbergen 
+<Link>b</Link>
+, Roland Schmehl 
+<Link>b</Link>
+, 
+<Link>* </Link>
+, Udo Zillmann 
+<Link>c</Link>
+, Simon Watson 
+<Link>b </Link>
+</H5>
+
+<P>a University of Bonn, Physikalisches Institut, Germany b Delft University of Technology, Faculty of Aerospace Engineering, Delft, The Netherlands c Airborne Wind Europe, Brussels, Belgium </P>
+
+<Link>
+<Sect><Figure>
+
+<ImageData src="images/Bechtle et al. - 2019 - Airborne wind energy resource analysis_img_2.jpg"/>
+</Figure>
+</Sect>
+</Link>
+
+<P>article info abstract </P>
+
+<P>Article history: </P>
+
+<P>Received 23 August 2018 Received in revised form 25 January 2019 Accepted 25 March 2019 Available online 4 April 2019 </P>
+
+<P>Keywords: </P>
+
+<P>Airborne wind energy Kite power Wind resource </P>
+
+<P>We compare the available wind resources for conventional wind turbines and for airborne wind energy systems. Accessing higher altitudes and continuously adjusting the harvesting operation to the wind resource substantially increases the potential energy yield. The study is based on the ERA5 reanalysis data which covers a period of 7 years with hourly estimates at a surface resolution of 31 31 km and a vertical resolution of 137 barometric altitude levels. We present detailed wind statistics for a location in the English Channel and then expand the analysis to a surface grid of Western and Central Europe with a resolution of 110 110 km. Over the land mass and coastal areas of Europe we ﬁnd that compared to a ﬁxed harvesting height at the approximate hub height of wind turbines, the wind power density which is available for 95% of the time increases by a factor of two. </P>
+
+<P>© 2019 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license </P>
+
+<Sect>
+<P>(
+<Link>http://creativecommons.org/licenses/by/4.0/</Link>
+). </P>
+</Sect>
+
+<P>1. Introduction </P>
+
+<P>Previous resource assessments have shown that the wind energy available in the atmosphere could theoretically power the world [
+<Link>1</Link>
+]. The precise extend of this energy potential is however still a subject of scientiﬁc debate. Uncertain is, for example, what effect a large-scale energy extraction would have on the overall resource and how the vertical energy exchange between the wind layers would inﬂuence an extraction on this scale. Miller et al. [
+<Link>2</Link>
+] estimate a maximum of 18e68 TW that can be extracted over land. Jacobson and Archer [
+<Link>3</Link>
+] include also coastal ocean regions outside Antarctica and revise the saturation wind power potential to 80 TW. 
+<Link>Adams and Keith [4</Link>
+] use a mesoscale model and predict that the energy potential is signiﬁcantly lower, at 20 TW, a result that is roughly conﬁrmed by Miller et al. [
+<Link>5</Link>
+]. On the other hand, Emeis [
+<Link>6</Link>
+] estimates the total extractable wind power potential to be about 61 TW. Dupont et al. [
+<Link>7</Link>
+] review these estimates and conclude that the global wind energy potential is substantially lower than previously established when both physical limits and a high cut-off value for the energy returned on energy invested (EROI > 10) is applied. </P>
+<Figure>
+
+<ImageData src="images/Bechtle et al. - 2019 - Airborne wind energy resource analysis_img_3.jpg"/>
+</Figure>
+
+<P>* Corresponding author. </P>
+
+<P>E-mail addresses: 
+<Link>bechtle@physik.uni-bonn.de </Link>
+(P. Bechtle), 
+<Link>m.schelbergen@ </Link>
+
+<Link>tudelft.nl </Link>
+(M. Schelbergen), 
+<Link>r.schmehl@tudelft.nl </Link>
+(R. Schmehl), 
+<Link>zillmann@ </Link>
+
+<Link>airbornewindeurope.org </Link>
+(U. Zillmann), 
+<Link>s.j.watson@tudelft.nl </Link>
+(S. Watson). </P>
+
+<P>Most of these studies account only for an energy extraction close to the surface, using conventional wind turbines. Airborne wind energy (AWE) systems use tethered ﬂying devices to access higher altitudes where wind is generally stronger and more persistent. The combination of cost savings due to lower material consumption and the ability to continuously adjust the harvesting height to the wind conditions bears the potential to substantially decrease the cost of energy and to access an energy resource that has not been used so far [
+<Link>8</Link>
+]. The two different AWE conversion concepts are illustrated in 
+<Link>Fig. 1 </Link>
+next to a conventional horizontal axis wind turbine (HAWT). </P>
+
+<P>A majority of the currently pursued development projects aims at ground-based conversion employing crosswind operation in a pumping cycle [
+<Link>9</Link>
+e
+<Link>11</Link>
+]. Technological challenges are the reliability and robustness of the ﬂying systems [
+<Link>12</Link>
+,
+<Link>13</Link>
+], reducing the land surface use [
+<Link>14</Link>
+] and the regulatory framework [
+<Link>15</Link>
+,
+<Link>16</Link>
+]. </P>
+
+<P>Because they harvest energy at heights beyond the reach of conventional tower-based wind turbines, AWE systems are exposed to different regions of the atmospheric boundary layer. The evolution of these regions along a day is illustrated schematically in 
+<Link>Fig. 2</Link>
+. </P>
+
+<P>The boundary layer ﬂow is driven by the geostrophic wind at 1000e1500 m altitude, which is in turn driven by horizontal pressure gradients and the Coriolis force. The boundary layer consists of three different regions: a very turbulent mixed layer, which transitions into a less turbulent residual layer, and a growing nocturnal boundary layer, which is only sporadically turbulent [
+<Link>17</Link>
+]. </P>
+
+<P>
+<Link>https://doi.org/10.1016/j.renene.2019.03.118 </Link>
+0960-1481/© 2019 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license (
+<Link>http://creativecommons.org/licenses/by/4.0/</Link>
+). </P>
+<Figure Alt="Image of Fig. 1">
+
+<ImageData src="images/Bechtle et al. - 2019 - Airborne wind energy resource analysis_img_4.jpg"/>
+</Figure>
+
+<P>Fig. 1. AWE systems replace the tips of a conventional wind turbine (left) by tethered ﬂying devices. Electricity is generated either continuously onboard and transmitted to the ground by a conducting tether (center), or on the ground, with the tether transmitting the alternating mechanical power of a pumping cycle (right). </P>
+<Figure Alt="Image of Fig. 2">
+
+<ImageData src="images/Bechtle et al. - 2019 - Airborne wind energy resource analysis_img_5.jpg"/>
+</Figure>
+
+<Sect><Figure>
+
+<ImageData src="images/Bechtle et al. - 2019 - Airborne wind energy resource analysis_img_6.jpg"/>
+</Figure>
+</Sect>
+
+<P>Fig. 2. Temporal evolution of different regions of the atmospheric boundary layer in high pressure regions over land (adapted from Stull [
+<Link>17</Link>
+]). </P>
+
+<P>The mixed layer can be further subdivided into cloud and subcloud layers. While wind turbines operate predominantly in the surface layer up to 100e200 m, which is also denoted as Prandtl layer, AWE systems operate predominantly in the Ekman layer, in which the ﬂow adjusts from the surface layer to the geostrophic wind. </P>
+
+<P>A ﬁrst global assessment of wind power at high altitudes has been performed by Archer and Caldeira [
+<Link>18</Link>
+]. The study, based on 28 years of NCEP/DOE reanalysis data, resulted in a global high-altitude wind atlas [
+<Link>19</Link>
+] and was one of the scientiﬁc drivers for the exploration of airborne wind energy. As part of the study, the optimal harvesting height has been determined, the effect of intermittency has been investigated as well as global climate effects of large-scale energy extraction from higher atmospheric layers. Miller et al. [
+<Link>2</Link>
+] estimate the maximum sustainable extraction from jet streams of the global atmosphere to be about 7.5 TW and according to Miller et al. [
+<Link>20</Link>
+] jet stream wind power does not have the potential to become a signiﬁcant source of renewable energy. Using a climate model, Marvel et 
+<Link>al. [21</Link>
+] found that ground-based wind turbines could extract at least 400 TW, whereas high-altitude wind power could extract more than 1800 TW. They further state that uniformly distributed wind turbines generating the entire global primary power demand of 18 TW are unlikely to substantially affect the climate. Archer et al. [
+<Link>22</Link>
+] explore the global wind power potential by accounting for the speciﬁc operational characteristics of AWE systems. Although they allow a variable harvesting height, they also conclude that the optimal locations are where temporally consistent and high wind speeds occur at lowest possible altitudes, to minimize the drag losses of the tether. </P>
+
+<P>Gambier 
+<Link>[23</Link>
+] and Gambier et al. [
+<Link>24</Link>
+] present a detailed modeling framework for AWE system designs and combine this with COSMO-EU and NCEP/DOE model data for 12 locations in and around Germany [
+<Link>23</Link>
+] as well as LIDAR measurements up to 1200 m at two locations in Germany 24. The measurements reveal strong wind shear between 200 and 1000 m altitude during night time, while during the day the wind shear is small. Lunney et al. </P>
+
+<P>
+<Link>[25</Link>
+] present a techno-economic study of airborne wind energy harvesting in Ireland. The high-altitude wind resource was modeled on the basis of NCEP/DOE AMIP-II Reanalysis (R-2) data which provides an updated 6-hourly global analysis of atmospheric variables such as wind and temperature with 143 73 grid points in the horizontal with spacing of 2.5 ranging from the year 1979 to the present. Yip et al. [
+<Link>26</Link>
+] use MERRA-2 data to identify possible deployment areas for AWE in the Middle East, computing also the optimal height at which the systems would operate. Emeis [
+<Link>6</Link>
+] discusses AWE systems in his outlook chapter. Only very recently the Dutch Offshore Wind Atlas (DOWA) has been published, consisting of 10 years of hourly data and covering the North Sea Region on a 2.5 2.5 km grid in 17 altitude levels up to 600 m. The data has been obtained by downscaling the ERA5 reanalysis using a regional numerical weather model together with additional satellite and aircraft measurements [
+<Link>27</Link>
+]. </P>
+
+<P>Olauson [
+<Link>28</Link>
+] accurately calculates the wind power generation of several countries and regions using the newly available ERA5 reanalysis data [
+<Link>29</Link>
+]. The quality of these predictions and the global availability of an unprecedented spatial and temporal resolution has motivated us to use this data to compare the wind resources available to conventional wind turbines and to AWE systems. While using a ﬁxed harvesting height for wind turbines, we allow AWE </P>
+
+<P>P. Bechtle et al. / Renewable Energy 141 (2019) 1103e1116 1105 </P>
+
+<P>systems to continuously adjust the height to the varying wind resource in order to maximize the potential energy yield. The periodic ﬂight trajectory, speciﬁc to the different conversion concepts illustrated in 
+<Link>Fig. 1, </Link>
+is not resolved. Near the coast and onshore, the cost of wind energy is already highly competitive compared to other energy sources. The power generated by conventional wind turbines can vary strongly depending on the consistency of the wind resource. A technology which decreases the variability and increases the available wind power is therefore one of the key measures to allow wind power covering a large part of the base load [
+<Link>8</Link>
+
+<Link>,18</Link>
+]. As part of the objective, the variability of the wind resource is thoroughly investigated. </P>
+
+<P>The paper is organized as follows. In Section 
+<Link>2 </Link>
+we brieﬂy introduce the wind data set on which the analysis is based. In Section 
+<Link>3 </Link>
+we explain the wind resource analysis method and present detailed sample results for a speciﬁc location in the English Channel. In Section 
+<Link>4 </Link>
+the results are discussed for various locations within Europe, followed by the conclusions in Section 
+<Link>5</Link>
+. </P>
+
+<P>2. Data </P>
+
+<P>In our analysis we cover the area of Western and Central Europe, between N30.0 and N65.0 and W20.0 and E20.0 . The wind resource is estimated using the ERA5 data provided by the European Center for Medium-Range Weather Forecasts (ECMWF) for the period from 1 January 2011 to 31 December 2017. The data is based on a reanalysis of a large set of ground-, air-and satellite-based measurements [
+<Link>30</Link>
+]. The original hourly wind data has a resolution of 0:28+ 0:28+ in latitude and longitude (ca. 31 31 km). For our current analysis, this data is interpolated to a 1 1 (ca. 110 110 km) surface grid. The coarser grid allows displaying regional variations of the wind resource in Europe, but does not resolve local variations. In vertical direction the data is resolved by 137 barometric altitude levels from sea level up to 0.01 hPa, which is roughly at 80 km above sea level. </P>
+
+<P>The sources of the ERA5 data set that are directly relevant for the reanalysis of the time-resolved wind speed ﬁeld are the satellite-based measurement data listed in 
+<Link>Table 1 </Link>
+and the ground-based measurement data listed in 
+<Link>Table 2</Link>
+. </P>
+
+<P>The documentation of the ERA5 reanalysis data does not provide any information about the accuracy of the wind speed estimate. From earlier analyses of the ERA-Interim data set and from wind proﬁler data, the local error of the time-resolved wind speed vector ﬁeld is estimated to be in the order of magnitude of 1 m/s [
+<Link>31</Link>
+e
+<Link>35</Link>
+] up to the 850 hPa level, which is roughly at 1500 m above sea level. Because we are mainly analyzing harvesting heights up to 500 m above ground, this altitude range covers most of the analyzed area except for those regions higher than 1000 m above sea level. The precision of the reanalysis data is estimated by comparing it directly with measurements that have and have not been used as input to the reanalysis. The measurements are coherent and, for both cases, no bias of the wind speed is found. Most conclusions of our analysis are based on annual averages. The relatively small estimation errors are both positive and negative and cancel each other out as a result of the averaging. </P>
+
+<P>An example of a satellite-based technique that measures the wind velocity vector at the surface is the passive spaceborne microwave radiometry described in Gaiser et al 
+<Link>[37</Link>
+]. The technique employs the scattering of sunlight from aerosols, which creates a polarization of the reﬂected light similar to the reﬂection off a reﬂective surface [
+<Link>38</Link>
+]. For a precision estimate of the input measurements see 
+<Link>[31,</Link>
+
+<Link>32</Link>
+]. An example of a ground-based technique that directly measures the wind speed along a certain direction is wind proﬁling using LIDAR. The technique is based on microwave laser beams that are constantly rotated to different angles with respect to the measurement direction. The Doppler shift and time delay between the laser pulse and the recorded back-scattered light wave allows determining the wind velocity vector from the observations at different angles. </P>
+
+<P>It is expected that the individual wind proﬁler data listed in 
+<Link>Table 2</Link>
+, which is used to extrapolate the ground-based surface wind data to higher altitudes, has a wind speed error below 1 m/s 
+<Link>[33</Link>
+]. In the reanalysis, the historical measurements from all sources in 
+<Link>Tables 1 and 2 </Link>
+are used together with a weather model to estimate how the state of the atmosphere evolved over time. The maximum wind speed error of the reanalysis data is higher than that of the wind proﬁler measurements because of modeling inaccuracies. </P>
+
+<P>3. Method </P>
+
+<P>In Section 
+<Link>3.1 </Link>
+we ﬁrst describe the basic resource analysis using the ERA5 wind data set. In Section 
+<Link>3.2 </Link>
+we outline the additional wind energy that is accessible by AWE systems and in Section 
+<Link>3.3 </Link>
+we describe the analysis of the wind potential at variable height using an exemplary location in the English Channel. </P>
+
+<Sect>
+<H6>3.1. Wind resource analysis </H6>
+
+<P>The wind resource data in the ERA5 data is speciﬁed for barometric altitude levels. Using the ground proﬁle included in the data, we interpolate this data linearly to 25 levels of constant height above ground. This interpolated wind data covers the height range from 10 to 1500 m and is used for the remainder of the analysis. </P>
+
+<P>The measured and reconstructed property is the wind velocity v from which we derive the wind power density </P>
+
+<Sect>
+<P>1</P>
+</Sect>
+
+<P>Pw ¼ rv 3 (1)</P>
+
+<Sect>
+<P>2 </P>
+</Sect>
+
+<P>The air density r is approximated by the barometric altitude formula for constant temperature </P>
+
+<P>Table 1 </P>
+
+<P>Relevant satellite measurements of the wind speed proﬁle serving as input to the ERA5 reanalysis [
+<Link>30</Link>
+]. </P>
+
+<Table>
+<TR>
+<TD>Microwave sensor </TD>
+
+<TD>Satellite </TD>
+
+<TD>Satellite Agency </TD>
+
+<TD>Data Provider </TD>
+</TR>
+
+<TR>
+<TD>MVIRI </TD>
+
+<TD>METEOSAT-2*/3*/4*/5*/7* </TD>
+
+<TD>EUMETSAT/ESA </TD>
+
+<TD>EUMETSAT </TD>
+</TR>
+
+<TR>
+<TD>SEVIRI </TD>
+
+<TD>METEOSAT-8*/9*/10 </TD>
+
+<TD>EUMETSAT/ESA </TD>
+
+<TD>EUMETSAT </TD>
+</TR>
+
+<TR>
+<TD>GOES IMAGER </TD>
+
+<TD>GOES-4-6/8*-13*/15* </TD>
+
+<TD>NOAA </TD>
+
+<TD>CIMMS*,NESDIS </TD>
+</TR>
+
+<TR>
+<TD>GMS IMAGER </TD>
+
+<TD>GMS-1*/2/3*/4*/5* </TD>
+
+<TD>JMA </TD>
+
+<TD>JMA </TD>
+</TR>
+
+<TR>
+<TD>MTSAT IMAGER </TD>
+
+<TD>MTSAT-1R*/MTSAT2 </TD>
+
+<TD>JMA </TD>
+
+<TD>JMA </TD>
+</TR>
+
+<TR>
+<TD>AHI </TD>
+
+<TD>Himawari-8 </TD>
+
+<TD>JMA </TD>
+
+<TD>JMA </TD>
+</TR>
+
+<TR>
+<TD>AVHRR </TD>
+
+<TD>NOAA-7/9-12/14-18, METOP-A </TD>
+
+<TD>NOAA </TD>
+
+<TD>CIMMS, EUMETSAT </TD>
+</TR>
+
+<TR>
+<TD>MODIS </TD>
+
+<TD>AQUA/TERRA </TD>
+
+<TD>NASA </TD>
+
+<TD>NESDIS, CIMMS </TD>
+</TR>
+</Table>
+
+<P>Table 2 </P>
+
+<P>Relevant ground-based measurements serving as input to the ERA5 reanalysis [
+<Link>30</Link>
+,
+<Link>36</Link>
+]. </P>
+
+<Table>
+<TR>
+<TD>Data set </TD>
+
+<TD>Observation Type </TD>
+
+<TD>Measurements </TD>
+</TR>
+
+<TR>
+<TD>SYNOP </TD>
+
+<TD>Land station </TD>
+
+<TD>Surface pressure, temperature, wind, humidity </TD>
+</TR>
+
+<TR>
+<TD>METAR </TD>
+
+<TD>Land station </TD>
+
+<TD>Surface pressure, temperature, wind, humidity </TD>
+</TR>
+
+<TR>
+<TD>DRIBU/DRIBU-BATHY/DRIBU-TESAC </TD>
+
+<TD>Drifting buoys </TD>
+
+<TD>10 m-wind, surface pressure </TD>
+</TR>
+
+<TR>
+<TD>SHIP </TD>
+
+<TD>Ship station </TD>
+
+<TD>Surface pressure, temperature, wind, humidity </TD>
+</TR>
+
+<TR>
+<TD>Land/ship PILOT </TD>
+
+<TD>Radiosondes </TD>
+
+<TD>Wind proﬁles </TD>
+</TR>
+
+<TR>
+<TD>American Wind Proﬁler </TD>
+
+<TD>Radar </TD>
+
+<TD>Wind proﬁles </TD>
+</TR>
+
+<TR>
+<TD>European Wind Proﬁler </TD>
+
+<TD>Radar </TD>
+
+<TD>Wind proﬁles </TD>
+</TR>
+
+<TR>
+<TD>Japanese Wind Proﬁler </TD>
+
+<TD>Radar </TD>
+
+<TD>Wind proﬁles </TD>
+</TR>
+
+<TR>
+<TD>TEMP SHIP </TD>
+
+<TD>Radiosondes </TD>
+
+<TD>Temperature, wind, humidity proﬁles </TD>
+</TR>
+
+<TR>
+<TD>DROP Sonde </TD>
+
+<TD>Aircraft-sondes </TD>
+
+<TD>Temperature, wind proﬁles </TD>
+</TR>
+
+<TR>
+<TD>Land/Mobile TEMP </TD>
+
+<TD>Radiosondes </TD>
+
+<TD>Temperature proﬁles </TD>
+</TR>
+
+<TR>
+<TD>AIREP </TD>
+
+<TD>Aircraft data </TD>
+
+<TD>Temperature, wind proﬁles </TD>
+</TR>
+
+<TR>
+<TD>AMDAR </TD>
+
+<TD>Aircraft data </TD>
+
+<TD>Temperature, wind proﬁles </TD>
+</TR>
+
+<TR>
+<TD>ACARS </TD>
+
+<TD>Aircraft data </TD>
+
+<TD>Temperature, wind proﬁles, humidity </TD>
+</TR>
+
+<TR>
+<TD>WIGOS AMDAR </TD>
+
+<TD>Aircraft data </TD>
+
+<TD>Temperature, wind proﬁles </TD>
+</TR>
+</Table>
+
+<Sect>
+<P>z </P>
+</Sect>
+
+<P>r ¼ r0 exp (2)</P>
+
+<Sect>
+<P>Hr </P>
+</Sect>
+
+<P>where r0 ¼ 1.225 kg/m3 is the standard atmospheric density at sea level and standard temperature, z is the altitude, and Hp ¼ 8.55 km is the scale altitude for density. </P>
+
+<P>Since energy conversion is generally limited to a lower and upper bound in wind speeddthe cut-in and cut-out wind speedsdthe shape of the wind speed probability distribution greatly affects the energy yield. To get a better insight into the shape of the distribution at each location, we introduce the 5th, 32nd, and 50th percentiles of the wind speed probability distribution, as also employed by Archer and Caldeira [
+<Link>18</Link>
+]. The 50th percentile is equivalent to the median. As shown in Section 
+<Link>3.3</Link>
+, the most probable wind speed lies between the 32nd and 50th percentile wind speeds. </P>
+
+<P>The emphasis in most wind resource analyses is on the height ranges in which conventional wind turbines operate. We illustrate the wind speed and power density probability distributions derived from the ERA5 data at a ﬁxed height of 100 m in 
+<Link>Figs. 3 and 4</Link>
+, respectively. The resulting distributions are used as a reference to assess the wind resource at higher altitudes that are available to AWE systems. We thus denote the 100 m ﬁxed-height case as reference case. </P>
+
+<P>For all three percentiles the highest wind speed is found west of the United Kingdom and the lowest is found south of the Alps. </P>
+
+<P>Furthermore, west of the coast of Denmark can be identiﬁed as a good offshore site for conventional wind technology. The general trend observed is an increase in wind speed in north-west direction starting from Italy. </P>
+
+<P>The ﬂight trajectory of a kite for onboard electricity generation, as depicted in 
+<Link>Fig. 1 </Link>
+(center), is typically circular [
+<Link>39</Link>
+]. The area swept by the kite can be approximated by an annulus in a plane which is slightly tilted forward with respect to the cross-wind plane. The major difference with respect to the swept area of a conventional wind turbine is that the radius of the annulus can be controlled. The path followed by a kite of a pumping cycle AWE system, shown in 
+<Link>Fig. 1 </Link>
+(right), is more complex. Because of the superposition of cross-wind motion of the kite and reel-in and reel-out motion of the tether, a larger vertical range is swept, typically between 150 and 500 m above ground [
+<Link>40</Link>
+e
+<Link>42</Link>
+]. Such a pumping cycle typically takes 1e3 min, which is signiﬁcantly longer than the duration of a single revolution of an onboard generation AWE system. </P>
+
+<P>The height ranges of interest in conventional wind resource analyses are limited and give a poor representation of the resource accessible by AWE systems. As in Refs. [
+<Link>22</Link>
+,
+<Link>43</Link>
+], the alternative analysis presented in this paper is not limited to assessing the wind resource at a ﬁxed height, but assesses the potential wind resource when allowing a variable harvesting height. In contrast to Ref. [
+<Link>22</Link>
+], we however restrict our analysis to height ranges compatible with the technology expected for the ﬁrst implementations of AWE. In 
+<Link>contrast to Ref. [43</Link>
+], we analyze large geographical areas. </P>
+<Figure Alt="Image of Fig. 3">
+
+<ImageData src="images/Bechtle et al. - 2019 - Airborne wind energy resource analysis_img_7.jpg"/>
+</Figure>
+
+<P>Fig. 3. 5th, 32nd, and 50th percentiles of the wind speed probability distribution at a ﬁxed height of 100 m. </P>
+
+<P>P. Bechtle et al. / Renewable Energy 141 (2019) 1103e1116 1107 </P>
+<Figure Alt="Image of Fig. 4">
+
+<ImageData src="images/Bechtle et al. - 2019 - Airborne wind energy resource analysis_img_8.jpg"/>
+</Figure>
+
+<P>Fig. 4. 5th, 32nd, and 50th percentiles of the wind power density probability distribution at a ﬁxed height of 100 m. </P>
+
+<P>The analysis is based on two main features of AWE technology: </P>
+
+<P>the possibility of accessing higher altitudes than tower-based turbines, and the ability to continuously adjust the harvesting height to the varying wind conditions. </P>
+
+<P>The ﬁrst commercial AWE initiatives envisage a maximum height of 500 m. Although AWE technology allows access to even higher altitudes, this study focusses on an operational height range between 50 and 500 m. </P>
+
+<P>The time and length scales of the distinct ﬂow regions in the atmospheric boundary layer depicted in 
+<Link>Fig. 2 </Link>
+are adequately captured by the temporal and vertical resolution of ERA5. The time scale of the energy conversion process is at maximum in the order of a few minutes and much smaller than the hourly resolution of the wind data. For this reason, the energy conversion process can be regarded as a subscale process and it is thus not resolved in the present analysis. The hourly variation of the optimal height is typically small, as will be shown in Section 
+<Link>3.3</Link>
+. Therefore, it is assumed that the AWE system can instantly adjust its harvesting operation within the considered height range. </P>
+
+<P>The length scales of the ﬂight trajectory of a kite and the ﬂow regions in the atmospheric boundary layer are of the same order of magnitude. However, resolving the ﬂight trajectory of a kite is out of the scope of this analysis. The average operational height of the kite is therefore represented by the height which exhibits the maximum wind speed. Based on the earlier description of the ﬂight trajectory of a kite, one could argue that this is a sound assumption for onboard generation AWE systems, but is not necessarily valid for the current pumping cycle AWE systems. Also those could, however, adjust their ﬂight trajectory to a have a larger horizontal and a lower vertical extension, as 
+<Link>done in Ranneberg et al. [44</Link>
+]. </P>
+
+<P>Operating an AWE system at high altitudes allows access to stronger winds, but also comes at a penalty on the energy conversion efﬁciency. Since the conversion process is out of the scope of this study, we do not account for this efﬁciency penalty and assume that the height with the maximum wind speed is the optimal operating height for AWE systems. </P>
+
+<P>The software to compile the presented results is implemented in Python and can be downloaded from our publicly accessible repository [
+<Link>45</Link>
+]. We also provide an archived version of the source code that is packaged together with the original data sets used for this analysis [
+<Link>46</Link>
+]. Along with it, we provide instructions on how to download the required ERA5 dataset and how to run the scripts. This will allow future researchers to compile detailed wind statistics at any location in the world. These can be used for analyzing the suitability of speciﬁc deployment locations and, in combination with the power curve of a speciﬁc AWE system, for computing the annual energy yield. </P>
+
+<Sect>
+<H6>3.2. Cumulative high-altitude wind potential </H6>
+
+<P>From the wind power density deﬁned in Equation 
+<Link>(1)</Link>
+, we can derive the mean wind power density integrated over a given height range </P>
+
+<Sect>
+<P>h ð 1</P>
+
+<P>nhours </P>
+
+<P>X </P>
+
+<P>¼ 11 rv 3dh (3)</P>
+</Sect>
+
+<P>Pw; h0eh1 nhours 2</P>
+
+<Sect>
+<P>i¼1 </P>
+
+<P>h0 </P>
+</Sect>
+
+<P>This property describes the total wind power passing through a vertical strip of unit width, ranging from height h0 to h1 above a given location, and averaged over nhours hourly data samples of wind speed and density proﬁles. It represents the energy potential that is hypothetically available to a conversion technology with the respective harvesting cross section. However, depending of the physical and technical limitations of the speciﬁc technology, only a fraction of this hypothetical potential can actually be harvested. For a HAWT the harvesting cross section is the swept area of the rotor, with the well-known physical constraint imposed by the Betz limit 
+<Link>[47,</Link>
+
+<Link>48</Link>
+]. For an AWE system, the harvesting area is variable, as discussed in Section 
+<Link>3.1, </Link>
+and can generally not be swept as densely as the rotor area of a ground-based turbine, because of the required safety margins to avoid collisions of the ﬂying devices and their tethers [
+<Link>49</Link>
+]. For this reason, the integral values Pw can not be regarded as an actual metric to compare conventional wind energy and airborne wind energy. We use these values here primarily to highlight the substantial differences of wind power passing through the surface layer and through the entire altitude range of </P>
+<Figure>
+
+<ImageData src="images/Bechtle et al. - 2019 - Airborne wind energy resource analysis_img_9.jpg"/>
+</Figure>
+
+<P>Fig. 5. Mean wind power density P integrated over height for a typical height range 50e150 m in which conventional wind turbines operate (left), height range up to 10 km </P>
+
+<P>w (center), and the respective increase factor f (right). The integral values represent hypothetical potentials that are subject to additional physical and technical limitations of the energy harvesting concepts. </P>
+
+<P>the atmosphere. </P>
+
+<P>
+<Link>Fig. 5 </Link>
+shows the mean wind power density integrated over height for a typical operational height range of conventional wind turbines (h0 ¼ 50 m to h1 ¼ 150 m) and for the ﬁrst 10 km above ground (h0 ¼ 0mto h1 ¼ 10 km) over Europe, together with the ratio of both values, </P>
+
+<P>P</P>
+
+<P>w; 0e10 km </P>
+
+<P>f ¼ (4)P</P>
+
+<P>w; 50e150 m </P>
+
+<P>This ratio quantiﬁes the extend of the untapped wind energy in the lower atmosphere compared to that in only the surface layer. </P>
+
+<P>As expected, P is signiﬁcantly higher above the ocean </P>
+
+<P>w; 50e150 m than above land and its isolines follow the coast lines closely [
+<Link>50</Link>
+]. </P>
+
+<P>In contrast to this, P does not only show signiﬁcantly </P>
+
+<P>w; 0e10 km higher power levels, but also a more uniform geographical distribution. The ratio f displayed in 
+<Link>Fig. 5 </Link>
+(right) shows that over the largest part of the sea around Europe, the mean wind power available in the ﬁrst 10 km above ground is 300 times higher than in the layer where wind power is currently harvested by wind turbines. Above the coastal areas, this factor increases to more than f ¼ 600, in some places exceeding even f ¼ 1000. This enormous untapped pool of wind energy underscores the importance of investigating the exploitation of higher altitude winds. For the reasons stated before, it is clear that only a small fraction of this energy can actually be harvested by AWE systems. Compared to tower-based wind turbines, however, a much larger part of the atmosphere can be accessed while the harvesting height can be adjusted continuously to the varying wind resource and thereby maximizing the energy yield. The following analysis will focus on realistic implementation scenarios of AWE and analyze the realistic gain in wind potential. </P>
+
+<Sect>
+<H6>3.3. Detailed results for the English Channel </H6>
+
+<P>In this section we detail the analysis for harvesting operation with variable height at a speciﬁc ﬁxed location. Each of the hourly wind proﬁles is analyzed for the maximum wind speed and the corresponding optimal harvesting height. The resulting time series are used to determine the wind statistics for the complete investigated period. </P>
+
+<P>
+<Link>Figs. 6 and 7 </Link>
+show the wind data at a location in the English Channel. Such an offshore site is in general very suitable for conventional wind turbines [
+<Link>50</Link>
+]. The optimal harvesting height determined for the ﬁrst week of 2016 and the corresponding wind speed are shown in 
+<Link>Fig. 6</Link>
+a. The markers in the diagram refer to the vertical wind speed proﬁles shown in 
+<Link>Fig. 6</Link>
+b, which exhibit a considerable diversity during this particular week, including a potential low-level jet on 2016-01-02 at 20:00 h. </P>
+
+<P>
+<Link>Fig. 6</Link>
+a shows that the optimal height frequently coincides with the ceiling of the operational range and rarely occurs in its lower region. This observation also holds for the full data set, as can be seen in 
+<Link>Fig. 7</Link>
+a. On the considered hourly timescale, the optimal harvesting height is rarely changing and the few variations that do occur are predominately small, as shown in 
+<Link>Fig. 7</Link>
+b. This gradual variation characteristic justiﬁes the assumption that the harvesting operation can be adjusted instantly. </P>
+
+<P>In a next step, we expand the analysis to the entire 7 year period of the available hourly ERA5 data. For a better comparison, the discrete wind speed distributions are represented by ﬁtted Weibull probability density functions, as illustrated in 
+<Link>Fig. 7</Link>
+cee. 
+<Link>Fig. 7</Link>
+c shows the differences between the wind speed probability distributions for different ﬁxed-heights cases and the baseline variable-height case with 500 m ceiling. Within this set of distributions, the 100 m ﬁxed-height case appears as a distinct outlier. Compared to the distributions at higher altitudes, the distribution at 100 m is clearly shifted towards lower wind speeds. This is an obvious consequence of the wind shear effect that causes the wind speed to decrease towards the Earth surface, also observable in 
+<Link>Fig. 6</Link>
+b. At higher altitudes, the distributions are more similar. Compared to the distribution at 500 m ﬁxed height, the distribution at 1500 m is shifted only slightly towards higher speeds. The baseline variable-height case (500 m ceiling) avoids weaker winds by adjusting the height and virtually never experiences zero wind. The distribution shows a distinct offset from the origin and its centroid shifted farthest towards higher wind speed (higher mean wind speed), both favorable characteristics for a wind speed distribution. </P>
+
+<P>Next to the Weibull functions, the diagrams also include the 5th, </P>
+
+<P>P. Bechtle et al. / Renewable Energy 141 (2019) 1103e1116 1109 </P>
+<Figure>
+
+<ImageData src="images/Bechtle et al. - 2019 - Airborne wind energy resource analysis_img_10.jpg"/>
+</Figure>
+
+<Sect>
+<P>Fig. 6. Optimal height analysis at the location N51.0 ,E1.0 </P>
+</Sect>
+
+<P>32nd, and 50th percentiles represented by square, cross, and circle markers, respectively. These percentile values are also listed in 
+<Link>Table 3</Link>
+. The percentiles for the actual distributions (shown in the diagrams) agree well with the percentiles for the corresponding Weibull ﬁts. In 
+<Link>Table 4</Link>
+, the wind speeds corresponding to the 5th, 32nd, and 50th percentiles of the reference and baseline cases are compared. </P>
+
+<P>All distributions have their maximum between the 32nd and 50th percentiles (markers and B, respectively) which is the range of most probable wind speeds. The ratio of percentiles of the variable-height case and ﬁxed-height percentiles is determined as </P>
+
+<P>percentile; variable height fnth percentile ¼ vn v th nth (5) percentile; fixed height </P>
+
+<P>which we denote in the following as increase factor. Even though this factor is highest for the 5th percentile, the corresponding absolute increase is lowest. The absolute increase shows an increasing trend for an increase in percentile rank. In contrast to this, the increase factor is lowest for the 32nd percentile. </P>
+
+<P>As already mentioned, the probability distribution's centroid is shifted towards substantially higher wind speeds when harvesting above 100 m. The largest shift is observed when increasing the ﬁxed height from 100 to 500 m. The shift is less pronounced when switching from the 500 m ﬁxed-height case to the baseline variable-height (500 m ceiling) case. Thus, allowing access to winds above 100 m yields the highest increase in the mean wind speed. This emphasizes the potential of airborne wind energy, even for this site that is very suitable for conventional turbine-based harvesting. </P>
+
+<P>The consistency of the wind is characterized by the 5th percentile of the distribution, where a high value indicates a high consistency. From 
+<Link>Table 3 </Link>
+we can see that the 100 and 500 m ﬁxed-height cases have an identical 5th percentile wind speed. In contrast, we can observe a signiﬁcant increase from the 500 m ﬁxed-height case to the baseline variable-height (500 m ceiling) case. This emphasizes the importance of continuously adjusting the harvesting height to the varying wind conditions for obtaining access to more consistent winds. </P>
+
+<P>
+<Link>Fig. 7</Link>
+d shows the differences between the distributions for variable-height harvesting with different ceiling heights. Note that the blue curves in 
+<Link>Fig. 7</Link>
+c and d are identical, referring to the baseline variable-height case with 500 m ceiling height. The most pronounced effect of increasing the ceiling height is the increase of the offset between the origin and the distribution, which results in a higher 5th percentile wind speed and thus higher consistency of </P>
+
+<P>in the English Channel during the ﬁrst week of 2016. </P>
+
+<P>the wind. Interestingly, the 5th, 32nd, and 50th percentile wind speeds of the 300 m ceiling variable-height case are virtually identical to those of the 1500 m ﬁxed-height case. However, the shape and thus the centroid (mean wind speed) of the two distributions are different, as can be seen in 
+<Link>Fig. 7</Link>
+e. The two functions intersect at 15 m/s and the distribution of the 1500 m ﬁxed-height case has higher probabilities for higher wind speeds. </P>
+
+<P>4. Results </P>
+
+<P>In the following we analyze the wind resource for a spatial grid mapping Western and Central Europe. In Section 
+<Link>4.1 </Link>
+we compare the baseline variable-height case with 500 m ceiling to the 100 m ﬁxed-height case using contour plots of the 5th, 32nd, and 50th percentiles. In Section 
+<Link>4.2 </Link>
+we investigate the wind energy potential of future AWE systems with ceiling heights up to 1500 m. </P>
+</Sect>
+</Sect>
+</Sect>
+
+<Sect>
+<H6>4.1. Wind speed and power availability for variable-height operation up to 500 m </H6>
+
+<P>The effect of variable-height harvesting on the wind speed distribution is shown in 
+<Link>Fig. 8</Link>
+. </P>
+
+<P>The absolute values (top row) show similar trends as the reference case, e.g. the general trend observed is an increase in wind speed in north-west direction starting from Italy. The bottom row shows the increase factors </P>
+
+<Sect>
+<P>percentile; 500 m ceiling</P>
+</Sect>
+
+<P>fnth vnth (6)</P>
+
+<Sect>
+<P>percentile ¼ vnth percentile; 100 m fixed </P>
+</Sect>
+
+<P>The 32nd percentile exhibits the smallest increase in potential wind speed as was also observed for the location in the English Channel. Above the continent, the coastal areas, and the Mediterranean Sea, the increase is more than 10%, whereas the increase above the Atlantic Ocean appears to be insigniﬁcant. The 5th percentile shows the highest increase in potential wind speed. Above coastal areas a 30% increase is common. Over Italy and the coast of Spain and Northern Africa the increase exceeds 50%. Peaks in the increase factor of more than 2 are found south of the Alps. Note that these high increase factors coincide with low absolute values in 
+<Link>Fig. 3</Link>
+. The use of low reference values explains the high relative increase at these sites. As already illustrated in 
+<Link>Table 4</Link>
+, the absolute increase at locations with higher reference values is easily underestimated. </P>
+
+<P>The wind power density deﬁned by Equation 
+<Link>(1) </Link>
+is a measure for the wind energy that is locally available for conversion. 
+<Link>Fig. 9 </Link>
+</P>
+<Figure>
+
+<ImageData src="images/Bechtle et al. - 2019 - Airborne wind energy resource analysis_img_11.jpg"/>
+</Figure>
+
+<P>Fig. 7. Resulting statistics of the optimal height at the location N51.0 ,E1.0 in the English Channel for the full data set. In the lower subplots ,, , and B refer to the 5th, 32nd, and 50th percentile wind speeds listed in 
+<Link>Table 3</Link>
+. </P>
+
+<P>Table 3 </P>
+
+<P>5th, 32nd, and 50th percentile wind speeds corresponding to the lines in 
+<Link>Fig. 7</Link>
+c and d. </P>
+
+<P>Fixed height Height [m] 5th percentile [m/s] 32nd percentile [m/s] 50th percentile [m/s] </P>
+
+<P>100 2.4 6.2 8.0 500 2.4 6.8 9.3 1500 2.7 7.1 9.5 </P>
+
+<P>Variable height Ceiling height [m] 5th percentile [m/s] 32nd percentile [m/s] 50th percentile [m/s] </P>
+
+<P>300 2.7 7.1 9.4 500 3.0 7.3 9.7 1000 3.7 8.0 10.3 1500 4.3 8.6 10.9 </P>
+
+<Table>
+<TR>
+<TH>P. Bechtle et al. / Renewable Energy 141 (2019) 1103e1116 </TH>
+
+<TH>1111 </TH>
+</TR>
+
+<TR>
+<TD>Table 4 Comparison of the percentiles of the 100 m ﬁxed-height case and baseline variable-height (500 m ceiling) case. Percentile Fixed-height case [m/s] Variable-height case [m/s] Absolute increase [m/s] </TD>
+
+<TD>Relative increase factor [ </TD>
+
+<TD>] </TD>
+</TR>
+
+<Caption>
+<P>5th 2.4 3.0 0.6 1.27 32nd 6.2 7.3 1.1 1.17 50th 8.0 9.7 1.7 1.21 </P>
+</Caption>
+</Table>
+<Figure>
+
+<ImageData src="images/Bechtle et al. - 2019 - Airborne wind energy resource analysis_img_12.jpg"/>
+</Figure>
+
+<P>Fig. 8. 5th, 32nd, and 50th percentiles of the wind speed probability distribution for the baseline variable-height (500 m ceiling) case (top) and the relative increase with respect to the 100 m ﬁxed-height case (bottom). </P>
+
+<P>illustrates the effect of variable-height harvesting on this property. </P>
+
+<P>The top panels show the geographical distribution of the 5th, 32nd, and 50th percentiles of the wind power density probability distribution that is available to a typical AWE system operated at variable height up to a ceiling of 500 m. The corresponding percentiles for a ﬁxed height of 100 m, characteristic for conventional wind turbines, are shown in 
+<Link>Fig. 4</Link>
+. The bottom panels of 
+<Link>Fig. 9 </Link>
+show the geographical distribution of the increase factor, deﬁned as the ratio of wind power densities available to AWE systems and conventional wind turbines </P>
+
+<P>Pw;nth percentile; 500 m ceilingfnth percentile ¼ (7)Pw;nth percentile; 100 m fixed </P>
+
+<P>Note that the color scales differ per plot. Since the wind power density is a function of the cube of the wind speed, the plotted percentile scores and increase factors are roughly the cube of those for the wind speed. Therefore, the same trends hold for the wind speed as for the power density. </P>
+
+<P>To draw rigid conclusions about the wind power availability, the energy conversion process should be taken into account, which is outside of the scope of this study. Archer [
+<Link>51</Link>
+] argues that the 5th percentile can be used as a generic proxy for the wind power availability. Previously it was shown that allowing a variable harvesting height greatly increases the 5th percentile of both the wind speed and wind power density probability distributions and thereby greatly increase the wind power availability. </P>
+
+<P>In the following analysis we assess the wind resource by investigating the availability of wind power densities of 40, 300, and 1600 W=m2. The availability A follows from the percentile rank PR corresponding to a wind power density value </P>
+
+<P>A ¼ 100% PR (8) </P>
+
+<P>The speciﬁed wind power densities roughly correspond to 4, 8, and 14 m/s wind speed at a height of 500 m. Note that in the analysis the harvesting height changes over time. Therefore, the wind speeds corresponding to the wind power density values are likely to be slightly different due to the changing air density. The values of 4 and 14 m/s correspond to typical cut-in and respectively rated wind speeds of conventional wind turbines. Increasing and decreasing the availability of the cut-in and respectively cut-out speed maximizes the operational time of a wind energy system and thereby the wind power availability. The approach of our optimal height analysis is inherent to increasing the availability with respect to the ﬁxed-height reference case. Additionally, the operating height could be adjusted such that not only low wind </P>
+<Figure>
+
+<ImageData src="images/Bechtle et al. - 2019 - Airborne wind energy resource analysis_img_13.jpg"/>
+</Figure>
+
+<P>Fig. 9. 5th, 32nd, and 50th percentiles of the wind power density probability distribution for the baseline variable-height (500 m ceiling) case (top) and the relative increase with respect to the 100 m ﬁxed-height case (bottom). </P>
+
+<P>speeds are avoided, but also high wind speeds. Such an approach allows further tailoring of the wind speed probability distribution to optimize the energy yield of an AWE system, exploiting its ability to adjust the harvesting height to the varying wind conditions, which is out of the scope of this study. The availability of the rated wind speed should be as high as possible to increase the energy yield. </P>
+
+<P>The wind power availability is more precisely predicted using the availability of the cut-in wind speed (or equivalent wind power density) than using the 5th percentile wind speed. Note that the availability of the cut-in wind speed is highly dependent on the magnitude of the cut-in wind speed, which differs substantially from concept to concept. Therefore, the availability of 4 m/s wind speed might give a false prediction of the wind power availability for some AWE concepts. </P>
+
+<P>
+<Link>Fig. 10 </Link>
+shows the outcome of the wind speed availability analysis. </P>
+
+<P>Again, the general trend observed is an increase in availability in north-west direction starting from Italy. For 40 W=m2 wind power density, the 90% availability contour line roughly follows the coast line of Northern Europe. Apparent is the low availability, below 50%, in the south of the Alps. For the coast line of Northern Europe, the availability of 1600 W=m2 wind power density is roughly 22%. Also apparent is the high availability at the Mediterranean coast of France. Most of the Mediterranean coastal areas score high on the availability increase </P>
+
+<P>DA ¼ A500 m ceiling A100 m fixed (9) </P>
+
+<P>relative to the reference case for 40 W=m2 wind power density. This is not the case for 1600 W=m2. Because of the high score on the 40 W=m2 availability increase, the overall increase of the wind power availability using AWE is most signiﬁcant for the Mediterranean coastal areas. The availability increase of 1600 W=m2 wind power density is highest for the United Kingdom, The Netherlands, northern Germany, Denmark, and Sweden. These countries also show a fair score on the availability increase for 40 W=m2. </P>
+
+<P>Following from the deﬁnition in Equation 
+<Link>(8)</Link>
+, the contour lines </P>
+
+<P>P. Bechtle et al. / Renewable Energy 141 (2019) 1103e1116 1113 </P>
+<Figure>
+
+<ImageData src="images/Bechtle et al. - 2019 - Airborne wind energy resource analysis_img_14.jpg"/>
+
+<Caption>
+<P>Fig. 10. Availability of 40, 300, and 1600 W=m2 wind power density for the baseline variable-height (500 m ceiling) case (top) and relative increase with respect to the 100 m ﬁxed-height case (right). </P>
+</Caption>
+</Figure>
+
+<P>of 50%, 68%, and 95% availability of a certain wind power density in 
+<Link>Fig. 10 </Link>
+correspond to the contour lines of that wind power density in the 50th, 32nd, and 5th percentile panels of 
+<Link>Fig. 9</Link>
+, respectively. In general, the availability of a certain wind power density decreases with increasing power density. For example, the availability at the 90% contour line for 40 W=m2 wind power density in Northern Europe decreases to roughly 60% and 22% for 300 and 1600 W=m2, respectively. </P>
+
+<P>The availability increase for 40 W=m2 wind power density emphasizes the potential base load capabilities increase of AWE systems compared to conventional wind turbines. Not only at Mediterranean coastal areas, where the highest availability increase is observed, but over most of Europe the increase is substantial. For instance, over the coast line of Northern Europe the availability is increased by roughly 4.4%, which is signiﬁcant considering the already high reference availability of roughly 80% for conventional wind technology. The increase for 40 W=m2 is mainly realized by the ability of AWE technology to adjust the harvesting height to the varying wind conditions as argued in Section 
+<Link>3.3</Link>
+. </P>
+
+<Sect>
+<H6>4.2. Wind power availability for variable-height operation with other ceilings </H6>
+
+<P>So far, we have only discussed the baseline variable-height case, for which the harvesting ceiling height is set to 500 m. In a next step, we investigate the effect of the ceiling height on the availability by repeating the availability analysis for 40 W=m2 wind power density. In this section, the availability increase is deﬁned relative to the baseline variable-height case </P>
+
+<P>DA ¼ Aalternative ceiling A500 m ceiling (10) </P>
+
+<P>
+<Link>Fig. 11 </Link>
+shows the outcome of this analysis for ceiling heights of 1000, and 1500 m. </P>
+
+<Sect>
+<P>On ﬁrst sight, the plots for each alternative ceiling height appear to be similar. Note that the color scales differ per plot. For a 300 m ceiling, the 90% availability contour line is roughly parallel to the coast line of Northern Europe. A shift of this contour line can be observed when increasing the ceiling height, indicating an expanding area for which 40 W=m2 has an availability of at least 90%. Again, the lowest availability is observed in the south of the Alps, roughly 20%, 35%, and 50% for ceiling heights of 300, 1000, and 1500 m, respectively (below color scale range). The highest availability can be found west of the United Kingdom, roughly 94%, 96%, and 97% for ceiling heights of 300, 1000, and 1500 m, respectively. </P>
+</Sect>
+<Figure>
+
+<ImageData src="images/Bechtle et al. - 2019 - Airborne wind energy resource analysis_img_15.jpg"/>
+
+<Caption>
+<P>Fig. 11. Availability of 40 W=m2 wind power density for variable-height cases with 300, 1000, and 1500 m ceiling (top) and the corresponding decrease or increase relative to the baseline variable-height case with 500 m ceiling (bottom). </P>
+</Caption>
+</Figure>
+
+<P>
+<Link>Fig. 11 </Link>
+(bottom) shows the decrease or increase with respect to the baseline variable-height case. Note that the availability decreases for the reduced ceiling height of 300 m and increases for 1000 and 1500 m ceiling height. The highest increase of wind power availability can be found south of the Alps and in the Mediterranean coastal areas. Note that the areas with the highest availability increase coincide with the areas with the lowest availability, which allow more room for increase. The availability increase of 40 W=m2 wind power density in 
+<Link>Fig. 10 </Link>
+shows the same trend as the availability increase with the ceiling height. In the former, the increase was deﬁned relative to the reference ﬁxed-height case. The effect of switching from a ﬁxed harvesting height to a variable harvesting height on the availability of 40 W=m2 wind power density is thus similar to increasing the ceiling height for variable-height harvesting. The same does not per se hold for higher wind power densities. </P>
+
+<P>As expected, the ceiling height in the variable-height analysis signiﬁcantly affects the availability of 40 W=m2 wind power density. For example, the contour line crossing the center of France and Germany in the availability increase plots indicate a 2.2%, 4.6%, and 7.6% increase compared to the 500 m ceiling height case. The decrease is caused by the reduced ceiling height. An increase is mainly realized by the increased minimum probable wind speed for increasing ceiling height, as shown in Section 
+<Link>3.3</Link>
+. </P>
+
+<P>5. Conclusions </P>
+
+<P>We assess the available wind resources over a large part of </P>
+
+<P>P. Bechtle et al. / Renewable Energy 141 (2019) 1103e1116 1115 </P>
+
+<P>Europe using the recently released ERA5 reanalysis data which covers a period of 7 years with hourly estimates at a surface resolution of 31 31 km and a vertical resolution of 137 barometric altitude levels. From this data, we derive 24 levels between 10 and 1500 m height above ground at a surface resolution of 110 110 km. The analysis is focused on the paradigm of airborne wind energy (AWE): adjusting the harvesting operation up to a predeﬁned ceiling height and allowing access to higher altitudes where winds are generally stronger and more persistent. For the ﬁrst envisaged AWE systems, a ceiling height of 500 m is assumed. The operational details, conversion efﬁciency, and economic boundary conditions vary strongly between different AWE concepts because they are optimized for different conditions and applications. Therefore, in this study, we assess only the potential energy yield and do not account for a speciﬁc power conversion mechanism. </P>
+
+<P>The effect of variable-height harvesting is demonstrated for a location in the English Channel. We show the potential of obtaining access to stronger winds by harvesting energy beyond the reach of conventional tower-based wind turbines. We further show that the ability to continuously adjust the harvesting operation to the varying wind conditions is paramount for increasing the minimum probable wind speed and thus obtaining more consistent wind resources. </P>
+
+<P>The available wind resource for variable-height harvesting with a 500 m ceiling is analyzed and compared to the wind resource at a ﬁxed height of 100 m, which represents a typical hub height of a wind turbine. First, the increases of the 5th, 32nd, 50th percentile wind speeds are investigated. The increase of the 5th percentile is most prominent, i.e. the wind speed that is exceeded 95% of the time. Over coastal areas a 30% increase is common. Over Italy and the coast of Spain and Northern Africa the increase exceeds 50%. The increase is less substantial for the 32nd and 50th percentile wind speeds. </P>
+
+<P>More relevant for assessing the potential electricity generation is the wind power density and for this reason we repeat the analysis for this ﬂow property. The 5th percentile wind power density increases by more than 100% over most of Europe compared to the 100 m ﬁxed-height case. As an alternative we assess the availability of wind power densities of 40, 300, and 1600 W=m2. The availability of 40 W=m2 approximately describes the percentage of time for which a typical cut-in wind speed of a wind turbine is exceeded. Over most of Europe, the availability is more than 80% for variable-height harvesting with a 500 m ceiling. </P>
+
+<P>The increase of the 40 W=m2 availability emphasizes the increase of base load capability of AWE systems when compared to conventional wind turbines. Not only at Mediterranean coastal areas, where an availability increase of 8e10% is common, but over most of Europe the increase is substantial. Especially considering the high reference availability for conventional wind technology. </P>
+
+<P>Finally, we investigate how ceiling heights of 300, 1000, and 1500 m above ground affect the availability. As expected, this parameter signiﬁcantly inﬂuences the 40 W=m2 availability for variable-height harvesting. The most prominent effect of changing the ceiling height is observed over the Mediterranean coast, but over most of the land mass an increase of 5% or more is observed when increasing the ceiling height from 500 to 1500 m. </P>
+
+<P>As a follow-up to the present study, the analysis will be extended to include representative power conversion mechanisms of convention wind turbines and AWE systems. This should shed more light on the Annual Energy Production and base load capability of AWE systems compared to conventional wind turbines. Furthermore, this analysis could be used as a basis in assessing the role of AWE systems in the future global energy mix. </P>
+
+<P>Acknowledgements </P>
+
+<P>The present analysis is based on data generated using Copernicus Climate Change Service Information 2011e2017. Without the publicly available ERA5 wind data set by the European Center for Medium-Range Weather Forecasts (ECMWF), this work would not have been possible. The authors would thus like to express their gratitude and support for open data and open science. Mark Schelbergen and Roland Schmehl have received ﬁnancial support by the project REACH (H2020-FTIPilot-691173), funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 691173, and AWESCO (H2020-ITN642682) funded by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No. 642682. </P>
+
+<P>Appendix A. Supplementary data </P>
+
+<P>Supplementary data to this article can be found online at 
+<Link>https://doi.org/10.1016/j.renene.2019.03.118</Link>
+. </P>
+
+<P>References </P>
+
+<P>[1] C.L. Archer, M.Z. Jacobson, Evaluation of global wind power, J. Geophys. Res.: Atmos. 110 (D12) (2015), 
+<Link>https://doi.org/10.1029/2004JD005462</Link>
+. </P>
+
+<P>[2] L.M. Miller, F. Gans, A. Kleidon, Estimating maximum global land surface wind power extractability and associated climatic consequences, Earth Syst. Dynam. 2 (1) (2011) 1e12, 
+<Link>https://doi.org/10.5194/esd-2-1-2011</Link>
+. </P>
+
+<P>[3] M.Z. Jacobson, C.L. Archer, Saturation wind power potential and its implications for wind energy, Proc. Natl. Acad. Sci. Unit. States Am. 109 (39) (2012) 15679e15684, 
+<Link>https://doi.org/10.1073/pnas.1208993109</Link>
+. </P>
+
+<P>[4] A.S. Adams, D.W. Keith, Are global wind power resource estimates overstated? Environ. Res. Lett. 8 (1) (2013), 015021 
+<Link>https://doi.org/10.1088/1748-9326/8/ </Link>
+
+<Link>1/015021</Link>
+. </P>
+
+<P>[5] L.M. Miller, N.A. Brunsell, D.B. Mechem, F. Gans, A.J. Monaghan, R. Vautard, et al., Two methods for estimating limits to large-scale wind power generation, Proc. Natl. Acad. Sci. Unit. States Am. (2015), 
+<Link>https://doi.org/10.1073/ </Link>
+
+<Link>pnas.1408251112</Link>
+. </P>
+
+<P>[6] S. Emeis (Ed.), Wind Energy Meteorology e Atmospheric Physics for Wind Power Generation. Green Energy and Technology, Springer, Cham, 2018, 
+<Link>https://doi.org/10.1007/978-3-319-72859-9</Link>
+. </P>
+
+<P>[7] E. Dupont, R. Koppelaar, H. Jeanmart, Global available wind energy with physical and energy return on investment constraints, Appl. Energy 209 (2018) 322e338. 
+<Link>https://doi.org/10.1016/j.apenergy.2017.09.085</Link>
+. </P>
+
+<P>[8] U. Zillmann, P. Bechtle, Emergence and economic dimension of airborne wind energy, in: R. Schmehl (Ed.), Airborne Wind Energy e Advances in Technology Development and Research; Chap. 1, Green Energy and Technology, Springer, Singapore, 2018, pp. 1e25. 
+<Link>https://doi.org/10.1007/978-981-10-1947-0_1</Link>
+. </P>
+
+<P>[9] A. Cherubini, A. Papini, R. Vertechy, M. Fontana, Airborne wind energy systems: a review of the technologies, Renew. Sustain. Energy Rev. 51 (2015) 1461e1476, 
+<Link>https://doi.org/10.1016/j.rser.2015.07.053</Link>
+. </P>
+
+<P>[10] M. Diehl, R. Leuthold, R. Schmehl (Eds.), The International Airborne Wind Energy Conference 2017: Book of Abstracts, University of Freiburg & Delft University of Technology, Freiburg, Germany, 2017. 
+<Link>https://doi.org/10.6094/ </Link>
+
+<Link>UNIFR/12994</Link>
+,5e6 October 2017. </P>
+
+<P>[11] R. Schmehl (Ed.), Airborne Wind Energy e Advances in Technology Development and Research, Green Energy and Technology, Springer, Singapore, 2018. 
+<Link>https://doi.org/10.1007/978-981-10-1947-0</Link>
+. </P>
+
+<P>[12] F. Friedl, L. Braun, R. Schmehl, M. Stripf, Fault-tolerant and reliable design of a pumping kite power system, in: Book of Abstracts, EST, Energy Science Technology, International Conference & Exhibition. Karlsruhe, Germany; 20e22 May, 2015. 
+<Link>https://publikationen.bibliothek.kit.edu/1000044290</Link>
+. </P>
+
+<P>[13] C. Perez Damas, B. Gozluklu, Safety analysis of airborne wind energy systems, in: M. Diehl, R. Leuthold, R. Schmehl (Eds.), Book of Abstracts of the International Airborne Wind Energy Conference 2017, University of Freiburg & Delft University of Technology, Freiburg, Germany, 2017. 
+<Link>http://resolver. </Link>
+
+<Link>tudelft.nl/uuid:18e9bdfe-6c01-454f-9cfa-cf63cc3c0379</Link>
+,5e6 October 2017. </P>
+
+<P>[14] P. Faggiani, R. Schmehl, Design and economics of a pumping kite wind park, in: R. Schmehl (Ed.), Airborne Wind Energy e Advances in Technology Development and Research; Chap. 16. Green Energy and Technology, Springer, Singapore, 2018, pp. 391e411, 
+<Link>https://doi.org/10.1007/978-981-10</Link>
+
+<Link>1947-0_16</Link>
+. </P>
+
+<P>[15] M. Meister, C. Maly, T. Schomerus, Windenergiedrachen e Rechtsfragen bei Installation und Betrieb, EnergieRecht 4 (2016) 160e167. 
+<Link>https://www. </Link>
+
+<Link>ERdigital.de/ER.04.2016.160</Link>
+. </P>
+
+<P>[16] V. Salma, R. Ruiterkamp, M. Kruijff, M.M.R. van Paassen, R. Schmehl, Current and expected airspace regulations for airborne wind energy systems, in: </P>
+
+<Sect>
+<P>R. Schmehl (Ed.), Airborne Wind Energy e Advances in Technology Development and Research; Chap. 29. Green Energy and Technology, Springer, Singapore, 2018, pp. 703e725, 
+<Link>https://doi.org/10.1007/978-981-10</Link>
+
+<Link>1947-0_29</Link>
+. </P>
+</Sect>
+
+<P>[17] R.B. Stull, An introduction to boundary layer meteorology, in: Of Atmospheric and Oceanographic Sciences Library, vol. 13, Springer Netherlands, 1988, 
+<Link>https://doi.org/10.1007/978-94-009-3027-8</Link>
+. </P>
+
+<P>[18] C.L. Archer, K. Caldeira, Global assessment of high-altitude wind power, Energies 2 (2) (2009) 307e319, 
+<Link>https://doi.org/10.3390/en20200307</Link>
+. </P>
+
+<P>[19] C.L. Archer, K. Caldeira, Tech. Rep., Atlas of High Altitude Wind Power, vol. 260, Department of Global Ecology, Carnegie Institute for Science, Panama Street, Stanford, CA 94305, 2008, 
+<Link>http://www.mdpi.com/1996-1073/2/2/307/ </Link>
+
+<Link>s1</Link>
+. </P>
+
+<P>[20] L.M. Miller, F. Gans, A. Kleidon, Jet stream wind power as a renewable energy resource: little power, big impacts, Earth Syst. Dynam. 2 (2) (2011) 201e212, 
+<Link>https://doi.org/10.5194/esd-2-201-2011</Link>
+. </P>
+
+<P>[21] K. Marvel, B. Kravitz, K. Caldeira, Geophysical limits to global wind power, Nat. Clim. Change 3 (2013) 118e121, 
+<Link>https://doi.org/10.1038/nclimate1683</Link>
+. </P>
+
+<P>[22] C.L. Archer, L.D. Monache, D.L. Rife, Airborne wind energy: optimal locations and variability, Renew. Energy 64 (2014) 180e186, 
+<Link>https://doi.org/10.1016/ </Link>
+
+<Link>j.renene.2013.10.044</Link>
+. </P>
+
+<P>[23] A. Gambier, Projekt OnKites : Untersuchung zu den Potentialen von Flugwindenergieanlagen (FWEA), Final Project Report, Fraunhofer Institute for Wind Energy and Energy System Technology IWES, Bremerhaven, Germany, 2014, 
+<Link>https://doi.org/10.2314/GBV:81573428X</Link>
+. </P>
+
+<P>[24] A. Gambier, I. Bastigkeit, E. Nippold, Projekt OnKites II : Untersuchung zu den Potentialen von Flugwindenergieanlagen (FWEA) Phase II, Final Project Report, Fraunhofer Institute for Wind Energy and Energy System Technology IWES, Bremerhaven, Germany, 2017, 
+<Link>https://doi.org/10.2314/GBV: </Link>
+
+<Link>1009915452</Link>
+. </P>
+
+<P>[25] E. Lunney, M. Ban, N. Duic, A. Foley, A state-of-the-art review and feasibility analysis of high altitude wind power in northern Ireland, Renew. Sustain. Energy Rev. 68 (2017) 899e911. 
+<Link>https://doi.org/10.1016/j.rser.2016.08.014</Link>
+. </P>
+
+<P>[26] C.M.A. Yip, U.B. Gunturu, G.L. Stenchikov, High-altitude wind resources in the middle east, Sci. Rep. 7 (9885) (2017) 1e10, 
+<Link>https://doi.org/10.1038/s41598</Link>
+
+<Link>017-10130-6</Link>
+. </P>
+
+<P>[27] Dutch Offshore Wind Atlas, 
+<Link>https://www.dutchoffshorewindatlas.nl/</Link>
+, Accessed 23 January 2019. </P>
+
+<P>[28] J. Olauson, ERA5: The new champion of wind power modelling? Renew. Energy 126 (2018) 322e331, 
+<Link>https://doi.org/10.1016/j.renene.2018.03.056</Link>
+. </P>
+
+<P>[29] European Centre for Medium Range Weather Forecasts (ECMWF), ERA5. 
+<Link>https://www.ecmwf.int/en/forecasts/datasets/archive-datasets/reanalysis</Link>
+
+<Link>datasets/era5. </Link>
+(Accessed 3 April 2018). </P>
+
+<P>[30] European Centre for Medium Range Weather Forecasts (ECMWF), ERA5 Data Documentation. 
+<Link>https://software.ecmwf.int/wiki/display/CKB/ </Link>
+
+<Link>ERA5</Link>
+þ
+<Link>data</Link>
+þ
+<Link>documentation</Link>
+. (Accessed 3 April 2018). </P>
+
+<P>[31] F. Wentz, Measurement of oceanic wind vector using satellite microwave radiometers, IEEE Trans. Geosci. Remote Sens. 30 (5) (1992) 960e972, 
+<Link>https:// </Link>
+
+<Link>doi.org/10.1109/36.175331</Link>
+. </P>
+
+<P>[32] L. Zhang, H. Shi, H. Du, E. Zhu, Z. Zhang, X. Fang, Comparison of WindSat and buoy-measured ocean products from 2004 to 2013, Acta Oceanol. Sin. 35 (1) (2016) 67e78, 
+<Link>https://doi.org/10.1007/s13131-016-0798-9</Link>
+. </P>
+
+<P>[33] E. Andersson, A. Garcia-Mendez, Assessment of European wind proﬁler data, in: an NWP Context. Technical Memorandum 372; European Centre for Medium-Range Weather Forecasts; Shinﬁeld Park, Reading, 2002. 
+<Link>https:// </Link>
+
+<Link>www.ecmwf.int/sites/default/ﬁles/elibrary/2002/7749-assessment-european</Link>
+
+<Link>wind-proﬁler-data-nwp-context.pdf</Link>
+. </P>
+
+<P>[34] D.S. Richardson, J. Bidlot, L. Ferranti, A. Ghelli, T. Haiden, T. Hewson, et al., Veriﬁcation Statistics and Evaluations of ECMWF Forecasts in 2011-2012. ECMWF Technical Memoranda; European Centre for Medium-Range Weather Forecasts, 2012. 
+<Link>https://www.ecmwf.int/sites/default/ﬁles/elibrary/2012/ </Link>
+
+<Link>11917-veriﬁcation-statistics-and-evaluations-ecmwf-forecasts-2011-2012. </Link>
+</P>
+
+<P>
+<Link>pdf</Link>
+. </P>
+
+<P>[35] L. Zhang, H. Shi, Z. Wang, H. Yu, X. Yin, Q. Liao, Comparison of wind speeds from spaceborne microwave radiometers with in situ observations and ecmwf data over the global ocean, Rem. Sens. 10 (3) (2018) 425, 
+<Link>https://doi.org/ </Link>
+
+<Link>10.3390/rs10030425</Link>
+. </P>
+
+<P>[36] World Meterological Organization, WMO Information System. 
+<Link>http://www. </Link>
+
+<Link>wmo.int/pages/prog/www/WIS/</Link>
+. (Accessed 3 April 2018). </P>
+
+<P>[37] P. Gaiser, K. Germain, E. Twarog, G. Poe, W. Purdy, D. Richardson, et al., The WindSat spaceborne polarimetric microwave radiometer: sensor description and early orbit performance, IEEE Trans. Geosci. Remote Sens. 42 (11) (2004), 
+<Link>https://doi.org/10.1109/TGRS.2004.836867</Link>
+. </P>
+
+<P>[38] T. Harmel, M. Chami, Estimation of the sunglint radiance ﬁeld from optical satellite imagery over open ocean: multidirectional approach and polarization aspects, J. Geophys. Res. Oceans 118 (1) (2013) 76e90, 
+<Link>https://doi.org/ </Link>
+
+<Link>10.1029/2012JC008221</Link>
+. </P>
+
+<P>[39] D. Vander Lind, Analysis and ﬂight test validation of high performance airborne wind turbines, in: U. Ahrens, M. Diehl, R. Schmehl (Eds.), Airborne Wind Energy; Chap. 28. Green Energy and Technology, Springer, Berlin Heidelberg, 2013, pp. 473e490, 
+<Link>https://doi.org/10.1007/978-3-642-39965-7_28</Link>
+. </P>
+
+<P>[40] R. van der Vlugt, J. Peschel, R. Schmehl, Design and experimental characterization of a pumping kite power system, in: U. Ahrens, M. Diehl, R. Schmehl (Eds.), Airborne Wind Energy; Chap. 23. Green Energy and Technology, Springer, Berlin Heidelberg, 2013, pp. 403e425, 
+<Link>https://doi.org/10.1007/978</Link>
+
+<Link>3-642-39965-7_23</Link>
+. </P>
+
+<P>[41] R. van der Vlugt, A. Bley, M. Noom, R. Schmehl, Quasi-steady model of a pumping kite power system, Renew. Energy 131 (2019) 83e99, 
+<Link>https:// </Link>
+
+<Link>doi.org/10.1016/j.renene.2018.07.023</Link>
+. </P>
+
+<P>[42] R. Ruiterkamp, S. Sieberling, Description and preliminary test results of a six degrees of freedom rigid wing pumping system, in: U. Ahrens, M. Diehl, </P>
+
+<P>R. Schmehl (Eds.), Airborne Wind Energy; Chap. 26. Green Energy and Technology, Springer, Berlin Heidelberg, 2013, pp. 443e458, 
+<Link>https://doi.org/ </Link>
+
+<Link>10.1007/978-3-642-39965-7_26</Link>
+. </P>
+
+<P>[43] S. Mann, K. Gunn, G. Harrison, B. Beare, I. Lazakis, Wind yield assessment for airborne wind energy, in: poster presented at the EWEA Offshore 2015 Conference, Copenhagen; 10e12 March, 2015. 
+<Link>http://www.ewea.org/ </Link>
+
+<Link>offshore2015/conference/allposters/PO090.pdf</Link>
+. </P>
+
+<P>[44] M. Ranneberg, D. Wol€ ﬂe, A. Bormann, P. Rohde, F. Breipohl, I. Bastigkeit, Fast power curve and yield estimation of pumping airborne wind energy systems, in: R. Schmehl (Ed.), Airborne Wind Energy e Advances in Technology Development and Research; Chap. 25. Green Energy and Technology, Springer, Singapore, 2018, 
+<Link>https://doi.org/10.1007/978-981-10-1947-0_25</Link>
+. </P>
+
+<P>[45] P. Bechtle, M. Schelbergen, R. Schmehl, U. Zillmann, S. Watson, Python Code for Airborne Wind Energy Resource Analysis Based on the ERA5 Dataset, 2018. 
+<Link>https://github.com/rschmehl/awe-era5/</Link>
+. (Accessed 1 March 2019). </P>
+
+<P>[46] P. Bechtle, M. Schelbergen, R. Schmehl, U. Zillmann, S. Watson, ERA5 Reanalysis Data for Airborne Wind Energy Resource Analysis, Dataset, 2018, 
+<Link>https://doi.org/10.4121/uuid:646eaf3f-c90b-4f22-89bf-8986804def3c</Link>
+. </P>
+
+<P>[47] T. Burton, N. Jenkins, D. Sharpe, E. Bossanyi, Wind Energy Handbook, 2 ed., John Wiley & Sons, Ltd, Chichester, 2011 
+<Link>https://doi.org/10.1002/ </Link>
+
+<Link>9781119992714</Link>
+. </P>
+
+<P>[48] G. van Kuik, The Fluid Dynamic Basis for Actuator Disc and Rotor Theories, IOP Press, Amsterdam, 2018, 
+<Link>https://doi.org/10.3233/978-1-61499-866-2-i</Link>
+. </P>
+
+<P>[49] M.D. Lellis, R. Reginatto, R. Saraiva, A. Troﬁno, The Betz limit applied to airborne wind energy, Renew. Energy 127 (2018) 32e40, 
+<Link>https://doi.org/ </Link>
+
+<Link>10.1016/j.renene.2018.04.034</Link>
+. </P>
+
+<P>[50] J.N. Sensen, G.C. Larsen, Towards the North Sea wind power revolution, Wind Energy Sci. Dis. (2018) 1e27, 
+<Link>https://doi.org/10.5194/wes-2018-53</Link>
+. </P>
+
+<P>[51] C. Archer, An introduction to meteorology for airborne wind energy, in: </P>
+
+<P>U. Ahrens, M. Diehl, R. Schmehl (Eds.), Airborne Wind Energy; Chap. 5, Green Energy and Technology, Springer, Berlin Heidelberg, 2013, pp. 81e94. 
+<Link>https:// </Link>
+
+<Link>doi.org/10.1007/978-3-642-39965-7_5</Link>
+. </P>
+</Sect>
+</Sect>
+</Sect>
+</Sect>
+</Part>
+</TaggedPDF-doc>

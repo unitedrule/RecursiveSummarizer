@@ -1,0 +1,29 @@
+PROMPT:
+
+<<INSTRUCTIONS>>
+
+For the following research article do the folllowing:
+- What is the purpose of the research
+- What is the research question?
+- What is the problem/issue the research is trying to solve?
+- What is the scope of th research
+- Who are the participants in the research
+- What is the approach/method useD in the research to answear the research questions
+- What are the key results, figure, measurementsm outcomes, ... of the research according to the research authors
+- What are the limitations of the reasearch according to the research authors
+- What are the implications of the reasearch according to the research authors
+- How significant are the research findings according to the research authors
+- Discuss and summarize the research article based on he previous points
+
+<<RESEARCH ARTICLE>>
+
+Energy Agency, &quot;Innovation Outlook: Offshore Wind,&quot; 2016. [Online]. Available: https://www.irena.org/publications/2016/oct/innovation-outlook-offshore-wind. [Accessed 11 June 2021]. </P> </TD> </TR>  <TR> <TH> <P xml:lang="EN-US">[15]  </P> </TH>  <TD> <P xml:lang="EN-US">P. Bechtle, &quot;Resource Potential: Wind Studies and Power Curves,&quot; in IEA Wind Topical Expert Meeting #102, Virtual, 2020.  </P> </TD> </TR>  <TR> <TH> <P xml:lang="EN-US">[16]  </P> </TH>  <TD> <P xml:lang="EN-US">R. Schmehl, &quot;Airborne Wind Energy R&amp;D Overview EU/Global,&quot; in US Airborne Energy Workshop, Virtual, 2021.  </P> </TD> </TR>  <TR> <TH> <P xml:lang="EN-US">[17]  </P> </TH>  <TD> <P xml:lang="EN-US">W. Schmidt and W. Anderson, &quot;Kites: Pioneers of Atmospheric Research,&quot; in Airborne Wind Energy, U. Ahrens, M. Diehl and R. Schmehl, Eds., Springer, 2013.  </P> </TD> </TR>  <TR> <TH> <P xml:lang="EN-US">[18]  </P> </TH>  <TD> <P xml:lang="EN-US">H. Honnef, &quot;High Wind Power Plants,&quot; NASA Technical Translation, Washington D.C., April 1974. </P> </TD> </TR>  <TR> <TH> <P xml:lang="EN-US">[19]  </P> </TH>  <TD> <P xml:lang="EN-US">NASA History, &quot;Spaceflight Revolution: In the Sevice of Apollo,&quot; [Online]. Available: https://history.nasa.gov/SP-4308/ch11.htm#382. [Accessed 4 March 2021]. </P> </TD> </TR>  <TR> <TH> <P xml:lang="EN-US">[20]  </P> </TH>  <TD> <P xml:lang="EN-US">Wikipedia, &quot;Power Kite,&quot; [Online]. Available: https://en.wikipedia.org/wiki/Power_kite#History. [Accessed 4 March 2021]. </P> </TD> </TR>  <TR> <TH> <P xml:lang="EN-US">[21]  </P> </TH>  <TD> <P xml:lang="EN-US">H. Oberth, &quot;Verbessertes Drachenkraftwerk&quot;. Germany Patent DE2720339, 1977. </P> </TD> </TR>  <TR> <TH> <P xml:lang="EN-US">[22]  </P> </TH>  <TD> <P xml:lang="EN-US">B. W. Roberts and J. Blackler, &quot;Various Systems for Generation of Electricity Using Upper Atmospheric Winds,&quot; in 2nd Wind Energy Innovation Systems Conference,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+As the provided text does not include a complete research article, it's impossible to summarize it based on the given points. The text appears to be a list of references from various sources, including books, patents, conferences, and online publications. These sources cover topics like offshore wind energy, wind studies and power curves, airborne wind energy, and the history of power kites. However, without the full research article, we can't determine the purpose of the research, the research question, the problem or issue the research is trying to solve, the scope of the research, who participated in it, what approach or method was used, what key results were obtained, any limitations noted by the authors, any implications of the research according to the authors, or how significant the findings are.

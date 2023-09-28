@@ -1,0 +1,29 @@
+PROMPT:
+
+<<INSTRUCTIONS>>
+
+For the following research article do the folllowing:
+- What is the purpose of the research
+- What is the research question?
+- What is the problem/issue the research is trying to solve?
+- What is the scope of th research
+- Who are the participants in the research
+- What is the approach/method useD in the research to answear the research questions
+- What are the key results, figure, measurementsm outcomes, ... of the research according to the research authors
+- What are the limitations of the reasearch according to the research authors
+- What are the implications of the reasearch according to the research authors
+- How significant are the research findings according to the research authors
+- Discuss and summarize the research article based on he previous points
+
+<<RESEARCH ARTICLE>>
+
+AWE technology. </LBody> </LI> </L>  <P xml:lang="EN-US">The above elements and activities are integral parts of a whole concept. All are important, but their relative priority and timing over a 10-year period would be determined by the desired commercial timeline, availability of funding from various sources, and the targeted AWE market.  </P>  <H1 id="LinkTarget_661" xml:lang="EN-US">VII. References </H1>  <P xml:lang="EN-US"> </P>  <Table> <TR> <TH> <P xml:lang="EN-US">[1]  </P> </TH>  <TH> <P xml:lang="EN-US">M. L. Loyd, &quot;Crosswind Kite Power,&quot; Journal Energy, vol. 4, no. 3, pp. 106-111, 1980.  </P> </TH> </TR>  <TR> <TH> <P xml:lang="EN-US">[2]  </P> </TH>  <TD> <P xml:lang="EN-US">R. Schmehl, &quot;Airborne Wind Energy Explained,&quot; 20 June 2019. [Online]. Available: http://www.awesco.eu/awe-explained/. </P> </TD> </TR>  <TR> <TH> <P xml:lang="EN-US">[3]  </P> </TH>  <TD> <P xml:lang="EN-US">T. Nam, O. Vahid, R. Gupta and R. K. Kapania, &quot;High Altitude Airborne Wind Energy,&quot; in AIAA SciTech Forum, Virtual Event, 2021.  </P> </TD> </TR>  <TR> <TH> <P xml:lang="EN-US">[4]  </P> </TH>  <TD> <P xml:lang="EN-US">&quot;Omnidea Aerial Platforms,&quot; [Online]. Available: https://www.omnidea.net/aerial-platforms.html. [Accessed 10 February 2021]. </P> </TD> </TR>  <TR> <TH> <P xml:lang="EN-US">[5]  </P> </TH>  <TD> <P xml:lang="EN-US">&quot;Altaeros,&quot; [Online]. Available: https://www.altaeros.com/. [Accessed 10 February 2021]. </P> </TD> </TR>  <TR> <TH> <P xml:lang="EN-US">[6]  </P> </TH>  <TD> <P xml:lang="EN-US">J. Weber, M. Marquis, A. Lemke, A. Cooperman, C. Draxl, A. Lopez, O. Roberts and M. Shields, &quot;Proceedings of the 2021 Airborne Wind Energy Workshop,&quot; National Renewable Energy Laboratory, Golden, CO, 2021. </P> </TD> </TR>  <TR> <TH> <P xml:lang="EN-US">[7]  </P> </TH>  <TD> <P xml:lang="EN-US">J. Weber, M. Marquis, A. Cooperman, C. Draxl, R. Hammond, J. Jonkman, A. Lemke, A. Lopez, R. Mudafort, M. Optis, O. Roberts and
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Apologies, but the research article provided does not include enough information to answer your queries. It appears to be about Airborne Wind Energy (AWE) technology, but the text provided does not include details about the research's purpose, questions, problem it's trying to solve, scope, participants, methodology, results, limitations, implications, or significance. Furthermore, without these details, a summary of the research article cannot be provided. Please provide the full text of the research for a detailed analysis and summary.
